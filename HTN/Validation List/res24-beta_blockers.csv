@@ -1,0 +1,404 @@
+code,coding_system,description,entity,list_name,upload_date,bnfcode
+1006,CPRD_product_code,HALF-INDERAL LA capsules 80mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+10191,CPRD_product_code,ATENIX tablets 50mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+10294,CPRD_product_code,INDERAL injection 1mg/ml [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/06020200
+10429,CPRD_product_code,LOPRESOR tablets 50mg [NOVARTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+1048,CPRD_product_code,INDERAL tablets 80mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+1050,CPRD_product_code,INDERAL tablets 40mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+10627,CPRD_product_code,CO-BETALOC tablets 100mg + 12.5mg [PHARMACIA],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+10716,CPRD_product_code,CORGARD tablets 80mg [SANOFI/AVE],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/06020200
+10777,CPRD_product_code,TRASICOR tablets 160mg [NOVARTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+10892,CPRD_product_code,EMCOR tablets 10mg [MERCK SER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+1124,CPRD_product_code,TENORETIC tablets 100mg + 25mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+11338,CPRD_product_code,bendroflumethiazide with nadolol tablets 5mg + 40mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+11380,CPRD_product_code,SOTACOR tablets 160mg [BRISTOL],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+11711,CPRD_product_code,propranolol oral solution 50mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+11793,CPRD_product_code,metoprolol tartrate suspension 50mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+12037,CPRD_product_code,BETIM tablets 10mg [ICN],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402
+12054,CPRD_product_code,propranolol with bendroflumethiazide capsules 80mg + 2.5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+12141,CPRD_product_code,betaxolol hydrochloride tablets 20mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+12296,CPRD_product_code,SECTRAL capsules 100mg [AVENTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+12456,CPRD_product_code,SOTAZIDE tablets [BRISTOL],drug,178 - res24: beta_blockers,2015-03-12,02040000
+12495,CPRD_product_code,BERKOLOL tablets 10mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+12517,CPRD_product_code,timolol maleate with bendroflumethiazide tablets 20mg + 5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+12519,CPRD_product_code,KERLONE tablets 20mg [SANOFI S],drug,178 - res24: beta_blockers,2015-03-12,02040000
+12651,CPRD_product_code,timolol maleate with bendroflumethiazide tablets 10mg + 2.5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+1288,CPRD_product_code,TENORET tablets 50mg + 12.5mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+1290,CPRD_product_code,bisoprolol tablets 10mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+1295,CPRD_product_code,labetalol hydrochloride tablets 400mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+13051,CPRD_product_code,sotalol tablets 200mg,drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+1333,CPRD_product_code,oxprenolol tablets 40mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+1334,CPRD_product_code,oxprenolol modified release tablet 160mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+13394,CPRD_product_code,TENORMIN syrup 25mg/5ml [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+13415,CPRD_product_code,CORGARD tablets 40mg [SANOFI/AVE],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/06020200
+13487,CPRD_product_code,BETA-CARDONE tablets 200mg [FOCUS],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+13499,CPRD_product_code,LOPRESOR tablets 100mg [NOVARTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+13526,CPRD_product_code,ATENIXCO tablets 100mg + 25mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+13871,CPRD_product_code,co-prenozide (oxprenolol and cyclopenthiazide) modified release tablet 160mg + 0.25mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+14030,CPRD_product_code,CARDICOR tablets 2.5mg [MERCK SER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+14057,CPRD_product_code,pindolol with clopamide tablets 10mg + 5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+14058,CPRD_product_code,CARDICOR tablets 1.25mg [MERCK SER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+14117,CPRD_product_code,EUCARDIC tablets 3.125mg [ROCHE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+14126,CPRD_product_code,acebutolol hydrochloride and hydrochlorothiazide tablets 200mg + 12.5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+14146,CPRD_product_code,EUCARDIC tablets 6.25mg [ROCHE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+14438,CPRD_product_code,CORGARETIC 80 tablets [SANOFI S],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+1448,CPRD_product_code,propranolol modified release capsules 160mg,drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+14502,CPRD_product_code,metoprolol tartrate injection 5mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+14552,CPRD_product_code,PROPANIX tablets 10mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+14673,CPRD_product_code,pindolol tablets 15mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+14808,CPRD_product_code,BEDRANOL modified release capsules 80mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+15042,CPRD_product_code,TOLERZIDE tablets [BMS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+15117,CPRD_product_code,nifedipine with atenolol capsules 20mg + 50mg,drug,178 - res24: beta_blockers,2015-03-12,02040000/02060200
+15176,CPRD_product_code,TOTAMOL tablets 50mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+15488,CPRD_product_code,metoprolol tartrate with chlortalidone tablets,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+15619,CPRD_product_code,HALF-BETADUR CR capsules 80mg [MONMOUTH],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+1572,CPRD_product_code,sotalol tablets 80mg,drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+15730,CPRD_product_code,TOTAMOL tablets 100mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+1597,CPRD_product_code,labetalol hydrochloride tablets 100mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+16645,CPRD_product_code,LABROCOL tablets 400mg [LAGAP],drug,178 - res24: beta_blockers,2015-03-12,02040000
+16776,CPRD_product_code,CELECTOL tablets 400mg [PANTHEON],drug,178 - res24: beta_blockers,2015-03-12,02040000
+16786,CPRD_product_code,chlortalidone with atenolol tablets 25mg+100mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+1684,CPRD_product_code,BETA-ADALAT capsules 50mg + 20mg [BAYER],drug,178 - res24: beta_blockers,2015-03-12,02040000/02060200
+17082,CPRD_product_code,SYPROL oral solution 5mg/5ml [ROSEMONT],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+17149,CPRD_product_code,MONOZIDE 10 tablets 10mg + 6.25mg [WYETH PHAR],drug,178 - res24: beta_blockers,2015-03-12,02040000
+17322,CPRD_product_code,ATENIX tablets 25mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+17462,CPRD_product_code,bisoprolol and hydrochlorothiazide tablets 10mg + 6.25mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+17615,CPRD_product_code,CARDICOR tablets 5mg [MERCK SER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+17679,CPRD_product_code,sotalol injection 10mg/ml,drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+17783,CPRD_product_code,SPIROPROP tablets [PHARMACIA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+1788,CPRD_product_code,atenolol with chlortalidone tablets 100mg+25mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+18185,CPRD_product_code,CARDICOR tablets 7.5mg [MERCK SER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+18287,CPRD_product_code,CO-BETALOC SA tablets 200mg + 25mg [PHARMACIA],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+18414,CPRD_product_code,EUCARDIC tablets 12.5mg [ROCHE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+18743,CPRD_product_code,TENBEN capsules 25mg + 1.25mg [GALEN],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+18950,CPRD_product_code,TOTAMOL tablets 25mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19055,CPRD_product_code,chlortalidone with atenolol tablets 12.5mg+50mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+19068,CPRD_product_code,labetalol hydrochloride injection 5mg/ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+19142,CPRD_product_code,bendroflumethiazide with timolol maleate tablets 2.5mg + 10mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+19172,CPRD_product_code,ATENOLOL tablets 25mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19178,CPRD_product_code,BISOPROLOL tablets 10mg [RANBAXY],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19182,CPRD_product_code,ATENOLOL tablets 50mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19191,CPRD_product_code,ATENOLOL tablets 100mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19200,CPRD_product_code,BISOPROLOL tablets 5mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19202,CPRD_product_code,CARVEDILOL tablets 6.25mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19437,CPRD_product_code,EUCARDIC tablets 25mg [ROCHE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+197,CPRD_product_code,atenolol injection 5mg/10ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+19853,CPRD_product_code,CARDICOR tablets 3.75mg [MERCK SER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19858,CPRD_product_code,CARDICOR tablets 10mg [MERCK SER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+19998,CPRD_product_code,TRANDATE injection 100mg/20ml [FOCUS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+20012,CPRD_product_code,VISKEN tablets 15mg [SOVEREIGN],drug,178 - res24: beta_blockers,2015-03-12,02040000
+20082,CPRD_product_code,LOPRESOR SR tablets 200mg [RECORDATI],drug,178 - res24: beta_blockers,2015-03-12,02040000
+20093,CPRD_product_code,metoprolol tartrate with hydrochlorothiazide modified release tablet 200mg + 25mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+20169,CPRD_product_code,practolol injection 2mg/ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+20468,CPRD_product_code,HALF BETA-PROGRANE sustained release capsules 80mg [TILLOMED],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+20502,CPRD_product_code,ATENIX tablets 100mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+20728,CPRD_product_code,ATENAMIN tablets 25mg [OPD],drug,178 - res24: beta_blockers,2015-03-12,02040000
+21025,CPRD_product_code,PRESTIM FORTE tablets [LEO],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+21133,CPRD_product_code,ATENAMIN tablets 50mg [OPD],drug,178 - res24: beta_blockers,2015-03-12,02040000
+21182,CPRD_product_code,hydrochlorothiazide with timolol and amiloride tablets 25mg + 10mg + 2.5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02020300/02040000
+21838,CPRD_product_code,PROPANIX tablets 80mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+21839,CPRD_product_code,BERKOLOL tablets 80mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+21866,CPRD_product_code,BERKOLOL tablets 40mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+21873,CPRD_product_code,ATENIXCO tablets 50mg+12.5mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+21885,CPRD_product_code,OXYPRENIX SR tablets 160mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+21905,CPRD_product_code,BIPRANIX tablets 10mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+21966,CPRD_product_code,BIPRANIX tablets 5mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+220,CPRD_product_code,propranolol oral solution 5mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+22208,CPRD_product_code,HALF PROPANIX LA sustained release capsules 80mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+22793,CPRD_product_code,LABROCOL tablets 200mg [LAGAP],drug,178 - res24: beta_blockers,2015-03-12,02040000
+22912,CPRD_product_code,bendroflumethiazide with propranolol capsules 2.5mg + 80mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+23131,CPRD_product_code,bendroflumethiazide with propranolol modified release capsules 5mg + 160mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+23134,CPRD_product_code,nadolol with bendroflumethiazide tablets 40mg + 5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+23326,CPRD_product_code,BETADUR CR sustained release capsules 160mg [MONMOUTH],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+23587,CPRD_product_code,SLOPROLOL capsules 160mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+2361,CPRD_product_code,TRASICOR tablets 80mg [NOVARTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+24,CPRD_product_code,atenolol tablets 100mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+24083,CPRD_product_code,BISOPROLOL tablets 5mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+24094,CPRD_product_code,TRASICOR tablets 40mg [AMDIPHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+2414,CPRD_product_code,INDERAL tablets 10mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+24191,CPRD_product_code,ANTIPRESSAN tablets 50mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02040000
+24195,CPRD_product_code,ANTIPRESSAN tablets 100mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02040000
+24218,CPRD_product_code,BERKOLOL tablets 160mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+24280,CPRD_product_code,TOTARETIC tablets 100mg+25mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+2432,CPRD_product_code,TENORMIN LS tablets 50mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+24461,CPRD_product_code,BETALOC IV injection 5mg/5ml [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+24635,CPRD_product_code,SOTACOR injection 10mg/ml [BRISTOL],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+24832,CPRD_product_code,LASIPRESSIN tablets [HOECHST],drug,178 - res24: beta_blockers,2015-03-12,02020200/02040000
+2499,CPRD_product_code,nadolol tablets 80mg,drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/06020200
+25359,CPRD_product_code,RAPRANOL SR capsules 160mg [RANBAXY],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+25363,CPRD_product_code,PRESTIM tablets [MEDA],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+25367,CPRD_product_code,RAPRANOL SR capsules 80mg [RANBAXY],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+25462,CPRD_product_code,clopamide with pindolol tablets 5mg + 10mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+25644,CPRD_product_code,APSOLOX tablets 80mg [APS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+25730,CPRD_product_code,timolol maleate with amiloride and hydrochlorothiazide tablets,drug,178 - res24: beta_blockers,2015-03-12,02020100/02020300/02040000
+2587,CPRD_product_code,TENORMIN tablets 100mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+2590,CPRD_product_code,TENORMIN 25 tablets [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+26,CPRD_product_code,atenolol tablets 25mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+26211,CPRD_product_code,ANTIPRESSAN tablets 25mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02040000
+26228,CPRD_product_code,PROPANIX LA modified release capsules 160mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+26229,CPRD_product_code,BETA-PROGRANE capsules 160mg [TILLOMED],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+26248,CPRD_product_code,TENCHLOR tablets 100mg + 25mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+26255,CPRD_product_code,LOPRANOL LA capsules 160mg [OPUS],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+2629,CPRD_product_code,carvedilol tablets 12.5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+26529,CPRD_product_code,furosemide with penbutolol tablets,drug,178 - res24: beta_blockers,2015-03-12,02020200/02040000
+26741,CPRD_product_code,TOTARETIC tablets 50mg+12.5mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+26895,CPRD_product_code,SYPROL oral solution 10mg/5ml [ROSEMONT],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+26922,CPRD_product_code,BREVIBLOC injection 10mg/ml [BAXTER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+27357,CPRD_product_code,OXPRENOLOL tablets 40mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+27486,CPRD_product_code,propranolol injection 1mg/ml,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/06020200
+27700,CPRD_product_code,PROPRANOLOL tablets 40mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+27719,CPRD_product_code,METOROS LS tablets 95mg [GEIGY],drug,178 - res24: beta_blockers,2015-03-12,02040000
+27727,CPRD_product_code,sotalol injection 2mg/ml,drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+2775,CPRD_product_code,labetalol hydrochloride tablets 200mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+2780,CPRD_product_code,oxprenolol tablets 80mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+27946,CPRD_product_code,nadolol with bendroflumethiazide tablets 80mg + 5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+27964,CPRD_product_code,APSOLOL tablets 40mg [APS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+28048,CPRD_product_code,ANGILOL tablets 10mg [DDSA],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+28128,CPRD_product_code,PROPRANOLOL sustained release capsules 80mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+28177,CPRD_product_code,hydrochlorothiazide with atenolol and amiloride capsules,drug,178 - res24: beta_blockers,2015-03-12,02020100/02020300/02040000
+28700,CPRD_product_code,CARTROL tablets 10mg [NOVARTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+28788,CPRD_product_code,HALF PROPATARD LA modified release capsules 80mg [GALEN],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+28996,CPRD_product_code,BEDRANOL modified release capsules 160mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+29180,CPRD_product_code,TRASICOR tablets 80mg [AMDIPHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+29230,CPRD_product_code,SLOW-PREN tablets 160mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000
+29368,CPRD_product_code,ATENOLOL tablets 25mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+29398,CPRD_product_code,ATENAMIN tablets 100mg [OPD],drug,178 - res24: beta_blockers,2015-03-12,02040000
+29427,CPRD_product_code,hydrochlorothiazide with metoprolol tartrate tablets 12.5mg + 100mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+29610,CPRD_product_code,BETIM tablets 10mg [MEDA],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402
+297,CPRD_product_code,propranolol tablets 10mg,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+29762,CPRD_product_code,MEPRANIX tablets 50mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+29763,CPRD_product_code,PROPANIX tablets 160mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+29827,CPRD_product_code,carteolol hydrochloride tablets 10mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+29998,CPRD_product_code,METOROS tablets 190mg [NOV/GEIGY],drug,178 - res24: beta_blockers,2015-03-12,02040000
+3005,CPRD_product_code,INDERAL LA capsules 160mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+30400,CPRD_product_code,MEPRANIX tablets 100mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+30519,CPRD_product_code,amiloride hydrochloride with timolol and hydrochlorothiazide tablets,drug,178 - res24: beta_blockers,2015-03-12,02020100/02020300/02040000
+30541,CPRD_product_code,esmolol hydrochloride concentrate for solution for infusion 250mg/ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+30636,CPRD_product_code,VASATEN tablets 50mg [SHIRE],drug,178 - res24: beta_blockers,2015-03-12,02040000
+30770,CPRD_product_code,LABETALOL tablets 200mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+3087,CPRD_product_code,propranolol oral solution 40mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+31214,CPRD_product_code,PROPRANOLOL tablets 80mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+31470,CPRD_product_code,TENCHLOR tablets 50mg+12.5mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+31536,CPRD_product_code,ATENOLOL tablets 25mg [KENT],drug,178 - res24: beta_blockers,2015-03-12,02040000
+3167,CPRD_product_code,propranolol tablets 160mg,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+31708,CPRD_product_code,CO-TENIDONE tablets 50mg+12.5mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+31776,CPRD_product_code,PROPRANOLOL tablets 40mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+31833,CPRD_product_code,ANGILOL tablets 80mg [DDSA],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+31934,CPRD_product_code,ATENOLOL tablets 100mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000
+32094,CPRD_product_code,CO-TENIDONE tablets 50mg+12.5mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+32114,CPRD_product_code,BISOPROLOL tablets 5mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+32135,CPRD_product_code,BREVIBLOC concentrate for solution for infusion 250mg/ml [BAXTER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+32162,CPRD_product_code,PROPRANOLOL modified release capsules 80mg [LAGAP],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+32552,CPRD_product_code,CONGESCOR tablets 2.5mg [TILLOMED],drug,178 - res24: beta_blockers,2015-03-12,02040000
+32630,CPRD_product_code,VIVACOR tablets 10mg [LEXON],drug,178 - res24: beta_blockers,2015-03-12,02040000
+32787,CPRD_product_code,VISKEN tablets 15mg [AMDIPHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+32836,CPRD_product_code,METOPROLOL tablets 50mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33079,CPRD_product_code,ATENOLOL tablets 100mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33085,CPRD_product_code,ATENOLOL tablets 100mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33092,CPRD_product_code,ATENOLOL tablets 50mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33184,CPRD_product_code,ATENOLOL tablets 100mg [WOCKHARDT],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33374,CPRD_product_code,CARVEDILOL tablets 12.5mg [GENUS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33376,CPRD_product_code,PROBETA LA capsules 160mg [TRINITY],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+3344,CPRD_product_code,BETALOC tablets 100mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33569,CPRD_product_code,OXPRENOLOL SR tablets 160mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33578,CPRD_product_code,SOTACOR injection 40mg/4ml [BMS],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+33602,CPRD_product_code,SLO-PRO modified release capsules 160mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+33644,CPRD_product_code,PROPRANOLOL tablets 80mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+33650,CPRD_product_code,ATENOLOL tablets 50mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33657,CPRD_product_code,ATENOLOL tablets 25mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33659,CPRD_product_code,hydrochlorothiazide with metoprolol tartrate modified release tablet 25mg + 200mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+33836,CPRD_product_code,APSOLOL tablets 160mg [APS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+33839,CPRD_product_code,BISOPROLOL tablets 10mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33850,CPRD_product_code,ATENOLOL tablets 50mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+33909,CPRD_product_code,CONGESCOR tablets 1.25mg [TILLOMED],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34012,CPRD_product_code,CO-TENIDONE tablets 100mg+25mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+34034,CPRD_product_code,CO-TENIDONE tablets 50mg+12.5mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+34092,CPRD_product_code,METOPROLOL tablets 100mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34094,CPRD_product_code,METOPROLOL tablets 50mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34125,CPRD_product_code,METOPROLOL tablets 100mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34171,CPRD_product_code,LABETALOL tablets 100mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34177,CPRD_product_code,LABETALOL tablets 100mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34185,CPRD_product_code,PROPRANOLOL LA modified release capsules 80mg [APS],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+34188,CPRD_product_code,LABETALOL tablets 200mg [CELLTECH],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34208,CPRD_product_code,PROPRANOLOL SR capsules 160mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+34214,CPRD_product_code,PROPRANOLOL tablets 160mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+34265,CPRD_product_code,ATENOLOL tablets 50mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34365,CPRD_product_code,ATENOLOL tablets 50mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34371,CPRD_product_code,SOTALOL tablets 40mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+34378,CPRD_product_code,PROPRANOLOL tablets 10mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+34407,CPRD_product_code,METOPROLOL tablets 50mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34430,CPRD_product_code,METOPROLOL tablets 50mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34443,CPRD_product_code,ATENOLOL tablets 50mg [WOCKHARDT],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34449,CPRD_product_code,CO-TENIDONE tablets 50mg+12.5mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+34492,CPRD_product_code,ATENOLOL tablets 25mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34501,CPRD_product_code,CARVEDILOL tablets 12.5mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34509,CPRD_product_code,METOPROLOL tablets 100mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34520,CPRD_product_code,SOTALOL tablets 80mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+34575,CPRD_product_code,ATENOLOL tablets 25mg [WOCKHARDT],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34584,CPRD_product_code,METOPROLOL tablets 50mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34585,CPRD_product_code,ATENOLOL tablets 25mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34600,CPRD_product_code,SOTALOL tablets 40mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+34640,CPRD_product_code,SOTALOL tablets 40mg [TILLOMED],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+34690,CPRD_product_code,SOTALOL tablets 80mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+34695,CPRD_product_code,ATENOLOL tablets 50mg [KENT],drug,178 - res24: beta_blockers,2015-03-12,02040000
+3474,CPRD_product_code,BETALOC SA DURULE 200mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34740,CPRD_product_code,CARVEDILOL tablets 6.25mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34741,CPRD_product_code,CARVEDILOL tablets 3.125mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34754,CPRD_product_code,ATENOLOL tablets 100mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34783,CPRD_product_code,PROPRANOLOL tablets 10mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+34804,CPRD_product_code,PROPRANOLOL tablets 10mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+34821,CPRD_product_code,BISOPROLOL tablets 10mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34825,CPRD_product_code,CO-TENIDONE tablets 50mg+12.5mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+34854,CPRD_product_code,METOPROLOL tablets 100mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34867,CPRD_product_code,PROPRANOLOL capsules 80mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+34868,CPRD_product_code,PROPRANOLOL tablets 40mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+34882,CPRD_product_code,ATENOLOL tablets 50mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34884,CPRD_product_code,PROPRANOLOL modified release capsules 160mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+34890,CPRD_product_code,METOPROLOL tablets 50mg [BERK],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34899,CPRD_product_code,CO-TENIDONE tablets 100mg+25mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+34925,CPRD_product_code,METOPROLOL tablets 50mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34945,CPRD_product_code,PROPRANOLOL sustained release capsules 160mg [LAGAP],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+34949,CPRD_product_code,PROPRANOLOL sustained release capsules 160mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+34963,CPRD_product_code,BISOPROLOL tablets 5mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+34976,CPRD_product_code,ATENOLOL tablets 25mg [TILLOMED],drug,178 - res24: beta_blockers,2015-03-12,02040000
+35054,CPRD_product_code,CELECTOL tablets 200mg [WINTHROP],drug,178 - res24: beta_blockers,2015-03-12,02040000
+35062,CPRD_product_code,TRASICOR tablets 20mg [AMDIPHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+3516,CPRD_product_code,oxprenolol tablets 20mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+3526,CPRD_product_code,amiloride hydrochloride with atenolol and hydrochlorothiazide capsules,drug,178 - res24: beta_blockers,2015-03-12,02020100/02020300/02040000
+35695,CPRD_product_code,VISKEN tablets 5mg [AMDIPHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+35710,CPRD_product_code,sotalol oral suspension 25mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+35778,CPRD_product_code,LABROCOL tablets 100mg [LAGAP],drug,178 - res24: beta_blockers,2015-03-12,02040000
+3588,CPRD_product_code,MONOCOR tablets 5mg [WYETH PHAR],drug,178 - res24: beta_blockers,2015-03-12,02040000
+35938,CPRD_product_code,PROPRANOLOL SR capsules 80mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+35940,CPRD_product_code,CELECTOL tablets 400mg [WINTHROP],drug,178 - res24: beta_blockers,2015-03-12,02040000
+36261,CPRD_product_code,ATENOLOL tablets 50mg [TILLOMED],drug,178 - res24: beta_blockers,2015-03-12,02040000
+36576,CPRD_product_code,PROPRANOLOL tablets 10mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+36603,CPRD_product_code,PROPRANOLOL SR capsules 160mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+3691,CPRD_product_code,sotalol with hydrochlorothiazide tablets 160mg + 25mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+37118,CPRD_product_code,BISOPROLOL tablets 2.5mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+3748,CPRD_product_code,oxprenolol tablets 160mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+37725,CPRD_product_code,CO-TENIDONE tablets 100mg+25mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+37837,CPRD_product_code,BISOPROLOL tablets 2.5mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+3827,CPRD_product_code,PROPANIX tablets 40mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+38370,CPRD_product_code,labetalol hydrochloride injection 100mg/20ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+38433,CPRD_product_code,PROPRANOLOL oral solution 50mg/5ml [ROSEMONT],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+38498,CPRD_product_code,sotalol injection 40mg/4ml,drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+38991,CPRD_product_code,BISOPROLOL tablets 7.5mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+39233,CPRD_product_code,PROPRANOLOL SR capsules 80mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+39423,CPRD_product_code,SOTALOL tablets 80mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+39646,CPRD_product_code,bisoprolol oral liquid 0.625mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+39819,CPRD_product_code,esmolol hydrochloride solution for infusion 2500mg/250ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+39846,CPRD_product_code,VIVACOR tablets 5mg [LEXON],drug,178 - res24: beta_blockers,2015-03-12,02040000
+4004,CPRD_product_code,SOTACOR tablets 80mg [BRISTOL],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+40167,CPRD_product_code,METOPROLOL tablets 100mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02040000
+40240,CPRD_product_code,LABETALOL tablets 400mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+40241,CPRD_product_code,PROPRANOLOL LA capsules 160mg [APS],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+4025,CPRD_product_code,SLOW TRASICOR sustained release tablets 160mg [AMDIPHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+40761,CPRD_product_code,nebivolol tablets 2.5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+41555,CPRD_product_code,PROPRANOLOL tablets 40mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+41572,CPRD_product_code,CO-TENIDONE tablets 100mg+25mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+41591,CPRD_product_code,BISOPROLOL tablets 10mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+41740,CPRD_product_code,CELIPROLOL tablets 200mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+41827,CPRD_product_code,LABETALOL tablets 100mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+42152,CPRD_product_code,SYPROL oral solution 50mg/5ml [ROSEMONT],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+4265,CPRD_product_code,CELECTOL tablets 200mg [PANTHEON],drug,178 - res24: beta_blockers,2015-03-12,02040000
+42795,CPRD_product_code,CELIPROLOL tablets 200mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+43251,CPRD_product_code,BISOPROLOL tablets 1.25mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+43525,CPRD_product_code,PROPRANOLOL tablets 10mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+43549,CPRD_product_code,SOTALOL tablets 40mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+43564,CPRD_product_code,BISOPROLOL tablets 5mg [PLIVA],drug,178 - res24: beta_blockers,2015-03-12,02040000
+44000,CPRD_product_code,bisoprolol oral suspension 2.5mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+44083,CPRD_product_code,LABETALOL tablets 200mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+4410,CPRD_product_code,carvedilol tablets 6.25mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+4429,CPRD_product_code,TRASIDREX tablets [GOLDSHIELD],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+44808,CPRD_product_code,NEBIVOLOL tablets 2.5mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+44858,CPRD_product_code,ATENOLOL tablets 25mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+45250,CPRD_product_code,LABETALOL tablets 400mg [SANDOZ],drug,178 - res24: beta_blockers,2015-03-12,02040000
+45289,CPRD_product_code,metoprolol tartrate oral liquid,drug,178 - res24: beta_blockers,2015-03-12,02040000
+45297,CPRD_product_code,PROPRANOLOL tablets 40mg [IVAX],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+45309,CPRD_product_code,ACEBUTOLOL tablets 400mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+45343,CPRD_product_code,PROPRANOLOL SR capsules 80mg [CP PHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+4542,CPRD_product_code,atenolol with nifedipine capsules 50mg + 20mg,drug,178 - res24: beta_blockers,2015-03-12,02040000/02060200
+45494,CPRD_product_code,PROPRANOLOL tablets 10mg [ALMUS],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+45765,CPRD_product_code,SYPROL oral solution 40mg/5ml [ROSEMONT],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+45877,CPRD_product_code,BETA-PROGRANE capsules 160mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+4588,CPRD_product_code,VISKEN tablets 5mg [SOVEREIGN],drug,178 - res24: beta_blockers,2015-03-12,02040000
+4605,CPRD_product_code,MODUCREN tablets [M S D],drug,178 - res24: beta_blockers,2015-03-12,02020100/02020300/02040000
+46363,CPRD_product_code,HALF BETA-PROGRANE sustained release capsules 80mg [TEVA],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+46614,CPRD_product_code,LOPRESOR tablets 50mg [RECORDATI],drug,178 - res24: beta_blockers,2015-03-12,02040000
+46740,CPRD_product_code,LOPRESOR tablets 100mg [RECORDATI],drug,178 - res24: beta_blockers,2015-03-12,02040000
+46908,CPRD_product_code,ATENOLOL tablets 100mg [KENT],drug,178 - res24: beta_blockers,2015-03-12,02040000
+46931,CPRD_product_code,ATENOLOL tablets 100mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+46935,CPRD_product_code,CARVEDILOL tablets 3.125mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+46936,CPRD_product_code,CARVEDILOL tablets 3.125mg [HILLCROSS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+46952,CPRD_product_code,CO-TENIDONE tablets 100mg+25mg [ACTAVIS],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+47041,CPRD_product_code,BISOPROLOL tablets 2.5mg [GEN (UK)],drug,178 - res24: beta_blockers,2015-03-12,02040000
+47107,CPRD_product_code,carvedilol oral suspension 5mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+472,CPRD_product_code,bisoprolol tablets 5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+4725,CPRD_product_code,labetalol hydrochloride tablets 50mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+47300,CPRD_product_code,NEBIVOLOL tablets 2.5mg [GLENMARK],drug,178 - res24: beta_blockers,2015-03-12,02040000
+4771,CPRD_product_code,EMCOR LS tablets 5mg [MERCK SER],drug,178 - res24: beta_blockers,2015-03-12,02040000
+4796,CPRD_product_code,INDERETIC capsules [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+4983,CPRD_product_code,atenolol with amiloride and hydrochlorothiazide capsules,drug,178 - res24: beta_blockers,2015-03-12,02020100/02020300/02040000
+5,CPRD_product_code,atenolol tablets 50mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+5284,CPRD_product_code,pindolol tablets 5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+5330,CPRD_product_code,CORGARETIC 40 tablets [SANOFI S],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+5478,CPRD_product_code,propranolol oral solution 10mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+5713,CPRD_product_code,bisoprolol tablets 7.5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+5721,CPRD_product_code,co-tenidone (atenolol and chlortalidone) tablets 100mg+25mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+581,CPRD_product_code,atenolol with chlortalidone tablets 50mg+12.5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+5858,CPRD_product_code,BETA-CARDONE tablets 40mg [FOCUS],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+594,CPRD_product_code,bisoprolol tablets 2.5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+5968,CPRD_product_code,MONOCOR tablets 10mg [WYETH PHAR],drug,178 - res24: beta_blockers,2015-03-12,02040000
+599,CPRD_product_code,bisoprolol tablets 1.25mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+6066,CPRD_product_code,atenolol sugar free oral solution 25mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+6751,CPRD_product_code,BETA-CARDONE tablets 80mg [FOCUS],drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+7049,CPRD_product_code,carvedilol tablets 25mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+7066,CPRD_product_code,metoprolol tartrate with hydrochlorothiazide tablets 100mg + 12.5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+707,CPRD_product_code,propranolol tablets 40mg,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+7091,CPRD_product_code,bisoprolol tablets 3.75mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+739,CPRD_product_code,metoprolol tartrate tablets 50mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+7429,CPRD_product_code,TENORMIN injection 5mg/10ml [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+7474,CPRD_product_code,TRASICOR tablets 20mg [NOVARTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+751,CPRD_product_code,nebivolol tablets 5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+7528,CPRD_product_code,NEBILET tablets 5mg [MENARINI],drug,178 - res24: beta_blockers,2015-03-12,02040000
+753,CPRD_product_code,metoprolol tartrate tablets 100mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+7543,CPRD_product_code,KALTEN capsules [M&A PHARM],drug,178 - res24: beta_blockers,2015-03-12,02020100/02020300/02040000
+7553,CPRD_product_code,bisoprolol oral suspension 5mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+7620,CPRD_product_code,acebutolol hydrochloride tablets 400mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+769,CPRD_product_code,propranolol modified release capsules 80mg,drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+7852,CPRD_product_code,BLOCADREN tablets 10mg [M S D],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402
+7853,CPRD_product_code,timolol maleate tablets 10mg,drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402
+786,CPRD_product_code,sotalol tablets 40mg,drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+7974,CPRD_product_code,celiprolol tablets 400mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+8023,CPRD_product_code,SECTRAL tablets 400mg [AVENTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+8061,CPRD_product_code,sotalol with hydrochlorothiazide tablets 80mg + 12.5mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+8068,CPRD_product_code,metoprolol tartrate modified release tablet 200mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+8071,CPRD_product_code,BETALOC tablets 50mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000
+8113,CPRD_product_code,acebutolol hydrochloride capsules 200mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+8147,CPRD_product_code,LOPRESORETIC tablets [NOV/GEIGY],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+817,CPRD_product_code,carvedilol tablets 3.125mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+8172,CPRD_product_code,acebutolol hydrochloride capsules 100mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+8189,CPRD_product_code,SECADREX tablets [AVENTIS],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+822,CPRD_product_code,bisoprolol oral suspension 1.5mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02040000
+8262,CPRD_product_code,celiprolol tablets 200mg,drug,178 - res24: beta_blockers,2015-03-12,02040000
+8290,CPRD_product_code,TRASICOR tablets 40mg [NOVARTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+8331,CPRD_product_code,INDERAL tablets 160mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+8369,CPRD_product_code,INDEREX capsules [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+8555,CPRD_product_code,SECTRAL capsules 200mg [AVENTIS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+8623,CPRD_product_code,PRESTIM tablets [ICN],drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+8642,CPRD_product_code,TENIF capsules 50mg + 20mg [ASTRAZENEC],drug,178 - res24: beta_blockers,2015-03-12,02040000/02060200
+8673,CPRD_product_code,oxprenolol with cyclopenthiazide modified release tablet 160mg+0.25mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+8707,CPRD_product_code,TRANDATE tablets 200mg [FOCUS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+8807,CPRD_product_code,TRANDATE tablets 400mg [FOCUS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+8935,CPRD_product_code,nadolol tablets 40mg,drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/06020200
+8978,CPRD_product_code,PROPANIX sustained release capsules 160mg [ASHBOURNE],drug,178 - res24: beta_blockers,2015-03-12,02040000/04070402/04090300/06020200
+8987,CPRD_product_code,propranolol with bendroflumethiazide modified release capsules 160mg + 5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+9016,CPRD_product_code,TRANDATE tablets 100mg [FOCUS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+9143,CPRD_product_code,VISKALDIX tablets 10mg + 5mg [AMDIPHARM],drug,178 - res24: beta_blockers,2015-03-12,02040000
+9178,CPRD_product_code,atenolol with bendroflumethiazide capsules 25mg + 1.25mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
+9185,CPRD_product_code,propranolol oral solution 80mg/5ml,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+9273,CPRD_product_code,TRANDATE tablets 50mg [FOCUS],drug,178 - res24: beta_blockers,2015-03-12,02040000
+9292,CPRD_product_code,sotalol tablets 160mg,drug,178 - res24: beta_blockers,2015-03-12,02030201/02040000
+940,CPRD_product_code,propranolol tablets 80mg,drug,178 - res24: beta_blockers,2015-03-12,02030202/02040000/04070402/04090300/06020200
+9783,CPRD_product_code,co-tenidone (atenolol and chlortalidone) tablets 50mg+12.5mg,drug,178 - res24: beta_blockers,2015-03-12,02020100/02040000
