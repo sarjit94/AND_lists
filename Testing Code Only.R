@@ -8,7 +8,7 @@ library(tidyverse)
 
 # CREATE FUNCTIONS --------------------------------------------------------
 # Create a function to remove subcodes (eg B22 if B2 exists in list)
-remove_subcodes <- function(df, code_column) {
+func_remove_subcodes <- function(df, code_column) {
   # Create a vector of unique codes
   codes <- unique(df[[code_column]])
   # Define a function to determine if a code is a subcode of any other
@@ -28,20 +28,29 @@ remove_subcodes <- function(df, code_column) {
 ##### IMPORT KNOWN DATABASES  -----------------------------------------------
 # Location of the code list to check
 # As importing, create new variables with periods removed (easier to work with)
-cl_checking <- readxl::read_excel("HTN/HTN Rx codes.xlsx") %>%
+codelist_checking <- readxl::read_excel("HTN/HTN Rx codes.xlsx") %>%
   pull(Code) %>%
   str_remove_all(., "\\.")
 
-# Import BioBank conversion table
+# Import BioBank read conversion table
 # As importing, create new variables with periods removed (easier to work with)
-biobank <- 
+biobank_bnf_read <- 
   readxl::read_excel("BioBank/biobank.xlsx", sheet = "read_v2_drugs_bnf") %>%
   mutate(
     readcode_new = str_remove_all(read_code, "\\."),
     bnfcode_new = str_remove_all(bnf_code, "\\."))
 
+# Import BioBank OPCS conversion table
+# As importing, create new variables with periods removed (easier to work with)
+biobank_opcs_read <- 
+  readxl::read_excel("BioBank/biobank.xlsx", sheet = "read_ctv3_opcs4") %>%
+  mutate(
+    readcode_new = str_remove_all(read_code, "\\."),
+    opcs4_new = str_remove_all(opcs4_code, "\\."))
+
+
 # Import BioBank's Read code lookup table
-read_lookup <- 
+biobankk_read_lookup <- 
   readxl::read_excel("BioBank/biobank.xlsx", sheet = "read_v2_lkp") %>%
   mutate(
     read_code = str_remove_all(read_code, "\\."))
@@ -57,15 +66,38 @@ res24_beta_blockers <-
   str_split(., pattern = "/", simplify = TRUE) %>%
   .[. != ""]
 
+res24_ca_channel_blockers <-
+  read_csv("HTN/Validation List/res24-ca_channel_blockers.csv") %>%
+  pull(bnfcode) %>%
+  str_split(., pattern = "/", simplify = TRUE) %>%
+  .[. != ""]
+
+res24_diuretics <-
+  read_csv("HTN/Validation List/res24-diuretics.csv") %>%
+  pull(bnfcode) %>%
+  str_split(., pattern = "/", simplify = TRUE) %>%
+  .[. != ""]
+
+res24_other_antihypertensives <-
+  read_csv("HTN/Validation List/res24-other_antihypertensives.csv") %>%
+  pull(bnfcode) %>%
+  str_split(., pattern = "/", simplify = TRUE) %>%
+  .[. != ""]
+
 
 # Cross check the list imported againt the biobank BNF code list
 # Then remove Read subcodes and pull out these values
 # Then check if these codes don't exist in the cl_checking vector
-temp <- biobank %>%
-  filter(bnfcode_new %in% res24_beta_blockers) %>%
-  remove_subcodes("readcode_new") %>%
+temp <- biobank_bnf_read %>%
+  filter(bnfcode_new %in% c(
+    res24_beta_blockers,
+    res24_ca_channel_blockers,
+    res24_diuretics,
+    res24_other_antihypertensives)) %>%
+  func_remove_subcodes("readcode_new") %>%
   pull(readcode_new) %>%
-  .[!(. %in% cl_checking)]
+  .[!(. %in% codelist_checking)]
 
+list(temp)
 
 
