@@ -28,7 +28,7 @@ func_remove_subcodes <- function(df, code_column) {
 ##### IMPORT KNOWN DATABASES  -----------------------------------------------
 # Location of the code list to check
 # As importing, create new variables with periods removed (easier to work with)
-codelist_checking <- readxl::read_excel("HTN/HTN Rx codes.xlsx") %>%
+validation_codelist <- readxl::read_excel("HTN/HTN Rx codes.xlsx") %>%
   pull(Code) %>%
   str_remove_all(., "\\.")
 
@@ -96,7 +96,7 @@ temp <- biobank_bnf_read %>%
     res24_other_antihypertensives)) %>%
   func_remove_subcodes("readcode_new") %>%
   pull(readcode_new) %>%
-  .[!(. %in% codelist_checking)]
+  .[!(. %in% validation_codelist)]
 
 list(temp)
 
