@@ -1,0 +1,1356 @@
+prodcode,productname,antihypertensive
+5,atenolol 50mg tablets,1
+24,atenolol 100mg tablets,1
+26,atenolol 25mg tablets,1
+65,lisinopril 10mg tablets,1
+69,lisinopril 20mg tablets,1
+78,lisinopril 5mg tablets,1
+80,ramipril 5mg capsules,1
+82,ramipril 10mg capsules,1
+97,perindopril erbumine 4mg tablets,1
+147,ramipril 1.25mg capsules,1
+196,enalapril 5mg tablets,1
+197,atenolol 5mg/10ml solution for injection ampoules,1
+220,propranolol 5mg/5ml oral solution,1
+277,lisinopril 2.5mg tablets,1
+297,propranolol 10mg tablets,1
+448,enalapril 2.5mg tablets,1
+472,bisoprolol 5mg tablets,1
+520,losartan 25mg tablets,1
+529,candesartan 2mg tablets,1
+531,candesartan 4mg tablets,1
+575,valsartan 40mg capsules,1
+581,atenolol 50mg with chlortalidone 12.5mg tablets,1
+593,perindopril erbumine 2mg tablets,1
+594,bisoprolol 2.5mg tablets,1
+599,bisoprolol 1.25mg tablets,1
+624,losartan 100mg tablets,1
+633,fosinopril 10mg tablets,1
+654,ramipril 2.5/5mg/10mg capsule,1
+707,propranolol 40mg tablets,1
+709,ramipril 2.5mg capsules,1
+739,metoprolol 50mg tablets,1
+751,nebivolol 5mg tablets,1
+753,metoprolol 100mg tablets,1
+756,ramipril 10mg tablets,1
+761,ramipril 1.25mg tablets,1
+764,co-diovan 80mg/12.5mg tablets (novartis pharmaceuticals uk ltd),1
+769,propranolol 80mg modified-release capsules,1
+786,sotalol 40mg tablets,1
+817,carvedilol 3.125mg tablets,1
+822,bisoprolol 1.5mg/5ml oral suspension,1
+828,irbesartan 75mg tablets,1
+940,propranolol 80mg tablets,1
+1006,half inderal la 80mg capsules (astrazeneca uk ltd),1
+1021,innozide 20mg/12.5mg tablets (merck sharp & dohme ltd),1
+1048,inderal 80mg tablets (astrazeneca uk ltd),1
+1050,inderal 40mg tablets (astrazeneca uk ltd),1
+1121,captopril 12.5mg tablets,1
+1124,tenoretic 100mg/25mg tablets (astrazeneca uk ltd),1
+1143,captopril 25mg tablets,1
+1144,capoten 25mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+1288,tenoret 50mg/12.5mg tablets (astrazeneca uk ltd),1
+1290,bisoprolol 10mg tablets,1
+1293,irbesartan 150mg tablets,1
+1295,labetalol 400mg tablets,1
+1299,enalapril 10mg tablets,1
+1333,oxprenolol 40mg tablets,1
+1334,oxprenolol 160mg modified-release tablets,1
+1448,propranolol 160mg modified-release capsules,1
+1520,capozide 25mg/50mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+1572,sotalol 80mg tablets,1
+1597,labetalol 100mg tablets,1
+1684,beta-adalat modified-release capsules (bayer plc),1
+1780,losartan 50mg tablets,1
+1788,atenolol 100mg with chlortalidone 25mg tablets,1
+1807,captopril 50mg tablets,1
+1904,enalapril 20mg tablets,1
+2361,trasicor 80mg tablet (novartis pharmaceuticals uk ltd),1
+2414,inderal 10mg tablets (astrazeneca uk ltd),1
+2432,tenormin ls 50mg tablets (astrazeneca uk ltd),1
+2499,nadolol 80mg tablets,1
+2587,tenormin 100mg tablets (astrazeneca uk ltd),1
+2590,tenormin 25mg tablets (astrazeneca uk ltd),1
+2629,carvedilol 12.5mg tablets,1
+2775,labetalol 200mg tablets,1
+2780,oxprenolol 80mg tablets,1
+2971,irbesartan 300mg tablets,1
+2982,zestoretic 20- 20mg+12.5mg tablet (astrazeneca uk ltd),1
+3005,inderal la 160mg capsules (astrazeneca uk ltd),1
+3069,acepril 25mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+3087,propranolol 40mg/5ml oral solution sugar free,1
+3167,propranolol 160mg tablets,1
+3203,capozide ls tablet (e r squibb and sons ltd),1
+3222,valsartan 80mg capsules,1
+3310,capoten 12.5mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+3344,betaloc 100mg tablets (astrazeneca uk ltd),1
+3474,betaloc-sa 200mg tablets (astrazeneca uk ltd),1
+3516,oxprenolol 20mg tablets,1
+3526,amiloride with atenolol with hydrochlorothiazide capsules,1
+3588,monocor 5mg tablets (wyeth pharmaceuticals),1
+3691,sotalol 160mg with hydrochlorothiazide 25mg tablet,1
+3720,zestril 2.5mg tablets (astrazeneca uk ltd),1
+3748,oxprenolol 160mg tablet,1
+3827,propanix 40mg tablet (ashbourne pharmaceuticals ltd),1
+3839,capoten 50mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+3929,quinapril 10mg tablets,1
+4004,sotacor 80mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+4025,slow-trasicor 160mg tablets (amco),1
+4103,trandolapril 1mg capsules,1
+4155,amias 2mg tablets (takeda uk ltd),1
+4226,cozaar 25mg tablets (merck sharp & dohme ltd),1
+4265,celectol 200mg tablet (pantheon healthcare ltd),1
+4410,carvedilol 6.25mg tablets,1
+4429,trasidrex modified-release tablets (mercury pharma group ltd),1
+4540,cozaar-comp 50mg/12.5mg tablets (merck sharp & dohme ltd),1
+4542,atenolol 50mg / nifedipine 20mg modified-release capsules,1
+4571,staril 10mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+4588,visken 5mg tablet (sovereign medical ltd),1
+4645,valsartan 160mg capsules,1
+4685,amias 4mg tablets (takeda uk ltd),1
+4725,labetalol 50mg tablets,1
+4741,candesartan 16mg tablets,1
+4771,emcor ls 5mg tablets (merck serono ltd),1
+4818,candesartan 8mg tablets,1
+4983,atenolol with amiloride and hydrochlorothiazide capsules,1
+5013,amias 8mg tablets (takeda uk ltd),1
+5047,trandolapril 2mg capsules,1
+5117,amias 16mg tablets (takeda uk ltd),1
+5159,quinapril 20mg tablets,1
+5189,enalapril 20mg / hydrochlorothiazide 12.5mg tablets,1
+5275,tritace 2.5mg capsules (sanofi),1
+5284,pindolol 5mg tablets,1
+5478,propranolol 10mg/5ml oral solution sugar free,1
+5612,coversyl 2mg tablets (servier laboratories ltd),1
+5713,bisoprolol 7.5mg tablets,1
+5721,co-tenidone 100mg/25mg tablets,1
+5723,cozaar 50mg tablets (merck sharp & dohme ltd),1
+5735,tritace 5mg capsules (sanofi),1
+5800,coversyl 4mg tablets (servier laboratories ltd),1
+5858,beta-cardone 40mg tablets (focus pharmaceuticals ltd),1
+5861,fosinopril 20mg tablets,1
+5968,monocor 10mg tablets (wyeth pharmaceuticals),1
+5988,telmisartan 40mg tablets,1
+6066,atenolol 25mg/5ml oral solution sugar free,1
+6078,perindopril erbumine 8mg tablets,1
+6217,olmesartan medoxomil 10mg tablets,1
+6243,telmisartan 20mg tablets,1
+6261,tritace 1.25mg tablets (sanofi),1
+6285,olmesartan medoxomil 20mg tablets,1
+6288,ramipril 5mg tablets,1
+6314,ramipril 2.5mg tablets,1
+6351,olmesartan medoxomil 40mg tablets,1
+6359,zestoretic 10- 10mg+12.5mg tablet (astrazeneca uk ltd),1
+6362,tritace 5mg tablets (sanofi),1
+6364,tritace 2.5mg tablets (sanofi),1
+6408,tanatril 5mg tablets (mitsubishi tanabe pharma europe ltd),1
+6437,losartan 50mg / hydrochlorothiazide 12.5mg tablets,1
+6468,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets,1
+6518,diovan 160mg capsules (novartis pharmaceuticals uk ltd),1
+6751,beta-cardone 80mg tablets (focus pharmaceuticals ltd),1
+6765,quinapril 5mg tablets,1
+6786,lisinopril 10mg / hydrochlorothiazide 12.5mg tablets,1
+6794,perindopril erbumine 4mg / indapamide 1.25mg tablets,1
+6806,zestril 10mg tablets (astrazeneca uk ltd),1
+6807,zestril 5mg tablets (astrazeneca uk ltd),1
+6877,co-diovan 160mg/12.5mg tablets (novartis pharmaceuticals uk ltd),1
+6939,eprosartan 300mg tablets,1
+7043,candesartan 32mg tablets,1
+7049,carvedilol 25mg tablets,1
+7091,bisoprolol 3.75mg tablets,1
+7314,accupro 5mg tablets (pfizer ltd),1
+7338,aprovel 75mg tablets (sanofi),1
+7419,trandolapril 500microgram capsules,1
+7429,tenormin 5mg/10ml solution for injection ampoules (astrazeneca uk ltd),1
+7474,trasicor 20mg tablet (novartis pharmaceuticals uk ltd),1
+7528,nebilet 5mg tablets (a. menarini farmaceutica internazionale srl),1
+7543,kalten capsules (m & a pharmachem ltd),1
+7553,bisoprolol 5mg/5ml oral suspension,1
+7620,acebutolol 400mg tablets,1
+7852,blocadren 10mg tablet (merck sharp & dohme ltd),1
+7853,timolol 10mg tablets,1
+7974,celiprolol 400mg tablets,1
+8023,sectral 400mg tablets (sanofi),1
+8025,gopten 1mg capsules (abbott laboratories ltd),1
+8026,gopten 2mg capsules (abbott laboratories ltd),1
+8061,sotalol 80mg with hydrochlorothiazide 12.5mg tablet,1
+8068,metoprolol 200mg modified-release tablets,1
+8071,betaloc 50mg tablets (astrazeneca uk ltd),1
+8105,innovace 20mg tablets (merck sharp & dohme ltd),1
+8106,innovace 2.5mg tablets (merck sharp & dohme ltd),1
+8113,acebutolol 200mg capsules,1
+8147,lopresoretic tablet (novartis pharmaceuticals uk ltd),1
+8172,acebutolol 100mg capsules,1
+8262,celiprolol 200mg tablets,1
+8268,zestril 20mg tablets (astrazeneca uk ltd),1
+8290,trasicor 40mg tablet (novartis pharmaceuticals uk ltd),1
+8331,inderal 160mg tablet (astrazeneca uk ltd),1
+8555,sectral 200mg capsules (sanofi),1
+8623,prestim tablet (icn pharmaceuticals france s.a.),1
+8642,tenif 50mg/20mg modified-release capsules (astrazeneca uk ltd),1
+8673,oxprenolol with cyclopenthiazide 160mg+0.25mg modified-release tablet,1
+8707,trandate 200mg tablets (rph pharmaceuticals ab),1
+8800,innovace 5mg tablets (merck sharp & dohme ltd),1
+8807,trandate 400mg tablets (rph pharmaceuticals ab),1
+8830,innovace 10mg tablets (merck sharp & dohme ltd),1
+8935,nadolol 40mg tablets,1
+8978,propanix 160mg modified-release capsule (ashbourne pharmaceuticals ltd),1
+9016,trandate 100mg tablets (rph pharmaceuticals ab),1
+9143,viskaldix tablets (amco),1
+9185,propranolol 80mg/5ml oral solution,1
+9196,aprovel 150mg tablets (sanofi),1
+9273,trandate 50mg tablets (rph pharmaceuticals ab),1
+9292,sotalol 160mg tablets,1
+9646,tritace 1.25mg capsules (aventis pharma),1
+9693,tritace 10mg capsules (sanofi),1
+9731,quinapril 40mg tablets,1
+9745,teveten 300mg tablets (mylan),1
+9764,carace 20 tablet (bristol-myers squibb pharmaceuticals ltd),1
+9783,co-tenidone 50mg/12.5mg tablets,1
+9915,tritace 10mg tablets (sanofi),1
+9948,trandolapril 4mg capsules,1
+10191,atenix 50 tablets (ashbourne pharmaceuticals ltd),1
+10316,coaprovel 150mg/12.5mg tablets (sanofi),1
+10323,losartan 100mg / hydrochlorothiazide 25mg tablets,1
+10429,lopresor 50mg tablet (novartis pharmaceuticals uk ltd),1
+10716,corgard 80mg tablets (sanofi),1
+10777,trasicor 160mg tablet (novartis pharmaceuticals uk ltd),1
+10882,carace 2.5mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+10892,emcor 10mg tablets (merck serono ltd),1
+10902,captopril 50mg with hydrochlorothiazide 25mg tablets,1
+11133,hydrochlorothiazide with captopril 25mg with 50mg tablet,1
+11197,innovace melt 5mg wafer (merck sharp & dohme ltd),1
+11251,diovan 40mg capsules (novartis pharmaceuticals uk ltd),1
+11252,diovan 80mg capsules (novartis pharmaceuticals uk ltd),1
+11338,bendroflumethiazide 5mg with nadolol 40mg tablets,1
+11348,aprovel 300mg tablets (sanofi),1
+11351,co-zidocapt 25mg/50mg tablets,1
+11380,sotacor 160mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+11448,irbesartan 150mg / hydrochlorothiazide 12.5mg tablets,1
+11469,irbesartan 300mg / hydrochlorothiazide 12.5mg tablets,1
+11526,coaprovel 300mg/12.5mg tablets (sanofi),1
+11561,co-zidocapt 12.5mg/25mg tablets,1
+11567,ramipril 5mg with felodipine 5mg modified-release tablet,1
+11641,captopril 25mg with hydrochlorothiazide 12.5mg tablets,1
+11711,propranolol 50mg/5ml oral solution,1
+11793,metoprolol 50mg/5ml oral suspension,1
+11864,valsartan 160mg / hydrochlorothiazide 12.5mg tablets,1
+11937,ramipril 2.5mg/5ml oral suspension,1
+11965,ramipril 2.5mg with felodipine 2.5mg modified-release tablet,1
+11983,perindopril erbumine 4mg/5ml oral suspension,1
+11987,lisinopril 5mg/5ml oral solution,1
+12037,betim 10mg tablet (icn pharmaceuticals france s.a.),1
+12296,sectral 100mg capsules (sanofi),1
+12313,carace 20mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+12411,cilazapril 500microgram tablets,1
+12412,cilazapril 2.5mg tablets,1
+12456,sotazide tablet (bristol-myers squibb pharmaceuticals ltd),1
+12495,berkolol 10mg tablet (berk pharmaceuticals ltd),1
+12517,timolol maleate with bendroflumethiazide 20mg + 5mg tablet,1
+12574,cilazapril 1mg tablets,1
+12651,timolol 10mg / bendroflumethiazide 2.5mg tablets,1
+12815,tanatril 10mg tablets (mitsubishi tanabe pharma europe ltd),1
+12836,eprosartan 600mg tablets,1
+12858,imidapril 10mg tablets,1
+12874,telmisartan 80mg tablets,1
+13026,cilazapril 5mg tablets,1
+13051,sotalol 200mg tablets,1
+13123,eprosartan 400mg tablets,1
+13394,tenormin 25mg/5ml syrup (astrazeneca uk ltd),1
+13487,beta-cardone 200mg tablets (focus pharmaceuticals ltd),1
+13499,lopresor 100mg tablet (novartis pharmaceuticals uk ltd),1
+13526,atenix co 100 tablets (ashbourne pharmaceuticals ltd),1
+13589,staril 20mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+13755,enalapril 10mg wafer,1
+13821,micardis 40mg tablets (boehringer ingelheim ltd),1
+13871,co-prenozide 160mg/0.25mg modified-release tablets,1
+14030,cardicor 2.5mg tablets (merck serono ltd),1
+14057,pindolol 10mg / clopamide 5mg tablets,1
+14058,cardicor 1.25mg tablets (merck serono ltd),1
+14117,eucardic 3.125mg tablets (roche products ltd),1
+14146,eucardic 6.25mg tablets (roche products ltd),1
+14283,valsartan 160mg / hydrochlorothiazide 25mg tablets,1
+14387,carace 5mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+14477,accupro 10mg tablets (pfizer ltd),1
+14478,accupro 20mg tablets (pfizer ltd),1
+14502,metoprolol 5mg/5ml solution for injection ampoules,1
+14552,propanix 10mg tablet (ashbourne pharmaceuticals ltd),1
+14673,pindolol 15mg tablets,1
+14738,hydrochlorothiazide with losartan 12.5mg with 50mg tablet,1
+14808,bedranol sr 80mg capsules (sandoz ltd),1
+14870,telmisartan 40mg / hydrochlorothiazide 12.5mg tablets,1
+14943,valsartan 40mg tablets,1
+14960,coversyl 8mg tablets (servier laboratories ltd),1
+14965,cozaar 100mg tablets (merck sharp & dohme ltd),1
+14983,olmetec 10mg tablets (daiichi sankyo uk ltd),1
+15031,accuretic 12.5mg/10mg tablets (pfizer ltd),1
+15042,tolerzide tablet (bristol-myers squibb pharmaceuticals ltd),1
+15085,innovace titration pack (merck sharp & dohme ltd),1
+15096,accupro 40mg tablets (pfizer ltd),1
+15108,quinapril 10mg / hydrochlorothiazide 12.5mg tablets,1
+15117,nifedipine with atenolol 20mg + 50mg capsule,1
+15121,moexipril 7.5mg tablets,1
+15135,hydrochlorothiazide with captopril 12.5mg with 25mg tablet,1
+15176,totamol 50mg tablet (c p pharmaceuticals ltd),1
+15488,metoprolol tartrate with chlortalidone tablet,1
+15605,cilazapril 250micrograms tablets,1
+15619,half-betadur cr 80mg capsule (monmouth pharmaceuticals ltd),1
+15730,totamol 100mg tablet (c p pharmaceuticals ltd),1
+15958,captopril 2mg tablets,1
+16060,valsartan 80mg / hydrochlorothiazide 12.5mg tablets,1
+16161,telmisartan 80mg / hydrochlorothiazide 12.5mg tablets,1
+16196,vascace 5mg tablets (roche products ltd),1
+16197,vascace 2.5mg tablets (roche products ltd),1
+16212,vascace 1mg tablets (roche products ltd),1
+16285,teveten 400mg tablets (abbott healthcare products ltd),1
+16371,teveten 600mg tablets (mylan),1
+16645,labrocol 400mg tablet (lagap),1
+16701,carace 10mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+16708,enalapril titration pack,1
+16710,gopten 500microgram capsules (abbott laboratories ltd),1
+16776,celectol 400mg tablet (pantheon healthcare ltd),1
+16786,chlortalidone 25mg with atenolol 100mg tablets,1
+16924,imidapril 5mg tablets,1
+17006,triapin 5mg/5mg modified-release tablets (sanofi),1
+17082,syprol 5mg/5ml oral solution (rosemont pharmaceuticals ltd),1
+17120,moexipril 15mg tablets,1
+17122,isoprenaline hydrochloride 200micrograms/1ml solution for injection ampoules,1
+17322,atenix 25 tablets (ashbourne pharmaceuticals ltd),1
+17474,felodipine 5mg modified-release / ramipril 5mg tablets,1
+17545,micardis 80mg tablets (boehringer ingelheim ltd),1
+17615,cardicor 5mg tablets (merck serono ltd),1
+17624,captopril 5mg/5ml oral suspension,1
+17633,captopril 3mg/5ml oral solution,1
+17655,carace 10 tablet (bristol-myers squibb pharmaceuticals ltd),1
+17679,sotalol 10mg/ml injection,1
+17686,micardis 20mg tablets (boehringer ingelheim ltd),1
+17689,micardisplus 80mg/12.5mg tablets (boehringer ingelheim ltd),1
+17783,spiroprop tablet (pharmacia ltd),1
+18185,cardicor 7.5mg tablets (merck serono ltd),1
+18200,olmesartan medoxomil 20mg / hydrochlorothiazide 12.5mg tablets,1
+18202,micardisplus 40mg/12.5mg tablets (boehringer ingelheim ltd),1
+18219,imidapril 20mg tablets,1
+18223,trandolapril with verapamil 2mg + 180mg modified-release capsule,1
+18263,acezide 25mg/50mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+18269,acepril 12.5mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+18325,acepril 50mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+18414,eucardic 12.5mg tablets (roche products ltd),1
+18903,olmesartan medoxomil 20mg / hydrochlorothiazide 25mg tablets,1
+18910,olmetec 20mg tablets (daiichi sankyo uk ltd),1
+18950,totamol 25mg tablet (c p pharmaceuticals ltd),1
+19055,chlortalidone 12.5mg with atenolol 50mg tablets,1
+19142,bendroflumethiazide 2.5mg with timolol maleate 10mg tablets,1
+19172,atenolol 25mg tablets (ivax pharmaceuticals uk ltd),1
+19178,bisoprolol 10mg tablets (ranbaxy (uk) ltd),1
+19182,atenolol 50mg tablets (ivax pharmaceuticals uk ltd),1
+19191,atenolol 100mg tablets (teva uk ltd),1
+19198,lisinopril 20mg tablets (teva uk ltd),1
+19200,bisoprolol 5mg tablets (ivax pharmaceuticals uk ltd),1
+19202,carvedilol 6.25mg tablets (teva uk ltd),1
+19204,lisinopril 5mg tablets (teva uk ltd),1
+19208,enalapril 10mg tablets (actavis uk ltd),1
+19223,lisinopril 10mg tablets (teva uk ltd),1
+19437,eucardic 25mg tablets (roche products ltd),1
+19690,verapamil 180mg modified-release / trandolapril 2mg capsules,1
+19853,cardicor 3.75mg tablets (merck serono ltd),1
+19858,cardicor 10mg tablets (merck serono ltd),1
+19998,trandate 100mg/20ml solution for injection ampoules (focus pharmaceuticals ltd),1
+20012,visken 15mg tablet (sovereign medical ltd),1
+20082,lopresor sr 200mg tablets (recordati pharmaceuticals ltd),1
+20117,olmetec 40mg tablets (daiichi sankyo uk ltd),1
+20169,practolol 2mg/ml injection,1
+20188,enalapril 2.5mg wafer,1
+20468,half beta-prograne 80mg modified-release capsules (tillomed laboratories ltd),1
+20502,atenix 100 tablets (ashbourne pharmaceuticals ltd),1
+20579,tarka modified-release capsules (abbott laboratories ltd),1
+20728,atenamin 25mg tablet (opd pharm),1
+20849,tensopril 12.5mg tablets (teva uk ltd),1
+20975,lisinopril 7.5mg/5ml oral suspension,1
+21025,prestim forte tablet (leo pharma),1
+21053,vascace 500microgram tablets (roche products ltd),1
+21133,atenamin 50mg tablet (opd pharm),1
+21162,felodipine 2.5mg modified-release / ramipril 2.5mg tablets,1
+21182,hydrochlorothiazide with timolol and amiloride 25mg with 10mg with 2.5mg tablet,1
+21231,caralpha 20mg/12.5mg tablets (actavis uk ltd),1
+21423,cozaar-comp 100mg/25mg tablets (merck sharp & dohme ltd),1
+21838,propanix 80mg tablet (ashbourne pharmaceuticals ltd),1
+21839,berkolol 80mg tablet (berk pharmaceuticals ltd),1
+21866,berkolol 40mg tablet (berk pharmaceuticals ltd),1
+21873,atenix co 50 tablets (ashbourne pharmaceuticals ltd),1
+21885,oxyprenix sr 160mg tablets,1
+21905,bipranix 10mg tablets (ashbourne pharmaceuticals ltd),1
+21943,kaplon 12.5mg tablets (teva uk ltd),1
+21966,bipranix 5mg tablets (ashbourne pharmaceuticals ltd),1
+22208,half propanix la 80mg modified-release capsule (ashbourne pharmaceuticals ltd),1
+22439,ednyt 20mg tablet (dominion pharma),1
+22708,enalapril 5mg wafer,1
+22793,labrocol 200mg tablet (lagap),1
+22912,bendroflumethiazide 2.5mg with propanolol 80mg capsules,1
+23131,bendroflumethiazide 5mg with propanolol 160mg modified-release capsules,1
+23252,pralenal 10 tablets (opus pharmaceuticals ltd),1
+23326,betadur cr 160mg modified-release capsule (monmouth pharmaceuticals ltd),1
+23456,hydrochlorothiazide with valsartan 25mg with 160mg tablet,1
+23478,tensopril 50mg tablets (teva uk ltd),1
+23587,sloprolol 160mg capsule (c p pharmaceuticals ltd),1
+23642,vascace 0.25mg tablet (roche products ltd),1
+24041,enalapril 20mg wafer,1
+24083,bisoprolol 5mg tablets (teva uk ltd),1
+24094,trasicor 40mg tablets (amdipharm plc),1
+24191,antipressan 50mg tablets (teva uk ltd),1
+24195,antipressan 100mg tablets (teva uk ltd),1
+24218,berkolol 160mg tablet (berk pharmaceuticals ltd),1
+24268,hydrochlorothiazide with valsartan 12.5mg with 80mg tablet,1
+24280,totaretic 100mg+25mg tablet (c p pharmaceuticals ltd),1
+24359,diovan 40mg tablets (novartis pharmaceuticals uk ltd),1
+24461,betaloc i.v. 5mg/5ml solution for injection ampoules (astrazeneca uk ltd),1
+24482,captomex 50mg tablets (actavis uk ltd),1
+24484,hydrochlorothiazide with valsartan 12.5mg with 160mg tablet,1
+24632,hydrochlorothiazide with losartan 25mg with 100mg tablet,1
+24635,sotacor 10mg/ml injection (bristol-myers squibb pharmaceuticals ltd),1
+24832,lasipressin tablet (hoechst uk ltd),1
+25359,rapranol sr 160mg capsules (ranbaxy (uk) ltd),1
+25363,prestim tablets (meda pharmaceuticals ltd),1
+25367,rapranol sr 80mg capsules (ranbaxy (uk) ltd),1
+25382,co-diovan 160mg/25mg tablets (novartis pharmaceuticals uk ltd),1
+25462,clopamide 5mg with pindolol 10mg tablets,1
+25644,apsolox 80mg tablet (approved prescription services ltd),1
+25730,timolol maleate with amiloride and hydrochlorothiazide tablet,1
+25998,captomex 12.5mg tablets (actavis uk ltd),1
+26211,antipressan 25mg tablets (teva uk ltd),1
+26228,propanix la 160mg modified-release capsule (ashbourne pharmaceuticals ltd),1
+26229,beta-prograne 160mg modified-release capsules (tillomed laboratories ltd),1
+26248,tenchlor 100mg/25mg tablets (teva uk ltd),1
+26255,lopranol la 160mg capsule (opus pharmaceuticals ltd),1
+26529,furosemide with penbutolol tablet,1
+26741,totaretic 50mg+12.5mg tablet (c p pharmaceuticals ltd),1
+26895,syprol 10mg/5ml oral solution (rosemont pharmaceuticals ltd),1
+26922,brevibloc premixed 100mg/10ml solution for injection vials (baxter healthcare ltd),1
+26995,kaplon 25mg tablets (teva uk ltd),1
+27357,oxprenolol 40mg tablet (actavis uk ltd),1
+27520,olmetec plus 20mg/25mg tablets (daiichi sankyo uk ltd),1
+27700,propranolol 40mg tablets (actavis uk ltd),1
+27719,metoros ls 95mg tablet (geigy pharmaceuticals),1
+27727,sotalol 2mg/ml injection,1
+27871,innovace melt 10mg wafer (merck sharp & dohme ltd),1
+27964,apsolol 40mg tablet (approved prescription services ltd),1
+28048,angilol 10mg tablet (ddsa pharmaceuticals ltd),1
+28127,enalapril 2.5mg tablets (teva uk ltd),1
+28128,propranolol 80mg modified-release capsule (actavis uk ltd),1
+28177,hydrochlorothiazide with atenolol and amiloride capsule,1
+28438,triapin 2.5mg/2.5mg modified-release tablets (sanofi),1
+28486,captopril 6.25mg/5ml oral suspension,1
+28586,lopace 5mg capsules (discovery pharmaceuticals),1
+28700,cartrol 10mg tablet (novartis consumer health uk ltd),1
+28724,perdix 7.5mg tablets (ucb pharma ltd),1
+28725,perdix 15mg tablets (ucb pharma ltd),1
+28788,half propatard la 80mg modified-release capsule (galen ltd),1
+28820,captomex 25mg tablets (actavis uk ltd),1
+28902,odrik 2mg capsules (aventis pharma),1
+28996,bedranol sr 160mg capsules (sandoz ltd),1
+29130,gopten 4mg capsules (abbott laboratories ltd),1
+29180,trasicor 80mg tablets (amdipharm plc),1
+29230,slow-pren 160mg tablet (ivax pharmaceuticals uk ltd),1
+29368,atenolol 25mg tablets (teva uk ltd),1
+29398,atenamin 100mg tablet (opd pharm),1
+29427,hydrochlorothiazide with metoprolol tartrate 12.5mg with 100mg tablet,1
+29530,innovace melt 2.5mg wafer (merck sharp & dohme ltd),1
+29610,betim 10mg tablets (meda pharmaceuticals ltd),1
+29627,lopace 2.5mg capsules (discovery pharmaceuticals),1
+29634,olmetec plus 20mg/12.5mg tablets (daiichi sankyo uk ltd),1
+29762,mepranix 50mg tablet (ashbourne pharmaceuticals ltd),1
+29763,propanix 160mg tablet (ashbourne pharmaceuticals ltd),1
+29827,carteolol hcl 10mg tablets,1
+29998,metoros 190mg tablet (novartis pharmaceuticals uk ltd),1
+30039,tensopril 25mg tablets (teva uk ltd),1
+30400,mepranix 100mg tablet (ashbourne pharmaceuticals ltd),1
+30519,amiloride with timolol with hydrochlorothiazide tablets,1
+30541,esmolol hcl 250mg/ml concentrate solution for infusion,1
+30636,vasaten 50mg tablet (shire pharmaceuticals ltd),1
+30770,labetalol 200mg tablets (a a h pharmaceuticals ltd),1
+30921,lisinopril 2.5mg tablets (teva uk ltd),1
+31072,amias 32mg tablets (takeda uk ltd),1
+31214,propranolol 80mg tablets (mylan),1
+31307,odrik 500microgram capsules (aventis pharma),1
+31470,tenchlor 50mg/12.5mg tablets (teva uk ltd),1
+31536,atenolol 25mg tablets (kent pharmaceuticals ltd),1
+31587,innovace melt 20mg wafer (merck sharp & dohme ltd),1
+31708,co-tenidone 50mg/12.5mg tablets (actavis uk ltd),1
+31716,enalapril 20mg tablets (actavis uk ltd),1
+31776,propranolol 40mg tablets (mylan),1
+31810,odrik 1mg capsules (aventis pharma),1
+31833,angilol 80mg tablet (ddsa pharmaceuticals ltd),1
+31934,atenolol 100mg tablets (ivax pharmaceuticals uk ltd),1
+32048,kaplon 50mg tablets (teva uk ltd),1
+32094,co-tenidone 50mg/12.5mg tablets (a a h pharmaceuticals ltd),1
+32114,bisoprolol 5mg tablets (mylan),1
+32162,propranolol 80mg modified-release capsule (lagap),1
+32166,capto-co 25mg+50mg tablet (ivax pharmaceuticals uk ltd),1
+32241,enalapril 10mg tablets (a a h pharmaceuticals ltd),1
+32514,ecopace 25mg tablets (amco),1
+32552,congescor 2.5mg tablets (tillomed laboratories ltd),1
+32560,tanatril 20mg tablets (mitsubishi tanabe pharma europe ltd),1
+32597,lisinopril 10mg tablets (sandoz ltd),1
+32630,vivacor 10mg tablets (lexon (uk) ltd),1
+32787,visken 15mg tablets (amco),1
+32836,metoprolol 50mg tablets (mylan),1
+32857,ramipril 1.25mg capsules (teva uk ltd),1
+32934,lopace 10mg capsules (discovery pharmaceuticals),1
+33057,ednyt 5mg tablet (dominion pharma),1
+33078,enalapril 20mg tablets (a a h pharmaceuticals ltd),1
+33079,atenolol 100mg tablets (mylan),1
+33085,atenolol 100mg tablets (a a h pharmaceuticals ltd),1
+33092,atenolol 50mg tablets (a a h pharmaceuticals ltd),1
+33095,perindopril erbumine 4mg tablets (a a h pharmaceuticals ltd),1
+33184,atenolol 100mg tablets (wockhardt uk ltd),1
+33336,captopril 5mg/5ml oral suspension (eldon laboratories),1
+33353,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+33374,carvedilol 12.5mg tablets (genus pharmaceuticals ltd),1
+33376,probeta la 160mg capsule (trinity pharmaceuticals ltd),1
+33569,oxprenolol sr 160mg modified-release tablet (hillcross pharmaceuticals ltd),1
+33602,slo-pro 160mg capsules (mylan),1
+33644,propranolol 80mg tablets (a a h pharmaceuticals ltd),1
+33646,captopril 12.5mg tablet (generics (uk) ltd),1
+33650,atenolol 50mg tablets (mylan),1
+33657,atenolol 25mg tablets (a a h pharmaceuticals ltd),1
+33659,hydrochlorothiazide with metoprolol tartrate 25mg with 200mg modified-release tablet,1
+33811,ramipril 2.5mg capsules (ranbaxy (uk) ltd),1
+33836,apsolol 160mg tablet (approved prescription services ltd),1
+33839,bisoprolol 10mg tablets (actavis uk ltd),1
+33850,atenolol 50mg tablets (actavis uk ltd),1
+33894,ramipril 10mg capsules (teva uk ltd),1
+33909,congescor 1.25mg tablets (tillomed laboratories ltd),1
+33977,lisinopril 10mg tablets (mylan),1
+34012,co-tenidone 100mg/25mg tablets (ivax pharmaceuticals uk ltd),1
+34034,co-tenidone 50mg/12.5mg tablets (ivax pharmaceuticals uk ltd),1
+34092,metoprolol 100mg tablets (teva uk ltd),1
+34094,metoprolol 50mg tablets (a a h pharmaceuticals ltd),1
+34125,metoprolol 100mg tablets (a a h pharmaceuticals ltd),1
+34171,labetalol 100mg tablet (c p pharmaceuticals ltd),1
+34177,labetalol 100mg tablets (a a h pharmaceuticals ltd),1
+34185,propranolol la 80mg modified-release capsule (approved prescription services ltd),1
+34188,labetalol 200mg tablet (celltech pharma europe ltd),1
+34208,propranolol sr 160mg modified-release capsule (c p pharmaceuticals ltd),1
+34214,propranolol 160mg tablets (actavis uk ltd),1
+34265,atenolol 50mg tablets (sandoz ltd),1
+34357,ramipril 10mg capsules (genus pharmaceuticals ltd),1
+34365,atenolol 50mg tablets (teva uk ltd),1
+34371,sotalol 40mg tablets (a a h pharmaceuticals ltd),1
+34378,propranolol 10mg tablets (a a h pharmaceuticals ltd),1
+34382,ramipril 5mg capsules (zentiva),1
+34390,ramipril 5mg capsules (genus pharmaceuticals ltd),1
+34400,enalapril 5mg tablet (dowelhurst ltd),1
+34407,metoprolol 50mg tablets (teva uk ltd),1
+34412,ramipril 5mg capsules (teva uk ltd),1
+34429,ramipril 5mg capsules (mylan),1
+34430,metoprolol 50mg tablets (actavis uk ltd),1
+34431,ramipril 2.5mg capsules (zentiva),1
+34432,ramipril 2.5mg capsules (genus pharmaceuticals ltd),1
+34443,atenolol 50mg tablets (wockhardt uk ltd),1
+34449,co-tenidone 50mg/12.5mg tablets (mylan),1
+34453,enalapril 20mg tablets (mylan),1
+34471,lisinopril 5mg tablets (mylan),1
+34490,ramipril 2.5mg capsules (teva uk ltd),1
+34492,atenolol 25mg tablets (mylan),1
+34501,carvedilol 12.5mg tablets (actavis uk ltd),1
+34505,ramipril 2.5mg capsules (sandoz ltd),1
+34509,metoprolol 100mg tablets (mylan),1
+34520,sotalol 80mg tablets (mylan),1
+34528,ramipril 2.5mg capsules (a a h pharmaceuticals ltd),1
+34539,ramipril 5mg capsules (sandoz ltd),1
+34540,ramipril 5mg capsules (a a h pharmaceuticals ltd),1
+34544,captopril 12.5mg tablet (ivax pharmaceuticals uk ltd),1
+34562,captopril 25mg tablet (ivax pharmaceuticals uk ltd),1
+34567,ramipril 2.5mg capsules (mylan),1
+34575,atenolol 25mg tablets (wockhardt uk ltd),1
+34583,ramipril 10mg capsule (dexcel-pharma ltd),1
+34584,metoprolol 50mg tablets (ivax pharmaceuticals uk ltd),1
+34585,atenolol 25mg tablets (sandoz ltd),1
+34589,ramipril 5mg capsule (dexcel-pharma ltd),1
+34600,sotalol 40mg tablets (teva uk ltd),1
+34640,sotalol 40mg tablet (tillomed laboratories ltd),1
+34651,ramipril 10mg capsules (mylan),1
+34652,ramipril 5mg capsule (sovereign medical ltd),1
+34657,ramipril 10mg capsules (zentiva),1
+34690,sotalol 80mg tablets (sandoz ltd),1
+34695,atenolol 50mg tablets (kent pharmaceuticals ltd),1
+34696,lisinopril 20mg tablets (mylan),1
+34698,ramipril 1.25mg capsules (zentiva),1
+34710,ramipril 10mg capsules (sandoz ltd),1
+34712,enalapril 20mg tablets (kent pharmaceuticals ltd),1
+34719,captopril 50mg tablet (generics (uk) ltd),1
+34732,ramipril 2.5mg capsule (dexcel-pharma ltd),1
+34740,carvedilol 6.25mg tablets (actavis uk ltd),1
+34741,carvedilol 3.125mg tablets (ivax pharmaceuticals uk ltd),1
+34754,atenolol 100mg tablets (sandoz ltd),1
+34768,enalapril 20mg tablets (ivax pharmaceuticals uk ltd),1
+34783,propranolol 10mg tablets (actavis uk ltd),1
+34798,enalapril 20mg tablets (sandoz ltd),1
+34799,lisinopril 20mg tablets (zentiva),1
+34804,propranolol 10mg tablets (teva uk ltd),1
+34821,bisoprolol 10mg tablets (mylan),1
+34825,co-tenidone 50mg/12.5mg tablets (teva uk ltd),1
+34854,metoprolol 100mg tablets (actavis uk ltd),1
+34867,propranolol 80mg capsule (ivax pharmaceuticals uk ltd),1
+34868,propranolol 40mg tablets (teva uk ltd),1
+34877,ramipril 10mg capsule (sovereign medical ltd),1
+34882,atenolol 50mg tablet (berk pharmaceuticals ltd),1
+34884,propranolol 160mg modified-release capsule (sandoz ltd),1
+34890,metoprolol 50mg tablet (berk pharmaceuticals ltd),1
+34893,ramipril 10mg capsule (ivax pharmaceuticals uk ltd),1
+34899,co-tenidone 100mg/25mg tablets (a a h pharmaceuticals ltd),1
+34925,metoprolol 50mg tablets (sandoz ltd),1
+34936,captopril 25mg tablet (lagap),1
+34937,captopril 50mg tablet (ivax pharmaceuticals uk ltd),1
+34943,ramipril 10mg capsules (a a h pharmaceuticals ltd),1
+34945,propranolol 160mg modified-release capsule (lagap),1
+34949,propranolol 160mg modified-release capsule (actavis uk ltd),1
+34952,enalapril 10mg tablets (mylan),1
+34953,enalapril 20mg tablets (zentiva),1
+34963,bisoprolol 5mg tablets (actavis uk ltd),1
+34976,atenolol 25mg tablets (tillomed laboratories ltd),1
+35007,ramipril 10mg/5ml oral suspension,1
+35054,celectol 200mg tablets (zentiva),1
+35062,trasicor 20mg tablets (amdipharm plc),1
+35173,valsartan 160mg with amlodipine 5mg tablets,1
+35174,valsartan 80mg with amlodipine 5mg tablets,1
+35196,coaprovel 300mg/25mg tablets (sanofi),1
+35302,captopril 12.5mg/5ml oral suspension,1
+35304,valsartan 160mg with amlodipine 10mg tablets,1
+35380,hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet,1
+35481,irbesartan 300mg / hydrochlorothiazide 25mg tablets,1
+35695,visken 5mg tablets (amco),1
+35710,sotalol 25mg/5ml oral suspension,1
+35731,perindopril erbumine 8mg tablets (a a h pharmaceuticals ltd),1
+35778,labrocol 100mg tablet (lagap),1
+35794,enalapril 5mg tablets (a a h pharmaceuticals ltd),1
+35938,propranolol 80mg modified-release capsules (a a h pharmaceuticals ltd),1
+35940,celectol 400mg tablets (zentiva),1
+36261,atenolol 50mg tablets (tillomed laboratories ltd),1
+36576,propranolol 10mg tablets (mylan),1
+36603,propranolol sr 160mg modified-release capsule (hillcross pharmaceuticals ltd),1
+36742,captopril 2mg/5ml oral suspension,1
+36753,ednyt 10mg tablet (dominion pharma),1
+36939,irbesartan 300mg/5ml oral suspension,1
+37080,enalapril 5mg/5ml oral solution,1
+37087,enalapril 5mg/5ml oral suspension,1
+37118,bisoprolol 2.5mg tablets (a a h pharmaceuticals ltd),1
+37573,valsartan 320mg tablets,1
+37650,losartan 100mg / hydrochlorothiazide 12.5mg tablets,1
+37655,captopril 25mg tablets (teva uk ltd),1
+37710,lisinopril 10mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+37725,co-tenidone 100mg/25mg tablets (mylan),1
+37747,cozaar-comp 100mg/12.5mg tablets (merck sharp & dohme ltd),1
+37778,lisinopril 5mg/5ml oral suspension,1
+37837,bisoprolol 2.5mg tablet (teva uk ltd),1
+37908,coversyl arginine plus 5mg/1.25mg tablets (servier laboratories ltd),1
+37930,perindopril arginine 5mg tablets,1
+37964,perindopril arginine 2.5mg tablets,1
+37965,coversyl arginine 5mg tablets (servier laboratories ltd),1
+37971,perindopril arginine 10mg tablets,1
+37978,perindopril arginine 5mg / indapamide 1.25mg tablets,1
+38026,coversyl arginine 10mg tablets (servier laboratories ltd),1
+38034,coversyl arginine 2.5mg tablets (servier laboratories ltd),1
+38285,perindopril erbumine 4mg tablets (teva uk ltd),1
+38308,ramipril 2.5/5mg/10mg tablet,1
+38367,hydrochlorothiazide with losartan 12.5mg with 100mg tablet,1
+38370,labetalol 100mg/20ml solution for injection ampoules,1
+38395,valsartan 80mg tablets,1
+38433,propranolol 50mg/5ml oral solution (rosemont pharmaceuticals ltd),1
+38459,telmisartan 80mg / hydrochlorothiazide 25mg tablets,1
+38510,perindopril erbumine 4mg tablets (apotex uk ltd),1
+38854,quinapril 20mg/5ml oral solution,1
+38889,micardisplus 80mg/25mg tablets (boehringer ingelheim ltd),1
+38899,quinil 10mg tablets (tillomed laboratories ltd),1
+38991,bisoprolol 7.5mg tablets (a a h pharmaceuticals ltd),1
+38995,zestoretic 20 tablets (astrazeneca uk ltd),1
+39021,hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet,1
+39137,zestoretic 10 tablets (astrazeneca uk ltd),1
+39147,carace 20 plus tablets (merck sharp & dohme ltd),1
+39199,diovan 320mg tablets (novartis pharmaceuticals uk ltd),1
+39227,capozide ls 12.5mg/25mg tablets (bristol-myers squibb pharmaceuticals ltd),1
+39233,propranolol 80mg modified-release capsules (teva uk ltd),1
+39242,carace 10 plus tablets (merck sharp & dohme ltd),1
+39355,tritace 10mg tablet (sterwin medicines),1
+39421,tritace titration pack tablets (sanofi),1
+39423,sotalol 80mg tablets (a a h pharmaceuticals ltd),1
+39512,captopril 25mg/5ml oral suspension,1
+39646,bisoprolol 0.625mg/5ml oral solution,1
+39786,olmesartan medoxomil 10mg/5ml oral suspension,1
+39819,esmolol 2.5g/250ml infusion bags,1
+39846,vivacor 5mg tablets (lexon (uk) ltd),1
+39944,losartan 12.5mg tablets,1
+39984,sevikar 20mg/5mg tablets (daiichi sankyo uk ltd),1
+40167,metoprolol 100mg tablets (ivax pharmaceuticals uk ltd),1
+40240,labetalol 400mg tablets (a a h pharmaceuticals ltd),1
+40241,propranolol la 160mg capsule (approved prescription services ltd),1
+40316,olmesartan medoxomil 20mg / amlodipine 5mg tablets,1
+40355,quinil 5mg tablets (tillomed laboratories ltd),1
+40384,ramipril 10mg tablets (a a h pharmaceuticals ltd),1
+40571,cozaar 12.5mg tablets (merck sharp & dohme ltd),1
+40639,olmesartan medoxomil 40mg / amlodipine 5mg tablets,1
+40668,olmesartan medoxomil 40mg / amlodipine 10mg tablets,1
+40711,losartan 2.5mg/ml oral suspension sugar free,1
+40761,nebivolol 2.5mg tablets,1
+41203,sevikar 40mg/10mg tablets (daiichi sankyo uk ltd),1
+41205,sevikar 40mg/5mg tablets (daiichi sankyo uk ltd),1
+41232,cozaar 2.5mg/ml oral suspension (merck sharp & dohme ltd),1
+41417,enalapril 2.5mg tablets (a a h pharmaceuticals ltd),1
+41522,lisopress 20mg tablets (teva uk ltd),1
+41532,lisopress 5mg tablets (teva uk ltd),1
+41538,lisopress 2.5mg tablets (teva uk ltd),1
+41555,propranolol 40mg tablets (a a h pharmaceuticals ltd),1
+41572,co-tenidone 100mg/25mg tablets (teva uk ltd),1
+41573,lisopress 10mg tablets (teva uk ltd),1
+41591,bisoprolol 10mg tablets (teva uk ltd),1
+41617,captopril 25mg tablets (actavis uk ltd),1
+41633,captopril 12.5mg tablets (actavis uk ltd),1
+41694,enalapril 2.5mg tablets (ivax pharmaceuticals uk ltd),1
+41740,celiprolol 200mg tablets (teva uk ltd),1
+41743,captopril 50mg tablets (teva uk ltd),1
+41746,enalapril 10mg tablets (sandoz ltd),1
+41827,labetalol 100mg tablets (mylan),1
+42081,tritace 1.25mg tablet (sterwin medicines),1
+42152,syprol 50mg/5ml oral solution (rosemont pharmaceuticals ltd),1
+42285,quinil 40mg tablets (tillomed laboratories ltd),1
+42723,pralenal 5 tablets (opus pharmaceuticals ltd),1
+42795,celiprolol 200mg tablets (mylan),1
+42894,enalapril 10mg tablets (teva uk ltd),1
+42901,enalapril 5mg tablets (teva uk ltd),1
+42902,enalapril 20mg tablets (teva uk ltd),1
+42908,enalapril 5mg tablets (ivax pharmaceuticals uk ltd),1
+43012,perindopril erbumine oral solution,1
+43251,bisoprolol 1.25mg tablets (mylan),1
+43322,olmesartan medoxomil 40mg / hydrochlorothiazide 12.5mg tablets,1
+43411,enalapril 5mg tablets (sandoz ltd),1
+43412,lisinopril 2.5mg tablets (a a h pharmaceuticals ltd),1
+43413,lisinopril 20mg tablets (a a h pharmaceuticals ltd),1
+43416,lisinopril 10mg tablets (a a h pharmaceuticals ltd),1
+43418,lisinopril 5mg tablets (a a h pharmaceuticals ltd),1
+43432,captopril 6.25mg tablets,1
+43507,captopril 25mg tablet (generics (uk) ltd),1
+43525,propranolol 10mg tablets (ivax pharmaceuticals uk ltd),1
+43549,sotalol 40mg tablets (ivax pharmaceuticals uk ltd),1
+43563,enalapril 2.5mg tablets (zentiva),1
+43564,bisoprolol 5mg tablet (pliva pharma ltd),1
+43566,lisinopril 2.5mg tablets (sandoz ltd),1
+43649,captopril 25mg tablets (a a h pharmaceuticals ltd),1
+43813,perindopril erbumine 2mg tablets (actavis uk ltd),1
+43915,olmetec plus 40mg/12.5mg tablets (daiichi sankyo uk ltd),1
+44000,bisoprolol 2.5mg/5ml oral suspension,1
+44083,labetalol 200mg tablets (actavis uk ltd),1
+44527,captopril 5mg/ml oral solution sugar free,1
+44657,ednyt 2.5mg tablet (dominion pharma),1
+44778,valsartan 160mg tablets,1
+44808,nebivolol 2.5mg tablets (a a h pharmaceuticals ltd),1
+44858,atenolol 25mg tablets (actavis uk ltd),1
+45217,enalapril 5mg tablets (kent pharmaceuticals ltd),1
+45228,captopril capsules,1
+45250,labetalol 400mg tablets (sandoz ltd),1
+45264,ramipril 1.25mg capsules (actavis uk ltd),1
+45289,metoprolol tartrate oral solution,1
+45297,propranolol 40mg tablets (ivax pharmaceuticals uk ltd),1
+45300,lisinopril 10mg tablets (actavis uk ltd),1
+45309,acebutolol 400mg tablets (a a h pharmaceuticals ltd),1
+45319,perindopril erbumine 2mg tablets (a a h pharmaceuticals ltd),1
+45324,lisinopril 20mg tablets (actavis uk ltd),1
+45337,lisinopril 5mg tablets (actavis uk ltd),1
+45340,ramipril 10mg capsule (actavis uk ltd),1
+45343,propranolol sr 80mg modified-release capsule (c p pharmaceuticals ltd),1
+45494,propranolol 10mg tablets (almus pharmaceuticals ltd),1
+45554,ramipril 5mg/5ml oral solution,1
+45600,diovan 160mg tablet (novartis pharmaceuticals uk ltd),1
+45765,syprol 40mg/5ml oral solution (rosemont pharmaceuticals ltd),1
+45816,lisinopril 5mg tablets (almus pharmaceuticals ltd),1
+45877,beta-prograne 160mg modified-release capsules (teva uk ltd),1
+45938,perindopril erbumine 8mg tablets (teva uk ltd),1
+46355,sevikar hct 20mg/5mg/12.5mg tablets (daiichi sankyo uk ltd),1
+46363,half beta-prograne 80mg modified-release capsules (teva uk ltd),1
+46365,quinil 20mg tablets (tillomed laboratories ltd),1
+46614,lopresor 50mg tablets (recordati pharmaceuticals ltd),1
+46687,olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg tablet,1
+46715,olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg tablet,1
+46740,lopresor 100mg tablets (recordati pharmaceuticals ltd),1
+46792,olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg tablet,1
+46851,captopril 5mg/5ml oral solution,1
+46890,ramipril 5mg/5ml oral suspension,1
+46908,atenolol 100mg tablets (kent pharmaceuticals ltd),1
+46931,atenolol 100mg tablets (actavis uk ltd),1
+46935,carvedilol 3.125mg tablets (actavis uk ltd),1
+46936,carvedilol 3.125mg tablets (a a h pharmaceuticals ltd),1
+46951,captopril 12.5mg tablets (a a h pharmaceuticals ltd),1
+46952,co-tenidone 100mg/25mg tablets (actavis uk ltd),1
+46957,captopril 12.5mg tablets (tillomed laboratories ltd),1
+46974,enalapril 5mg tablets (mylan),1
+46975,lisinopril 5mg tablets (sandoz ltd),1
+46979,lisinopril 20mg tablets (sandoz ltd),1
+47006,losartan 100mg tablets (teva uk ltd),1
+47021,ramipril 2.5mg/5ml oral solution sugar free,1
+47041,bisoprolol 2.5mg tablets (mylan),1
+47107,carvedilol 5mg/5ml oral suspension,1
+47159,lisinopril 10mg tablets (almus pharmaceuticals ltd),1
+47300,nebivolol 2.5mg tablets (glenmark pharmaceuticals europe ltd),1
+47467,olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg tablet,1
+47536,metoprolol tartrate 12.5mg/5ml oral suspension,1
+47573,sevikar hct 40mg/5mg/12.5mg tablets (daiichi sankyo uk ltd),1
+47616,sevikar hct 40mg/10mg/12.5mg tablets (daiichi sankyo uk ltd),1
+47673,labetalol 400mg tablet (approved prescription services ltd),1
+47674,labetalol 200mg tablet (c p pharmaceuticals ltd),1
+47727,sevikar hct 40mg/5mg/25mg tablets (daiichi sankyo uk ltd),1
+47833,bedranol sr 80mg capsules (almus pharmaceuticals ltd),1
+47870,atenolol 25mg tablets (almus pharmaceuticals ltd),1
+47907,bedranol sr 160mg capsules (almus pharmaceuticals ltd),1
+47998,ramipril 2.5mg capsules (actavis uk ltd),1
+48008,ramipril 5mg capsules (actavis uk ltd),1
+48039,losartan 100mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+48049,perindopril erbumine 2mg tablets (mylan),1
+48053,ramipril 2.5mg capsules (almus pharmaceuticals ltd),1
+48098,perindopril arginine 4mg with indapamide 1.25mg tablet,1
+48180,perindopril erbumine 4mg tablets (sandoz ltd),1
+48214,perindopril erbumine 4mg tablets (actavis uk ltd),1
+48398,losartan 25mg tablets (dexcel-pharma ltd),1
+48682,propranolol 50mg/5ml oral solution sugar free,1
+48745,timolol 10mg / amiloride 2.5mg / hydrochlorothiazide 25mg tablets,1
+49142,carvedilol 3.125mg/5ml oral suspension,1
+49164,ramipril 10mg capsules (actavis uk ltd),1
+49491,perindopril erbumine 2mg tablets (consilient health ltd),1
+49492,losartan 25mg tablets (mylan),1
+49588,losartan 100mg tablets (a a h pharmaceuticals ltd),1
+49863,propranolol 5mg/5ml oral solution sugar free,1
+49953,atenolol 25mg tablets (bristol laboratories ltd),1
+50185,candesartan 8mg tablets (teva uk ltd),1
+50224,congescor 2.5mg tablets (teva uk ltd),1
+50300,congescor 1.25mg tablets (teva uk ltd),1
+50334,enalapril 4mg/5ml oral suspension,1
+50347,coversyl arginine 5mg tablets (waymade healthcare plc),1
+50402,perindopril 2mg tablet (servier laboratories ltd),1
+50403,bisoprolol 1.25mg tablet (teva uk ltd),1
+50509,ramipril 10mg/5ml oral solution,1
+50514,bisoprolol 2.5mg tablets (chanelle medical uk ltd),1
+50607,perindopril arginine 2mg with indapamide 625 micrograms tablet,1
+50702,atenolol 25mg tablets (alliance healthcare (distribution) ltd),1
+50780,enalapril 2mg/5ml oral solution,1
+50863,enalapril 5mg/5ml oral solution (drug tariff special order),1
+50971,losartan 25mg tablets (a a h pharmaceuticals ltd),1
+51117,candesartan 8mg tablets (de pharmaceuticals),1
+51186,losartan 25mg tablets (arrow generics ltd),1
+51258,coversyl arginine plus 5mg/1.25mg tablets (de pharmaceuticals),1
+51368,azilsartan medoxomil 80mg tablets,1
+51433,lisinopril 20mg tablets (tillomed laboratories ltd),1
+51447,metoprolol 12.5mg/5ml oral suspension,1
+51492,sotalol 25mg/5ml oral solution,1
+51519,candesartan 8mg tablets (a a h pharmaceuticals ltd),1
+51528,bisoprolol 1.25mg tablets (actavis uk ltd),1
+51601,losartan 50mg tablets (actavis uk ltd),1
+51643,atenolol 25mg/5ml oral solution sugar free (alliance healthcare (distribution) ltd),1
+51647,candesartan 4mg tablets (mawdsley-brooks & company ltd),1
+51701,ramipril 5mg capsules (bristol laboratories ltd),1
+51714,ramipril 2.5mg capsules (alliance healthcare (distribution) ltd),1
+51807,coversyl arginine 5mg tablets (de pharmaceuticals),1
+51897,edarbi 20mg tablets (takeda uk ltd),1
+51998,atenolol 25mg tablets (strides shasun (uk) ltd),1
+52010,enalapril 10mg tablets (alliance healthcare (distribution) ltd),1
+52088,lisinopril 5mg tablets (phoenix healthcare distribution ltd),1
+52136,bedranol sr 160mg capsule (lagap),1
+52145,cyclopenthiazide 0.25mg with oxprenolol 160mg modified-release tablets,1
+52189,losartan 100mg / hydrochlorothiazide 25mg tablets (a a h pharmaceuticals ltd),1
+52197,ramipril 5mg capsules (sigma pharmaceuticals plc),1
+52208,candesartan 16mg tablets (a a h pharmaceuticals ltd),1
+52293,captopril 2mg capsules,1
+52310,atenolol 25mg tablets (crescent pharma ltd),1
+52399,ramipril 1.25mg capsules (kent pharmaceuticals ltd),1
+52407,ramipril 10mg capsules (kent pharmaceuticals ltd),1
+52427,cozaar 100mg tablets (necessity supplies ltd),1
+52499,captopril 25mg/5ml oral solution,1
+52500,atenolol 50mg tablets (almus pharmaceuticals ltd),1
+52559,candesartan 8mg tablets (zentiva),1
+52609,inderal la 160mg capsules (sigma pharmaceuticals plc),1
+52611,bisoprolol 10mg/5ml oral solution,1
+52635,bisoprolol 5mg tablets (alliance healthcare (distribution) ltd),1
+52658,losartan 100mg/5ml oral suspension,1
+52659,losartan 50mg/5ml oral solution,1
+52686,bisoprolol 2.5mg/5ml oral solution,1
+52728,beta-adalat modified-release capsules (lexon (uk) ltd),1
+52777,propranolol 40mg tablets (kent pharmaceuticals ltd),1
+52858,co-diovan 80mg/12.5mg tablets (sigma pharmaceuticals plc),1
+52882,enalapril 5mg/5ml oral suspension sugar free,1
+52886,losartan 12.5mg tablets (a a h pharmaceuticals ltd),1
+52972,irbesartan 300mg tablets (sigma pharmaceuticals plc),1
+53058,perindopril erbumine 8mg tablets (sandoz ltd),1
+53177,propranolol oral solution,1
+53204,atenolol 50mg tablets (alliance healthcare (distribution) ltd),1
+53215,atenolol 50mg tablets (bristol laboratories ltd),1
+53220,sevikar hct 40mg/10mg/25mg tablets (daiichi sankyo uk ltd),1
+53271,lisinopril 10mg tablets (alliance healthcare (distribution) ltd),1
+53334,bisoprolol 10mg tablets (a a h pharmaceuticals ltd),1
+53414,atenolol 50mg tablets (accord healthcare ltd),1
+53551,lisinopril 20mg tablets (phoenix healthcare distribution ltd),1
+53612,ramipril 10mg tablets (alliance healthcare (distribution) ltd),1
+53621,ramipril 2.5mg capsules (bristol laboratories ltd),1
+53664,bisoprolol 2.5mg tablets (sandoz ltd),1
+53680,candesartan 16mg tablets (teva uk ltd),1
+53719,enalapril 20mg tablets (alliance healthcare (distribution) ltd),1
+53755,candesartan 4mg tablets (teva uk ltd),1
+53802,atenolol 25mg tablets (sigma pharmaceuticals plc),1
+53820,lisinopril 5mg tablets (arrow generics ltd),1
+53826,atenolol 25mg tablets (boston healthcare ltd),1
+53833,valsartan 160mg capsules (mylan),1
+53885,bisoprolol 1.25mg tablets (a a h pharmaceuticals ltd),1
+53915,enalapril 5mg tablets (dexcel-pharma ltd),1
+54037,lisinopril 10mg tablets (relonchem ltd),1
+54049,losartan 50mg tablets (accord healthcare ltd),1
+54057,losartan 50mg tablets (teva uk ltd),1
+54106,carvedilol 1.5mg/5ml oral suspension,1
+54201,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets (almus pharmaceuticals ltd),1
+54283,lisinopril 5mg/5ml oral suspension (special order),1
+54288,lisinopril 10mg tablets (arrow generics ltd),1
+54297,propranolol 50mg/5ml oral solution,1
+54298,ramipril 2.5mg capsules (arrow generics ltd),1
+54326,candesartan 32mg tablets (teva uk ltd),1
+54345,trandolapril 4mg capsules (arrow generics ltd),1
+54404,losartan 100mg tablets (actavis uk ltd),1
+54414,candesartan 16mg tablets (consilient health ltd),1
+54479,bisoprolol 1.25mg tablets (alliance healthcare (distribution) ltd),1
+54487,nebivolol 2.5mg tablets (sigma pharmaceuticals plc),1
+54512,lisinopril oral solution,1
+54542,atenolol 25mg tablets (zanza laboratories ltd),1
+54544,captopril 25mg/5ml oral suspension,1
+54620,ramipril 2.5mg capsules (sigma pharmaceuticals plc),1
+54623,beta-prograne 160mg modified-release capsules (actavis uk ltd),1
+54733,perindopril erbumine 8mg tablets (consilient health ltd),1
+54735,losartan 50mg tablets (alliance healthcare (distribution) ltd),1
+54740,losartan 25mg tablets (actavis uk ltd),1
+54752,atenolol 50mg tablets (strides shasun (uk) ltd),1
+54843,losartan 50mg tablets (dexcel-pharma ltd),1
+54899,perindopril erbumine 2mg tablets (teva uk ltd),1
+54928,lisinopril 10mg tablets (bristol laboratories ltd),1
+54941,ramipril 5mg capsules (alliance healthcare (distribution) ltd),1
+54942,perindopril erbumine 8mg tablets (mylan),1
+54986,perindopril erbumine 8mg/5ml oral suspension,1
+55002,lisinopril 20mg tablets (accord healthcare ltd),1
+55017,irbesartan 300mg tablets (accord healthcare ltd),1
+55160,cozaar-comp 50mg/12.5mg tablets (sigma pharmaceuticals plc),1
+55187,valsartan 160mg capsules (arrow generics ltd),1
+55228,propranolol 40mg tablets (boston healthcare ltd),1
+55296,losartan 50mg tablets (mylan),1
+55298,bisoprolol 10mg tablets (sigma pharmaceuticals plc),1
+55299,ramipril 1.25mg capsules (a a h pharmaceuticals ltd),1
+55358,olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg tablet,1
+55399,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets (a a h pharmaceuticals ltd),1
+55416,propranolol 40mg tablets (almus pharmaceuticals ltd),1
+55446,losartan 100mg tablets (bristol laboratories ltd),1
+55456,lisinopril 5mg tablets (alliance healthcare (distribution) ltd),1
+55588,lisinopril 20mg tablets (sigma pharmaceuticals plc),1
+55639,lisinopril 10mg tablets (accord healthcare ltd),1
+55718,losartan 25mg tablets (phoenix healthcare distribution ltd),1
+55778,atenolol 50mg tablets (phoenix healthcare distribution ltd),1
+55791,bisoprolol 3.75mg tablets (actavis uk ltd),1
+55798,ramipril 5mg capsules (waymade healthcare plc),1
+55849,propranolol 160mg tablets (mylan),1
+55853,pindolol 15mg tablet (hillcross pharmaceuticals ltd),1
+55896,lisinopril 2.5mg tablets (actavis uk ltd),1
+55903,enalapril 10mg tablets (dexcel-pharma ltd),1
+55929,bisoprolol 5mg tablets (accord healthcare ltd),1
+55949,propranolol 40mg/5ml oral solution,1
+55979,metoprolol 25mg/5ml oral suspension,1
+56013,ramipril 2.5mg capsules (waymade healthcare plc),1
+56038,ramipril 10mg tablets (pfizer ltd),1
+56079,perindopril tosilate 10mg tablets,1
+56104,losartan 50mg tablets (a a h pharmaceuticals ltd),1
+56129,ramipril 5mg capsules (kent pharmaceuticals ltd),1
+56148,ramipril 1.25mg tablets (kent pharmaceuticals ltd),1
+56157,perindopril tosilate 5mg / indapamide 1.25mg tablets,1
+56162,perindopril erbumine 4mg tablets (consilient health ltd),1
+56169,ramipril 10mg capsules (arrow generics ltd),1
+56173,half beta-prograne 80mg modified-release capsules (actavis uk ltd),1
+56204,losartan 50mg / hydrochlorothiazide 12.5mg tablets (actavis uk ltd),1
+56240,bisoprolol 3.75mg tablets (sandoz ltd),1
+56244,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets (tillomed laboratories ltd),1
+56279,lisinopril 2.5mg/5ml oral solution,1
+56356,ramipril 10mg capsules (alliance healthcare (distribution) ltd),1
+56445,atenolol 25mg/5ml oral solution sugar free (a a h pharmaceuticals ltd),1
+56459,bisoprolol 2.5mg tablets (accord healthcare ltd),1
+56472,perindopril erbumine 4mg tablets (kent pharmaceuticals ltd),1
+56473,perindopril erbumine 2mg tablets (sigma pharmaceuticals plc),1
+56485,celectol 200mg tablets (waymade healthcare plc),1
+56486,monocor 10mg tablets (dowelhurst ltd),1
+56505,zestril 5mg tablets (lexon (uk) ltd),1
+56506,coversyl 2mg tablets (dowelhurst ltd),1
+56508,coversyl 4mg tablets (dowelhurst ltd),1
+56509,capoten 12.5mg tablets (dowelhurst ltd),1
+56510,zestril 20mg tablets (sigma pharmaceuticals plc),1
+56516,perindopril erbumine 2mg tablets (sandoz ltd),1
+56606,azilsartan medoxomil 40mg tablets,1
+56704,ramipril 1.25mg capsules (alliance healthcare (distribution) ltd),1
+56763,ramipril 10mg capsules (phoenix healthcare distribution ltd),1
+56764,propranolol 40mg tablets (waymade healthcare plc),1
+56768,bisoprolol 2.5mg tablets (niche generics ltd),1
+56850,ecopace 12.5mg tablets (amco),1
+56855,ramipril 10mg capsules (sigma pharmaceuticals plc),1
+56970,losartan 100mg tablets (pfizer ltd),1
+56975,losartan 50mg / hydrochlorothiazide 12.5mg tablets (a a h pharmaceuticals ltd),1
+57023,bisoprolol 2.5mg tablets (almus pharmaceuticals ltd),1
+57026,candesartan 8mg tablets (waymade healthcare plc),1
+57028,losartan 100mg tablets (mylan),1
+57048,lisinopril 10mg tablets (zentiva),1
+57073,ramipril 1.25mg capsules (waymade healthcare plc),1
+57176,bisoprolol 10mg tablets (accord healthcare ltd),1
+57235,ramipril 1.25mg tablets (sandoz ltd),1
+57240,metoprolol 50mg/5ml oral suspension (special order),1
+57266,candesartan 2mg tablets (actavis uk ltd),1
+57273,candesartan 8mg tablets (actavis uk ltd),1
+57333,perindopril tosilate 5mg tablets,1
+57342,propranolol 40mg tablets (phoenix healthcare distribution ltd),1
+57346,ramipril 10mg capsules (waymade healthcare plc),1
+57378,enalapril 2mg/5ml oral suspension,1
+57539,zestoretic 10 tablets (sigma pharmaceuticals plc),1
+57567,propranolol 10mg/5ml oral suspension,1
+57573,celectol 200mg tablets (dowelhurst ltd),1
+57578,cardicor 2.5mg tablets (necessity supplies ltd),1
+57588,zestril 2.5mg tablets (mawdsley-brooks & company ltd),1
+57626,bisoprolol 1.25mg/5ml oral solution,1
+57658,ramipril 1.25mg tablets (a a h pharmaceuticals ltd),1
+57701,perindopril erbumine 8mg tablets (actavis uk ltd),1
+57796,cozaar-comp 50mg/12.5mg tablets (de pharmaceuticals),1
+57801,perindopril erbumine 4mg tablets (glenmark pharmaceuticals europe ltd),1
+57817,atenolol 50mg tablets (zentiva),1
+57864,ramipril 5mg tablets (sigma pharmaceuticals plc),1
+57882,enalapril 2.5mg/5ml oral suspension,1
+57934,bisoprolol 5mg tablets (sandoz ltd),1
+57944,perindopril tosilate 2.5mg tablets,1
+57977,candesartan 16mg tablets (alliance healthcare (distribution) ltd),1
+58108,irbesartan 150mg tablets (a a h pharmaceuticals ltd),1
+58109,bisoprolol 1.25mg/5ml oral suspension,1
+58195,captopril 12.5mg/5ml oral solution,1
+58201,irbesartan 150mg tablets (actavis uk ltd),1
+58258,lisinopril 2.5mg/5ml oral suspension,1
+58274,losartan 25mg tablets (accord healthcare ltd),1
+58294,lisinopril 5mg tablets (accord healthcare ltd),1
+58297,propranolol 10mg tablets (kent pharmaceuticals ltd),1
+58407,propranolol 80mg tablets (teva uk ltd),1
+58451,lisinopril 2.5mg tablets (almus pharmaceuticals ltd),1
+58455,bisoprolol 7.5mg tablets (sandoz ltd),1
+58461,lisinopril 2.5mg tablets (kent pharmaceuticals ltd),1
+58491,propranolol 40mg tablets (alliance healthcare (distribution) ltd),1
+58498,bisoprolol 2.5mg tablets (medreich plc),1
+58511,bisoprolol 1.25mg tablets (sandoz ltd),1
+58646,candesartan 4mg tablets (actavis uk ltd),1
+58649,losartan 25mg tablets (bristol laboratories ltd),1
+58669,valsartan 40mg capsules (teva uk ltd),1
+58682,lisinopril 2.5mg tablets (mylan),1
+58751,enalapril 1.25mg/5ml oral suspension,1
+58763,bisoprolol 2.5mg tablets (waymade healthcare plc),1
+58843,perindopril erbumine 2mg tablets (kent pharmaceuticals ltd),1
+58863,lisinopril 10mg tablets (phoenix healthcare distribution ltd),1
+58871,lisinopril 10mg tablets (waymade healthcare plc),1
+58874,perindopril erbumine 2mg tablets (somex pharma),1
+58910,valsartan 80mg capsules (sigma pharmaceuticals plc),1
+58967,losartan 12.5mg tablets (alliance healthcare (distribution) ltd),1
+58973,bisoprolol 10mg tablets (niche generics ltd),1
+58974,bisoprolol 2.5mg tablets (alliance healthcare (distribution) ltd),1
+58982,bisoprolol 10mg tablets (medreich plc),1
+59029,valsartan 3mg/ml oral solution,1
+59037,bisoprolol 5mg tablets (a a h pharmaceuticals ltd),1
+59086,losartan 25mg tablets (wockhardt uk ltd),1
+59109,lisinopril 5mg tablets (tillomed laboratories ltd),1
+59111,lisinopril 20mg tablets (alliance healthcare (distribution) ltd),1
+59148,bisoprolol 2.5mg tablets (zentiva),1
+59222,labetalol 100mg/20ml solution for injection ampoules (rph pharmaceuticals ab),1
+59271,losartan 25mg tablets (sandoz ltd),1
+59340,losartan 12.5mg tablets (dexcel-pharma ltd),1
+59351,losartan 50mg tablets (pfizer ltd),1
+59393,irbesartan 300mg tablets (sandoz ltd),1
+59415,propranolol 40mg tablets (accord healthcare ltd),1
+59448,valsartan 80mg capsules (a a h pharmaceuticals ltd),1
+59495,bisoprolol 1.25mg tablets (teva uk ltd),1
+59557,ramipril 2.5mg capsules (kent pharmaceuticals ltd),1
+59597,propranolol 160mg modified-release capsules (a a h pharmaceuticals ltd),1
+59603,ramipril 2.5mg capsules (phoenix healthcare distribution ltd),1
+59690,candesartan 8mg tablets (consilient health ltd),1
+59695,atenolol 50mg tablets (boston healthcare ltd),1
+59699,captopril 5mg/5ml oral solution sugar free,1
+59750,losartan 50mg tablets (aptil pharma ltd),1
+59770,perindopril erbumine 4mg tablets (aurobindo pharma ltd),1
+59788,ramipril 10mg capsules (bristol laboratories ltd),1
+59790,perindopril erbumine 8mg tablets (accord healthcare ltd),1
+59802,candesartan 2mg tablets (teva uk ltd),1
+59903,losartan 50mg/5ml oral suspension,1
+59915,captopril 25mg/5ml oral solution sugar free,1
+59961,nebivolol 10mg tablets,1
+59969,bisoprolol 5mg tablets (almus pharmaceuticals ltd),1
+59972,perindopril erbumine 2mg tablets (alliance healthcare (distribution) ltd),1
+59982,atenolol 25mg tablets (accord healthcare ltd),1
+59996,enalapril 20mg tablets (milpharm ltd),1
+60007,generic sevikar hct 40mg/10mg/12.5mg tablets,1
+60010,lisinopril 10mg tablets (kent pharmaceuticals ltd),1
+60065,perindopril erbumine 4mg tablets (sigma pharmaceuticals plc),1
+60067,perindopril erbumine 4mg / amlodipine 5mg tablets,1
+60076,valsartan 160mg capsules (waymade healthcare plc),1
+60097,lisinopril 2.5mg tablets (zentiva),1
+60143,enalapril 5mg tablets (medreich plc),1
+60232,lisinopril 5mg tablets (zentiva),1
+60309,lisinopril 5mg tablets (relonchem ltd),1
+60349,noyada 25mg/5ml oral solution (martindale pharmaceuticals ltd),1
+60502,bisoprolol 3.75mg tablets (de pharmaceuticals),1
+60506,losartan 100mg tablets (dexcel-pharma ltd),1
+60565,propranolol 40mg tablets (ranbaxy (uk) ltd),1
+60597,irbesartan 150mg tablets (teva uk ltd),1
+60684,perindopril erbumine 4mg / amlodipine 10mg tablets,1
+60730,ramipril 5mg capsules (phoenix healthcare distribution ltd),1
+60744,perindopril erbumine 8mg / amlodipine 5mg tablets,1
+60757,trandolapril 500microgram capsules (teva uk ltd),1
+60761,bisoprolol 1.25mg tablets (medreich plc),1
+60780,generic sevikar hct 20mg/5mg/12.5mg tablets,1
+60823,noyada 5mg/5ml oral solution (martindale pharmaceuticals ltd),1
+60896,bisoprolol 5mg tablets (medreich plc),1
+60934,propranolol 80mg modified-release capsules (kent pharmaceuticals ltd),1
+61053,losartan 100mg tablets (alliance healthcare (distribution) ltd),1
+61067,ramipril 5mg capsules (almus pharmaceuticals ltd),1
+61115,bisoprolol 5mg/5ml oral solution,1
+61117,perindopril erbumine 4mg/5ml oral solution,1
+61133,enalapril 10mg tablets (phoenix healthcare distribution ltd),1
+61177,telmisartan 20mg tablets (sigma pharmaceuticals plc),1
+61262,lisinopril 20mg tablets (bristol laboratories ltd),1
+61270,perindopril erbumine 4mg tablets (accord healthcare ltd),1
+61288,losartan 100mg tablets (accord healthcare ltd),1
+61292,quinapril 40mg tablets (mylan),1
+61339,ramipril 10mg capsules (almus pharmaceuticals ltd),1
+61340,bisoprolol 5mg tablets (de pharmaceuticals),1
+61442,valsartan 160mg capsules (teva uk ltd),1
+61495,losartan 25mg tablets (aptil pharma ltd),1
+61499,ramipril 2.5mg tablets (actavis uk ltd),1
+61564,bisoprolol 3.75mg tablets (waymade healthcare plc),1
+61573,atenolol 25mg/5ml oral solution,1
+61651,bisoprolol 7.5mg tablets (almus pharmaceuticals ltd),1
+61663,carvedilol 3.125mg tablets (teva uk ltd),1
+61693,perindopril erbumine 8mg tablets (aurobindo pharma ltd),1
+61694,ramipril 5mg tablets (zentiva),1
+61719,beta-adalat modified-release capsules (waymade healthcare plc),1
+61727,propranolol 10mg tablets (accord healthcare ltd),1
+61754,losartan 25mg/5ml oral suspension,1
+61781,irbesartan 300mg tablets (teva uk ltd),1
+61985,ramipril 1.25mg tablets (teva uk ltd),1
+62035,candesartan 16mg tablets (waymade healthcare plc),1
+62036,ramipril 5mg tablets (waymade healthcare plc),1
+62039,ramipril 1.25mg tablets (zentiva),1
+62140,candesartan 4mg tablets (sandoz ltd),1
+62325,atenolol 25mg tablets (waymade healthcare plc),1
+62337,irbesartan 300mg / hydrochlorothiazide 12.5mg tablets (actavis uk ltd),1
+62361,bisoprolol 1.25mg tablets (chanelle medical uk ltd),1
+62376,actelsar hct 80mg/12.5mg tablets (actavis uk ltd),1
+62388,losartan 12.5mg tablets (de pharmaceuticals),1
+62407,bisoprolol oral solution,1
+62415,irbesartan 300mg tablets (a a h pharmaceuticals ltd),1
+62537,co-tenidone 100mg/25mg tablets (de pharmaceuticals),1
+62564,lisinopril 10mg/5ml oral solution,1
+62638,labetalol 100mg tablets (actavis uk ltd),1
+62711,propranolol 80mg modified-release capsules (waymade healthcare plc),1
+62860,enalapril 5mg tablets (de pharmaceuticals),1
+62911,losartan 50mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+62918,ramipril 2.5mg/5ml oral solution,1
+62958,ramipril 5mg tablets (teva uk ltd),1
+63010,ramipril 10mg tablets (phoenix healthcare distribution ltd),1
+63030,lisinopril 10mg tablets (de pharmaceuticals),1
+63149,perindopril erbumine 8mg / amlodipine 10mg tablets,1
+63222,losartan 25mg tablets (pfizer ltd),1
+63322,enalapril 10mg tablets (almus pharmaceuticals ltd),1
+63337,eprosartan 600mg tablets (a a h pharmaceuticals ltd),1
+63385,sabervel 75mg tablets (aspire pharma ltd),1
+63411,irbesartan 300mg tablets (alliance healthcare (distribution) ltd),1
+63422,carvedilol 12.5mg tablets (waymade healthcare plc),1
+63442,ramipril 2.5mg tablets (teva uk ltd),1
+63493,bisoprolol 2.5mg tablets (actavis uk ltd),1
+63535,bisoprolol 5mg tablets (relonchem ltd),1
+63559,lisinopril 20mg tablets (kent pharmaceuticals ltd),1
+63594,generic tritace titration pack tablets,1
+63717,irbesartan 300mg tablets (de pharmaceuticals),1
+63724,metoprolol 100mg tablets (waymade healthcare plc),1
+63736,labetalol 100mg tablets (waymade healthcare plc),1
+63824,lisinopril 10mg/5ml oral suspension,1
+63850,bisoprolol 2.5mg tablets (teva uk ltd),1
+63890,micardisplus 80mg/12.5mg tablets (waymade healthcare plc),1
+63918,losartan 25mg tablets (teva uk ltd),1
+64055,ramipril 2.5mg/5ml oral solution sugar free (waymade healthcare plc),1
+64062,enalapril 1mg/5ml oral suspension,1
+64160,propranolol 5mg/5ml oral solution sugar free (am distributions (yorkshire) ltd),1
+64359,candesartan 4mg tablets (de pharmaceuticals),1
+64538,bisoprolol 3.75mg tablets (teva uk ltd),1
+64602,perindopril erbumine 2mg tablets (waymade healthcare plc),1
+64703,nebivolol 5mg tablets (glenmark pharmaceuticals europe ltd),1
+64739,captopril 25mg/5ml oral solution (special order),1
+64784,bisoprolol 5mg tablets (niche generics ltd),1
+64850,bisoprolol 2.5mg tablets (de pharmaceuticals),1
+64877,enalapril 2.5mg tablets (dexcel-pharma ltd),1
+64888,losartan 12.5mg tablets (sigma pharmaceuticals plc),1
+64902,lisinopril 5mg/5ml oral solution sugar free,1
+64973,atenolol 50mg tablets (sigma pharmaceuticals plc),1
+65027,bisoprolol 5mg / aspirin 100mg capsules,1
+65065,irbesartan 75mg tablets (a a h pharmaceuticals ltd),1
+65094,losartan 50mg tablets (sandoz ltd),1
+65102,lisinopril 10mg tablets (sigma pharmaceuticals plc),1
+65227,metoprolol 12.5mg/5ml oral solution,1
+65228,candesartan 16mg tablets (mawdsley-brooks & company ltd),1
+65273,perindopril erbumine 4mg tablets (mylan),1
+65274,telmisartan 40mg tablets (actavis uk ltd),1
+65389,gopten 500microgram capsules (waymade healthcare plc),1
+65416,lisinopril 5mg tablets (lupin healthcare (uk) ltd),1
+65435,propranolol 10mg tablets (waymade healthcare plc),1
+65438,acebutolol 100mg capsules (a a h pharmaceuticals ltd),1
+65443,ramipril 1.25mg tablet (sovereign medical ltd),1
+65479,candesartan 2mg tablets (a a h pharmaceuticals ltd),1
+65536,lisinopril 2.5mg tablets (alliance healthcare (distribution) ltd),1
+65570,trandolapril 4mg capsules (teva uk ltd),1
+65599,ramipril 5mg tablets (a a h pharmaceuticals ltd),1
+65749,ramipril 5mg capsules (ennogen pharma ltd),1
+65805,bisoprolol 1.25mg tablets (waymade healthcare plc),1
+65821,bisoprolol 7.5mg/5ml oral suspension,1
+65936,ramipril 5mg capsules (de pharmaceuticals),1
+65983,lisinopril 2.5mg tablets (lupin healthcare (uk) ltd),1
+65985,lisinopril 2.5mg tablets (de pharmaceuticals),1
+65986,propranolol 10mg tablets (alliance healthcare (distribution) ltd),1
+66060,perindopril erbumine 2mg tablets (de pharmaceuticals),1
+66114,losartan 12.5mg tablets (mawdsley-brooks & company ltd),1
+66162,ramipril 10mg tablets (teva uk ltd),1
+66197,sacubitril 49mg / valsartan 51mg tablets,1
+66205,entresto 49mg/51mg tablets (novartis pharmaceuticals uk ltd),1
+66261,entresto 24mg/26mg tablets (novartis pharmaceuticals uk ltd),1
+66329,ramipril oral solution,1
+66464,nadolol 40mg/5ml oral solution,1
+66548,atenolol 50mg tablets (de pharmaceuticals),1
+66551,losartan 50mg tablets (bristol laboratories ltd),1
+66555,propranolol 10mg tablets (boston healthcare ltd),1
+66558,lisinopril 5mg tablets (de pharmaceuticals),1
+66559,nebilet 5mg tablets (waymade healthcare plc),1
+66597,captopril 10mg/5ml oral suspension,1
+66598,losartan 50mg / hydrochlorothiazide 12.5mg tablets (lupin healthcare (uk) ltd),1
+66622,lisinopril 20mg tablets (de pharmaceuticals),1
+66623,trandolapril 2mg capsules (a a h pharmaceuticals ltd),1
+66624,candesartan 16mg tablets (sandoz ltd),1
+66669,ramipril 10mg capsules (de pharmaceuticals),1
+66670,metoprolol 100mg tablets (alliance healthcare (distribution) ltd),1
+66702,sacubitril 24mg / valsartan 26mg tablets,1
+66772,lisinopril 2.5mg tablets (waymade healthcare plc),1
+66779,nadolol 30mg/5ml oral suspension,1
+66829,entresto 97mg/103mg tablets (novartis pharmaceuticals uk ltd),1
+66895,enalapril 10mg/5ml oral suspension,1
+66931,sacubitril 97mg / valsartan 103mg tablets,1
+66958,candesartan 8mg tablets (sandoz ltd),1
+66997,micardisplus 40mg/12.5mg tablets (waymade healthcare plc),1
+67075,lisinopril 2.5mg tablets (mawdsley-brooks & company ltd),1
+67124,bisoprolol 10mg / aspirin 75mg capsules,1
+67194,lisinopril 2.5mg tablets (bristol laboratories ltd),1
+67269,coversyl 2mg tablets (waymade healthcare plc),1
+67292,celectol 200mg tablets (sigma pharmaceuticals plc),1
+67307,staril 20mg tablets (dowelhurst ltd),1
+67424,nadolol 80mg/5ml oral suspension,1
+67595,nebivolol 5mg tablets (almus pharmaceuticals ltd),1
+67661,carvedilol 6.25mg tablets (sigma pharmaceuticals plc),1
+67663,valsartan 160mg capsules (dexcel-pharma ltd),1
+67664,valsartan 160mg / hydrochlorothiazide 12.5mg tablets (teva uk ltd),1
+67719,ramipril 5mg capsules (mawdsley-brooks & company ltd),1
+67741,ramipril 1.25mg capsules (almus pharmaceuticals ltd),1
+67767,lisinopril 10mg / hydrochlorothiazide 12.5mg tablets (almus pharmaceuticals ltd),1
+67789,perindopril erbumine 2mg tablets (accord healthcare ltd),1
+67795,lisinopril 20mg tablets (almus pharmaceuticals ltd),1
+67902,losartan 100mg tablets (sandoz ltd),1
+67929,candesartan 16mg tablets (tillomed laboratories ltd),1
+68020,beta-adalat modified-release capsules (sigma pharmaceuticals plc),1
+68021,perindopril erbumine 4mg tablets (alliance healthcare (distribution) ltd),1
+68094,lisinopril 5mg tablets (sigma pharmaceuticals plc),1
+68192,ramipril 5mg capsules (brown & burk uk ltd),1
+68247,lisinopril 5mg tablets (bristol laboratories ltd),1
+68340,losartan 12.5mg tablets (consilient health ltd),1
+68372,ramipril 5mg tablets (actavis uk ltd),1
+68381,perindopril erbumine 4mg tablets (mawdsley-brooks & company ltd),1
+68400,propranolol 160mg tablets (de pharmaceuticals),1
+68480,ramipril 10mg capsules (mawdsley-brooks & company ltd),1
+68496,enalapril 10mg tablets (kent pharmaceuticals ltd),1
+68603,losartan 50mg tablets (wockhardt uk ltd),1
+68647,candesartan 8mg tablets (genesis pharmaceuticals ltd),1
+68677,nebivolol 5mg tablets (accord healthcare ltd),1
+68718,candesartan 4mg tablets (a a h pharmaceuticals ltd),1
+68751,candesartan 16mg tablets (genesis pharmaceuticals ltd),1
+68759,perindopril erbumine 2mg tablets (aurobindo pharma ltd),1
+68881,metoprolol 12.5mg capsules,1
+68948,valsartan 160mg capsules (actavis uk ltd),1
+69016,perindopril erbumine 8mg tablets (de pharmaceuticals),1
+69074,lisinopril 20mg tablets (relonchem ltd),1
+69115,nebivolol 5mg tablets (a a h pharmaceuticals ltd),1
+69156,bisoprolol 3.75mg tablets (medreich plc),1
+69192,captopril oral solution,1
+69269,lisinopril 20mg tablets (waymade healthcare plc),1
+69288,ramipril 10mg capsules (brown & burk uk ltd),1
+69334,bendroflumethiazide 5mg with nadolol 80mg tablets,1
+69526,atenolol 50mg/5ml oral solution,1
+69599,captopril 500micrograms/5ml oral suspension,1
+69600,captopril 1mg/5ml oral suspension,1
+69661,propranolol 3mg/5ml oral solution,1
+69667,losartan 100mg/5ml oral solution,1
+69802,candesartan 4mg tablets (mylan),1
+69858,losartan 25mg tablets (alliance healthcare (distribution) ltd),1
+70072,ramipril 1.25mg capsules (mawdsley-brooks & company ltd),1
+70116,metoprolol 50mg/5ml oral solution,1
+70135,atenolol 25mg tablets (de pharmaceuticals),1
+70161,sotalol 40mg/5ml oral solution,1
+70162,sotalol 40mg/5ml oral suspension,1
+70251,telmisartan 20mg tablets (teva uk ltd),1
+70325,losartan 50mg tablets (almus pharmaceuticals ltd),1
+70431,irbesartan 150mg tablets (lupin healthcare (uk) ltd),1
+70455,candesartan 4mg/5ml oral suspension,1
+70628,diovan 3mg/1ml oral solution (novartis pharmaceuticals uk ltd),1
+70667,lisinopril 5mg tablets (mawdsley-brooks & company ltd),1
+70680,propranolol 6mg/5ml oral suspension,1
+70681,propranolol 3mg/5ml oral suspension,1
+70709,ramipril 10mg tablets (actavis uk ltd),1
+70734,sotalol 40mg tablets (almus pharmaceuticals ltd),1
+70754,losartan 50mg / hydrochlorothiazide 12.5mg tablets (ranbaxy (uk) ltd),1
+70765,losartan 100mg tablets (almus pharmaceuticals ltd),1
+70805,candesartan 8mg tablets (crescent pharma ltd),1
+70916,perindopril erbumine 8mg tablets (glenmark pharmaceuticals europe ltd),1
+70917,perindopril erbumine 2mg tablets (glenmark pharmaceuticals europe ltd),1
+70922,losartan 100mg / hydrochlorothiazide 12.5mg tablets (phoenix healthcare distribution ltd),1
+70955,irbesartan 300mg/5ml oral suspension (martindale pharmaceuticals ltd),1
+70994,captopril 12.5mg tablets (sandoz ltd),1
+71004,perindopril erbumine 8mg tablets (accord healthcare ltd),1
+71019,irbesartan 75mg tablets (dr reddy's laboratories (uk) ltd),1
+71025,ramipril 1.25mg tablets (apc pharmaceuticals & chemicals (europe) ltd),1
+71026,atenolol 100mg tablets (almus pharmaceuticals ltd),1
+71028,valsartan 80mg capsules (arrow generics ltd),1
+71032,nebivolol 5mg tablets (sandoz ltd),1
+71040,ramipril 5mg tablets (pfizer ltd),1
+71068,ramipril 2.5mg tablets (apc pharmaceuticals & chemicals (europe) ltd),1
+71080,candesartan 4mg tablets (zentiva),1
+71096,irbesartan 150mg tablets (dr reddy's laboratories (uk) ltd),1
+71098,metoprolol 50mg tablets (accord healthcare ltd),1
+71115,zestoretic 10 tablets (waymade healthcare plc),1
+71150,propranolol 5mg/5ml oral solution,1
+71173,propranolol 80mg modified-release capsules (mawdsley-brooks & company ltd),1
+71215,irbesartan 75mg tablets (actavis uk ltd),1
+71277,captopril 7.5mg/5ml oral suspension,1
+71472,bisoprolol 5mg tablets (waymade healthcare plc),1
+71479,sotalol 40mg tablets (bristol laboratories ltd),1
+71491,ramipril 2.5mg capsules (ennogen pharma ltd),1
+71562,lisinopril 10mg tablet (niche generics ltd),1
+71618,losartan 100mg / hydrochlorothiazide 12.5mg tablets (a a h pharmaceuticals ltd),1
+71668,enalapril 20mg tablets (almus pharmaceuticals ltd),1
+71682,losartan 100mg / hydrochlorothiazide 25mg tablets (mawdsley-brooks & company ltd),1
+71737,enalapril 2.5mg tablets (almus pharmaceuticals ltd),1
+71748,actelsar hct 80mg/25mg tablets (actavis uk ltd),1
+71910,losartan 50mg tablets (necessity supplies ltd),1
+72000,irbesartan 150mg tablets (alliance healthcare (distribution) ltd),1
+72017,enalapril 1.25mg/5ml oral solution,1
+72038,lisinopril 2.5mg tablets (relonchem ltd),1
+72043,atenolol 50mg tablets (waymade healthcare plc),1
+72086,valsartan 160mg / hydrochlorothiazide 12.5mg tablets (actavis uk ltd),1
+72159,nadolol 20mg/5ml oral suspension,1
+72215,candesartan 4mg tablets (consilient health ltd),1
+72220,propranolol 10mg/5ml oral solution sugar free (cst pharma ltd),1
+72222,propranolol 80mg modified-release capsules (de pharmaceuticals),1
+72285,bisoprolol 1.25mg tablets (mawdsley-brooks & company ltd),1
+72295,perindopril 2mg tablet (neo laboratories ltd),1
+72336,lisinopril 5mg tablets (waymade healthcare plc),1
+72341,ramipril 2.5mg capsules (wockhardt uk ltd),1
+72347,sotalol 80mg/5ml oral suspension,1
+72507,carvedilol 25mg tablets (teva uk ltd),1
+72514,labetalol 1.5mg/5ml oral solution,1
+72540,bisoprolol 10mg/5ml oral suspension,1
+72545,acebutolol 200mg capsules (a a h pharmaceuticals ltd),1

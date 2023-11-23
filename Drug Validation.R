@@ -28,16 +28,16 @@ func_remove_subcodes <- function(df, code_column) {
 
 
 
-# IMPORT KNOWN DATABASES  -----------------------------------------------------
+# IMPORT COVNERSION DATABASES  ------------------------------------------------
+
+# As importing, create new variables with periods removed (easier to work with)
 
 # Location of the code list to check
-# As importing, create new variables with periods removed (easier to work with)
-validation_codelist <- readxl::read_excel("HTN/HTN Rx codes.xlsx") %>%
+codelist_checking <- readxl::read_excel("HTN/HTN Rx codes.xlsx") %>%
   pull(Code) %>%
   str_remove_all(., "\\.")
 
 # Import BioBank read conversion table
-# As importing, create new variables with periods removed (easier to work with)
 biobank_bnf_read <- 
   readxl::read_excel("BioBank/biobank.xlsx", sheet = "read_v2_drugs_bnf") %>%
   mutate(
@@ -45,62 +45,101 @@ biobank_bnf_read <-
     bnfcode_new = str_remove_all(bnf_code, "\\."))
 
 # Import BioBank OPCS conversion table
-# As importing, create new variables with periods removed (easier to work with)
 biobank_opcs_read <- 
   readxl::read_excel("BioBank/biobank.xlsx", sheet = "read_ctv3_opcs4") %>%
   mutate(
     readcode_new = str_remove_all(read_code, "\\."),
     opcs4_new = str_remove_all(opcs4_code, "\\."))
 
+# Import the CPRD gold and aurum conversion tables 
+cprd_gold <- readr::read_tsv("cprd/product.txt") 
+cprd_aurum <- readr::read_tsv("cprd/CPRDAurumProduct.txt")
 
+# VALIDATION LISTS ------------------------------------------------------------
 
-# FIRST VALIDATION LIST (RES-24) ----------------------------------------------
-
-# Import the testing code list and pull out the BNF code column
+# Import the testing code lists and pull out the BNF code column
 # Then split that column based on the presence of slashes
 # Then remove empty values (.[. !=""])
-res24_beta_blockers <-
-  read_csv("HTN/Validation List/res24-beta_blockers.csv") %>%
+# Ensure each BNF code is 8 characters long (add leading zero)
+
+res_24_bnf <- 
+  c(
+    "HTN/Drug Validation List/res24-beta_blockers.csv",
+    "HTN/Drug Validation List/res24-ca_channel_blockers.csv",
+    "HTN/Drug Validation List/res24-diuretics.csv",
+    "HTN/Drug Validation List/res24-other_antihypertensives.csv") %>% 
+  map_df(~read_csv(.)) %>% 
   pull(bnfcode) %>%
   str_split(., pattern = "/", simplify = TRUE) %>%
   .[. != ""]
 
-res24_ca_channel_blockers <-
-  read_csv("HTN/Validation List/res24-ca_channel_blockers.csv") %>%
-  pull(bnfcode) %>%
-  str_split(., pattern = "/", simplify = TRUE) %>%
-  .[. != ""]
 
-res24_diuretics <-
-  read_csv("HTN/Validation List/res24-diuretics.csv") %>%
-  pull(bnfcode) %>%
-  str_split(., pattern = "/", simplify = TRUE) %>%
-  .[. != ""]
+# Import RES-56 and RES-72 and pull out the product code column
+# Then use the CPRD list to get BNF chapters
+# There are more BNF chapters than product codes as some drugs have >1 BNF chapter
 
-res24_other_antihypertensives <-
-  read_csv("HTN/Validation List/res24-other_antihypertensives.csv") %>%
-  pull(bnfcode) %>%
-  str_split(., pattern = "/", simplify = TRUE) %>%
-  .[. != ""]
+res_prod_code <-
+  c(
+    "HTN/Drug Validation List/res56-antihypertensive-drugs.csv",
+    "HTN/Drug Validation List/res72-antihypertensives.csv") %>% 
+  map_df(~read_csv(.)) %>% 
+  pull(code) 
 
+res_bnf <- cprd_gold %>%
+  filter(prodcode %in% res_prod_code) %>%
+  pull(bnfchapter) %>%
+  str_split(., pattern = "/", simplify = TRUE) %>%
+  .[. != ""] 
+
+
+# Import LSHTM codelist 874 and 2188
+# Then use the CPRD list to get BNF chapters
+# There are more BNF chapters than product codes as some drugs have >1 BNF chapter
+
+lshtm_prod_code <-
+  c(
+    "HTN/Drug Validation List/LSHTM_874_Therapy_codelist_antihypertensives.txt",
+    "HTN/Drug Validation List/LSTHM_2188_antihypertensives_gold_jul18.txt") %>% 
+  map_df(~read_csv(.)) %>%
+  pull(prodcode)
+
+lshtm_bnf <- cprd_gold %>%
+  filter(prodcode %in% lshtm_prod_code) %>%
+  pull(bnfchapter) %>%
+  str_split(., pattern = "/", simplify = TRUE) %>%
+  .[. != ""] 
+
+# CREATE A BNF CODE LIST --------------------------------------------------
+
+# Create a overall BNF list to check against
+# Keep only distinct BNF chapters
+# Remove BNF chapter 00000000 (i.e. keep only BNF chapters >1)
+# Remove BNF chapters starting with 11 (eye drops)
+# Convert this to a vector and add leading zeros
+codelist_validation <-
+  data.frame(
+    bnf_chap = as.numeric(c(
+      res_24_bnf,
+      res_bnf,
+      lshtm_bnf))) %>%
+  distinct(bnf_chap) %>%
+  filter(bnf_chap >1) %>%
+  filter(!str_starts(bnf_chap, "11")) %>%
+  pull(bnf_chap) %>%
+  formatC(., width = 8, format = "d", flag = "0")
 
 
 # CHECK CODELIST ----------------------------------------------------------
 
 # Cross check the list imported against the biobank BNF code list
-# Then remove Read subcodes and pull out these values
-# Then check if these codes don't exist in the cl_checking vector
+# Then filter out Read subcodes and pull out the remaining codes
+# Then check if these codes don't exist in the codelist_checking vector
 
-missing_codes <- biobank_bnf_read %>%
-  filter(bnfcode_new %in% c(
-    res24_beta_blockers,
-    res24_ca_channel_blockers,
-    res24_diuretics,
-    res24_other_antihypertensives)) %>%
+missing_codes <-
+  biobank_bnf_read %>%
+  filter(bnfcode_new %in% codelist_validation) %>%
   func_remove_subcodes("readcode_new") %>%
   pull(readcode_new) %>%
-  .[!(. %in% validation_codelist)]
+  .[!(. %in% codelist_checking)]
 
-list(missing_codes)
-
-
+missing_codes
