@@ -52,8 +52,8 @@ biobank_opcs_read <-
     opcs4_new = str_remove_all(opcs4_code, "\\."))
 
 # Import the CPRD gold and aurum conversion tables 
-cprd_gold <- readr::read_tsv("cprd/product.txt") 
-cprd_aurum <- readr::read_tsv("cprd/CPRDAurumProduct.txt")
+cprd_gold <- readr::read_tsv("CPRD/product.txt") 
+cprd_aurum <- readr::read_tsv("CPRD/CPRDAurumProduct.txt")
 
 # VALIDATION LISTS ------------------------------------------------------------
 
@@ -79,8 +79,7 @@ res_24_bnf <-
 # There are more BNF chapters than product codes as some drugs have >1 BNF chapter
 
 res_prod_code <-
-  c(
-    "HTN/Drug Validation List/res56-antihypertensive-drugs.csv",
+  c("HTN/Drug Validation List/res56-antihypertensive-drugs.csv",
     "HTN/Drug Validation List/res72-antihypertensives.csv") %>% 
   map_df(~read_csv(.)) %>% 
   pull(code) 
