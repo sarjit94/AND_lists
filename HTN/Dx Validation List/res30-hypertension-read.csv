@@ -1,0 +1,131 @@
+code,coding_system,description,entity,list_name,upload_date
+14A2.00,Read,h/o: hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+1JD..00,Read,suspected hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+2126100,Read,hypertension resolved,diagnostic,330 - res30: Hypertension,22/10/2015
+212K.00,Read,hypertension resolved,diagnostic,330 - res30: Hypertension,22/10/2015
+246M.00,Read,white coat hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+662..12,Read,hypertension monitoring,diagnostic,330 - res30: Hypertension,22/10/2015
+6624,Read,borderline hyperten:yearly obs,diagnostic,330 - res30: Hypertension,22/10/2015
+6627,Read,good hypertension control,diagnostic,330 - res30: Hypertension,22/10/2015
+6628,Read,poor hypertension control,diagnostic,330 - res30: Hypertension,22/10/2015
+6629,Read,hypertension:follow-up default,diagnostic,330 - res30: Hypertension,22/10/2015
+662b.00,Read,moderate hypertension control,diagnostic,330 - res30: Hypertension,22/10/2015
+662c.00,Read,hypertension six month review,diagnostic,330 - res30: Hypertension,22/10/2015
+662d.00,Read,hypertension annual review,diagnostic,330 - res30: Hypertension,22/10/2015
+662F.00,Read,hypertension treatm. started,diagnostic,330 - res30: Hypertension,22/10/2015
+662G.00,Read,hypertensive treatm.changed,diagnostic,330 - res30: Hypertension,22/10/2015
+662H.00,Read,hypertension treatm.stopped,diagnostic,330 - res30: Hypertension,22/10/2015
+662O.00,Read,on treatment for hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+662P.00,Read,hypertension monitoring,diagnostic,330 - res30: Hypertension,22/10/2015
+662P000,Read,hypertension 9 month review,diagnostic,330 - res30: Hypertension,22/10/2015
+662q.00,Read,trial reduction of antihypertensive therapy,diagnostic,330 - res30: Hypertension,22/10/2015
+662r.00,Read,trial withdrawal of antihypertensive therapy,diagnostic,330 - res30: Hypertension,22/10/2015
+67H8.00,Read,lifestyle advice regarding hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+7Q01.00,Read,high cost hypertension drugs,diagnostic,330 - res30: Hypertension,22/10/2015
+7Q01y00,Read,other specified high cost hypertension drugs,diagnostic,330 - res30: Hypertension,22/10/2015
+8B26.00,Read,antihypertensive therapy,diagnostic,330 - res30: Hypertension,22/10/2015
+8BL0.00,Read,patient on maximal tolerated antihypertensive therapy,diagnostic,330 - res30: Hypertension,22/10/2015
+8CR4.00,Read,hypertension clinical management plan,diagnostic,330 - res30: Hypertension,22/10/2015
+8HT5.00,Read,referral to hypertension clinic,diagnostic,330 - res30: Hypertension,22/10/2015
+8I3N.00,Read,hypertension treatment refused,diagnostic,330 - res30: Hypertension,22/10/2015
+9h3..00,Read,exception reporting: hypertension quality indicators,diagnostic,330 - res30: Hypertension,22/10/2015
+9h31.00,Read,excepted from hypertension qual indicators: patient unsuit,diagnostic,330 - res30: Hypertension,22/10/2015
+9h32.00,Read,excepted from hypertension qual indicators: informed dissent,diagnostic,330 - res30: Hypertension,22/10/2015
+9N03.00,Read,seen in hypertension clinic,diagnostic,330 - res30: Hypertension,22/10/2015
+9N1y200,Read,seen in hypertension clinic,diagnostic,330 - res30: Hypertension,22/10/2015
+9N4L.00,Read,dna - did not attend hypertension clinic,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI..00,Read,hypertension monitoring admin.,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI1.00,Read,attends hypertension monitor.,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI..11,Read,hypertension clinic admin.,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI2.00,Read,refuses hypertension monitor.,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI3.00,Read,hyperten.monitor offer default,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI4.00,Read,hypertens.monitor.1st letter,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI5.00,Read,hypertens.monitor 2nd letter,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI6.00,Read,hypertens.monitor 3rd letter,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI7.00,Read,hypertens.monitor verbal inv.,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI8.00,Read,hypertens.monitor phone invite,diagnostic,330 - res30: Hypertension,22/10/2015
+9OI9.00,Read,hypertens.monitor deleted,diagnostic,330 - res30: Hypertension,22/10/2015
+9OIA.00,Read,hypertension monitor.chck done,diagnostic,330 - res30: Hypertension,22/10/2015
+9OIA.11,Read,hypertension monitored,diagnostic,330 - res30: Hypertension,22/10/2015
+9OIZ.00,Read,hypertens.monitoring admin.nos,diagnostic,330 - res30: Hypertension,22/10/2015
+F404200,Read,blind hypertensive eye,diagnostic,330 - res30: Hypertension,22/10/2015
+F421300,Read,hypertensive retinopathy,diagnostic,330 - res30: Hypertension,22/10/2015
+G2...00,Read,hypertensive disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G20..00,Read,essential hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G200.00,Read,malignant essential hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G201.00,Read,benign essential hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G20..11,Read,high blood pressure,diagnostic,330 - res30: Hypertension,22/10/2015
+G20..12,Read,primary hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G202.00,Read,systolic hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G203.00,Read,diastolic hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G20z.00,Read,essential hypertension nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G20z.11,Read,hypertension nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G21..00,Read,hypertensive heart disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G210.00,Read,malignant hypertensive heart disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G210000,Read,malignant hypertensive heart disease without ccf,diagnostic,330 - res30: Hypertension,22/10/2015
+G210100,Read,malignant hypertensive heart disease with ccf,diagnostic,330 - res30: Hypertension,22/10/2015
+G210z00,Read,malignant hypertensive heart disease nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G2...11,Read,bp - hypertensive disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G211.00,Read,benign hypertensive heart disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G211000,Read,benign hypertensive heart disease without ccf,diagnostic,330 - res30: Hypertension,22/10/2015
+G211100,Read,benign hypertensive heart disease with ccf,diagnostic,330 - res30: Hypertension,22/10/2015
+G211z00,Read,benign hypertensive heart disease nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G21z.00,Read,hypertensive heart disease nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G21z000,Read,hypertensive heart disease nos without ccf,diagnostic,330 - res30: Hypertension,22/10/2015
+G21z011,Read,cardiomegaly - hypertensive,diagnostic,330 - res30: Hypertension,22/10/2015
+G21z100,Read,hypertensive heart disease nos with ccf,diagnostic,330 - res30: Hypertension,22/10/2015
+G21zz00,Read,hypertensive heart disease nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G22..00,Read,hypertensive renal disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G220.00,Read,malignant hypertensive renal disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G221.00,Read,benign hypertensive renal disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G22..11,Read,nephrosclerosis,diagnostic,330 - res30: Hypertension,22/10/2015
+G222.00,Read,hypertensive renal disease with renal failure,diagnostic,330 - res30: Hypertension,22/10/2015
+G22z.00,Read,hypertensive renal disease nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G22z.11,Read,renal hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G23..00,Read,hypertensive heart and renal disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G230.00,Read,malignant hypertensive heart and renal disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G231.00,Read,benign hypertensive heart and renal disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G232.00,Read,hypertensive heart&renal dis wth (congestive) heart failure,diagnostic,330 - res30: Hypertension,22/10/2015
+G233.00,Read,hypertensive heart and renal disease with renal failure,diagnostic,330 - res30: Hypertension,22/10/2015
+G234.00,Read,hyperten heart&renal dis+both(congestv)heart and renal fail,diagnostic,330 - res30: Hypertension,22/10/2015
+G23z.00,Read,hypertensive heart and renal disease nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G24..00,Read,secondary hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G240.00,Read,secondary malignant hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G240000,Read,secondary malignant renovascular hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G240z00,Read,secondary malignant hypertension nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G241.00,Read,secondary benign hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G241000,Read,secondary benign renovascular hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G241z00,Read,secondary benign hypertension nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G244.00,Read,hypertension secondary to endocrine disorders,diagnostic,330 - res30: Hypertension,22/10/2015
+G24z.00,Read,secondary hypertension nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G24z000,Read,secondary renovascular hypertension nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G24z100,Read,hypertension secondary to drug,diagnostic,330 - res30: Hypertension,22/10/2015
+G24zz00,Read,secondary hypertension nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G25..00,Read,stage 1 hypertension (nice - nat ins for hth clin excl 2011),diagnostic,330 - res30: Hypertension,22/10/2015
+G25..11,Read,stage 1 hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G26..00,Read,severe hypertension (nat inst for health clinical ex 2011),diagnostic,330 - res30: Hypertension,22/10/2015
+G26..11,Read,severe hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+G27..00,Read,hypertension resistant to drug therapy,diagnostic,330 - res30: Hypertension,22/10/2015
+G28..00,Read,stage 2 hypertension (nice - nat ins for hth clin excl 2011),diagnostic,330 - res30: Hypertension,22/10/2015
+G2y..00,Read,other specified hypertensive disease,diagnostic,330 - res30: Hypertension,22/10/2015
+G2z..00,Read,hypertensive disease nos,diagnostic,330 - res30: Hypertension,22/10/2015
+G672.00,Read,hypertensive encephalopathy,diagnostic,330 - res30: Hypertension,22/10/2015
+G672.11,Read,hypertensive crisis,diagnostic,330 - res30: Hypertension,22/10/2015
+Gyu2.00,Read,[x]hypertensive diseases,diagnostic,330 - res30: Hypertension,22/10/2015
+Gyu2000,Read,[x]other secondary hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+Gyu2100,Read,[x]hypertension secondary to other renal disorders,diagnostic,330 - res30: Hypertension,22/10/2015
+L122.00,Read,other pre-existing hypertension in preg/childbirth/puerp,diagnostic,330 - res30: Hypertension,22/10/2015
+L122000,Read,other pre-existing hypertension in preg/childb/puerp unspec,diagnostic,330 - res30: Hypertension,22/10/2015
+L122100,Read,other pre-existing hypertension in preg/childb/puerp - deliv,diagnostic,330 - res30: Hypertension,22/10/2015
+L122300,Read,other pre-exist hypertension in preg/childb/puerp-not deliv,diagnostic,330 - res30: Hypertension,22/10/2015
+L122z00,Read,other pre-existing hypertension in preg/childb/puerp nos,diagnostic,330 - res30: Hypertension,22/10/2015
+L127.00,Read,pre-eclampsia or eclampsia with pre-existing hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+L127z00,Read,pre-eclampsia or eclampsia + pre-existing hypertension nos,diagnostic,330 - res30: Hypertension,22/10/2015
+L128.00,Read,pre-exist hypertension compl preg childbirth and puerperium,diagnostic,330 - res30: Hypertension,22/10/2015
+L128000,Read,pre-exist hyperten heart dis compl preg childbth+puerperium,diagnostic,330 - res30: Hypertension,22/10/2015
+L128200,Read,pre-exist 2ndry hypertens comp preg childbth and puerperium,diagnostic,330 - res30: Hypertension,22/10/2015
+TJC7.00,Read,adverse reaction to other antihypertensives,diagnostic,330 - res30: Hypertension,22/10/2015
+TJC7z00,Read,adverse reaction to antihypertensives nos,diagnostic,330 - res30: Hypertension,22/10/2015
+U60C500,Read,[x]oth antihyperten drug caus advers eff in therap use; nec,diagnostic,330 - res30: Hypertension,22/10/2015
+U60C511,Read,[x] adverse reaction to other antihypertensives,diagnostic,330 - res30: Hypertension,22/10/2015
+U60C51A,Read,[x] adverse reaction to antihypertensives nos,diagnostic,330 - res30: Hypertension,22/10/2015

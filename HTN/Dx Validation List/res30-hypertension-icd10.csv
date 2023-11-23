@@ -1,0 +1,20 @@
+code,coding_system,description,entity,list_name,upload_date
+I10,ICD-10,essential (primary) hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+I11,ICD-10,hypertensive heart disease,diagnostic,330 - res30: Hypertension,22/10/2015
+I11.0,ICD-10,hypertensive heart disease with (congestive) heart failure,diagnostic,330 - res30: Hypertension,22/10/2015
+I11.9,ICD-10,hypertensive heart disease without (congestive) heart failure,diagnostic,330 - res30: Hypertension,22/10/2015
+I12,ICD-10,hypertensive renal disease,diagnostic,330 - res30: Hypertension,22/10/2015
+I12.0,ICD-10,hypertensive renal disease with renal failure,diagnostic,330 - res30: Hypertension,22/10/2015
+I12.9,ICD-10,hypertensive renal disease without renal failure,diagnostic,330 - res30: Hypertension,22/10/2015
+I13,ICD-10,hypertensive heart and renal disease,diagnostic,330 - res30: Hypertension,22/10/2015
+I13.0,ICD-10,hypertensive heart and renal disease with (congestive) heart failure,diagnostic,330 - res30: Hypertension,22/10/2015
+I13.1,ICD-10,hypertensive heart and renal disease with renal failure,diagnostic,330 - res30: Hypertension,22/10/2015
+I13.2,ICD-10,hypertensive heart and renal disease with both (congestive) heart failure and renal failure,diagnostic,330 - res30: Hypertension,22/10/2015
+I13.9,ICD-10,hypertensive heart and renal disease; unspecified,diagnostic,330 - res30: Hypertension,22/10/2015
+I15,ICD-10,secondary hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+I15.0,ICD-10,renovascular hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+I15.1,ICD-10,hypertension secondary to other renal disorders,diagnostic,330 - res30: Hypertension,22/10/2015
+I15.2,ICD-10,hypertension secondary to endocrine disorders,diagnostic,330 - res30: Hypertension,22/10/2015
+I15.8,ICD-10,other secondary hypertension,diagnostic,330 - res30: Hypertension,22/10/2015
+I15.9,ICD-10,secondary hypertension; unspecified,diagnostic,330 - res30: Hypertension,22/10/2015
+I67.4,ICD-10,hypertensive encephalopathy,diagnostic,330 - res30: Hypertension,22/10/2015

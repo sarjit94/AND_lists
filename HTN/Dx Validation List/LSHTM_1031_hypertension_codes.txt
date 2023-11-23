@@ -1,0 +1,131 @@
+medcode,description
+14A2.00,h/o: hypertension
+1JD..00,suspected hypertension
+2126100,hypertension resolved
+212K.00,hypertension resolved
+246M.00,white coat hypertension
+662..12,hypertension monitoring
+6624,borderline hyperten:yearly obs
+6627,good hypertension control
+6628,poor hypertension control
+6629,hypertension:follow-up default
+662F.00,hypertension treatm. started
+662G.00,hypertensive treatm.changed
+662H.00,hypertension treatm.stopped
+662O.00,on treatment for hypertension
+662P.00,hypertension monitoring
+662P000,hypertension 9 month review
+662b.00,moderate hypertension control
+662c.00,hypertension six month review
+662d.00,hypertension annual review
+662q.00,trial reduction of antihypertensive therapy
+662r.00,trial withdrawal of antihypertensive therapy
+67H8.00,lifestyle advice regarding hypertension
+7Q01.00,high cost hypertension drugs
+7Q01y00,other specified high cost hypertension drugs
+8B26.00,antihypertensive therapy
+8BL0.00,patient on maximal tolerated antihypertensive therapy
+8CR4.00,hypertension clinical management plan
+8HT5.00,referral to hypertension clinic
+8I3N.00,hypertension treatment refused
+9N03.00,seen in hypertension clinic
+9N1y200,seen in hypertension clinic
+9N4L.00,dna - did not attend hypertension clinic
+9OI..00,hypertension monitoring admin.
+9OI..11,hypertension clinic admin.
+9OI1.00,attends hypertension monitor.
+9OI2.00,refuses hypertension monitor.
+9OI3.00,hyperten.monitor offer default
+9OI4.00,hypertens.monitor.1st letter
+9OI5.00,hypertens.monitor 2nd letter
+9OI6.00,hypertens.monitor 3rd letter
+9OI7.00,hypertens.monitor verbal inv.
+9OI8.00,hypertens.monitor phone invite
+9OI9.00,hypertens.monitor deleted
+9OIA.00,hypertension monitor.chck done
+9OIA.11,hypertension monitored
+9OIZ.00,hypertens.monitoring admin.nos
+9h3..00,exception reporting: hypertension quality indicators
+9h31.00,excepted from hypertension qual indicators: patient unsuit
+9h32.00,excepted from hypertension qual indicators: informed dissent
+F404200,blind hypertensive eye
+F421300,hypertensive retinopathy
+G2...00,hypertensive disease
+G2...11,bp - hypertensive disease
+G20..00,essential hypertension
+G20..11,high blood pressure
+G20..12,primary hypertension
+G200.00,malignant essential hypertension
+G201.00,benign essential hypertension
+G202.00,systolic hypertension
+G203.00,diastolic hypertension
+G20z.00,essential hypertension nos
+G20z.11,hypertension nos
+G21..00,hypertensive heart disease
+G210.00,malignant hypertensive heart disease
+G210000,malignant hypertensive heart disease without ccf
+G210100,malignant hypertensive heart disease with ccf
+G210z00,malignant hypertensive heart disease nos
+G211.00,benign hypertensive heart disease
+G211000,benign hypertensive heart disease without ccf
+G211100,benign hypertensive heart disease with ccf
+G211z00,benign hypertensive heart disease nos
+G21z.00,hypertensive heart disease nos
+G21z000,hypertensive heart disease nos without ccf
+G21z011,cardiomegaly - hypertensive
+G21z100,hypertensive heart disease nos with ccf
+G21zz00,hypertensive heart disease nos
+G22..00,hypertensive renal disease
+G22..11,nephrosclerosis
+G220.00,malignant hypertensive renal disease
+G221.00,benign hypertensive renal disease
+G222.00,hypertensive renal disease with renal failure
+G22z.00,hypertensive renal disease nos
+G22z.11,renal hypertension
+G23..00,hypertensive heart and renal disease
+G230.00,malignant hypertensive heart and renal disease
+G231.00,benign hypertensive heart and renal disease
+G232.00,hypertensive heart&renal dis wth (congestive) heart failure
+G233.00,hypertensive heart and renal disease with renal failure
+G234.00,hyperten heart&renal dis+both(congestv)heart and renal fail
+G23z.00,hypertensive heart and renal disease nos
+G24..00,secondary hypertension
+G240.00,secondary malignant hypertension
+G240000,secondary malignant renovascular hypertension
+G240z00,secondary malignant hypertension nos
+G241.00,secondary benign hypertension
+G241000,secondary benign renovascular hypertension
+G241z00,secondary benign hypertension nos
+G244.00,hypertension secondary to endocrine disorders
+G24z.00,secondary hypertension nos
+G24z000,secondary renovascular hypertension nos
+G24z100,hypertension secondary to drug
+G24zz00,secondary hypertension nos
+G25..00,stage 1 hypertension (nice - nat ins for hth clin excl 2011)
+G25..11,stage 1 hypertension
+G26..00,severe hypertension (nat inst for health clinical ex 2011)
+G26..11,severe hypertension
+G27..00,hypertension resistant to drug therapy
+G28..00,stage 2 hypertension (nice - nat ins for hth clin excl 2011)
+G2y..00,other specified hypertensive disease
+G2z..00,hypertensive disease nos
+G672.00,hypertensive encephalopathy
+G672.11,hypertensive crisis
+Gyu2.00,[x]hypertensive diseases
+Gyu2000,[x]other secondary hypertension
+Gyu2100,[x]hypertension secondary to other renal disorders
+L122.00,other pre-existing hypertension in preg/childbirth/puerp
+L122000,other pre-existing hypertension in preg/childb/puerp unspec
+L122100,other pre-existing hypertension in preg/childb/puerp - deliv
+L122300,other pre-exist hypertension in preg/childb/puerp-not deliv
+L122z00,other pre-existing hypertension in preg/childb/puerp nos
+L127.00,pre-eclampsia or eclampsia with pre-existing hypertension
+L127z00,pre-eclampsia or eclampsia + pre-existing hypertension nos
+L128.00,pre-exist hypertension compl preg childbirth and puerperium
+L128000,pre-exist hyperten heart dis compl preg childbth+puerperium
+L128200,pre-exist 2ndry hypertens comp preg childbth and puerperium
+TJC7.00,adverse reaction to other antihypertensives
+TJC7z00,adverse reaction to antihypertensives nos
+U60C500,"[x]oth antihyperten drug caus advers eff in therap use, nec"
+U60C511,[x] adverse reaction to other antihypertensives
+U60C51A,[x] adverse reaction to antihypertensives nos
