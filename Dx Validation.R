@@ -116,7 +116,11 @@ lshtm_1031 <- read_csv("HTN/Dx Validation List/LSHTM_1031_hypertension_codes.txt
 icd_list_preeclampsia <-  trud_icd10 %>%
     filter(str_starts(icd10, "O10|O11|O13|O14|O15|O16")) %>%
     pull(read_new)
-  
+
+
+icd_list_htn <-  trud_icd10 %>%
+  filter(str_starts(icd10, "I10|I11|I12|I13|I15|I16|I1A")) %>%
+  pull(read_new)
 
 # CREATE A BNF CODE LIST --------------------------------------------------
 
@@ -129,7 +133,8 @@ codelist_validation <- data.frame(
       res_180,
       lshtm_484,
       lshtm_1031,
-      icd_list_preeclampsia
+      icd_list_preeclampsia,
+      icd_list_htn
       )) %>%
   distinct(read) %>%
   func_remove_subcodes("read") %>%
