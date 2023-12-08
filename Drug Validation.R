@@ -51,6 +51,11 @@ biobank_opcs_read <-
     readcode_new = str_remove_all(read_code, "\\."),
     opcs4_new = str_remove_all(opcs4_code, "\\."))
 
+# Import BioBank's read to drug name table
+biobank_read_lookup <- 
+  readxl::read_excel("BioBank/biobank.xlsx", sheet = "read_v2_drugs_lkp") %>%
+  mutate(read_new = str_remove_all(read_code, "\\."))
+
 # Import the CPRD gold and aurum conversion tables 
 cprd_gold <- readr::read_tsv("CPRD/product.txt") 
 cprd_aurum <- readr::read_tsv("CPRD/CPRDAurumProduct.txt")
@@ -142,3 +147,15 @@ missing_codes <-
   .[!(. %in% codelist_checking)]
 
 missing_codes
+
+# Decode missing codes 
+biobank_read_lookup %>%
+  filter(read_new %in% missing_codes) %>%
+  select(read_new, term_description) %>%
+  print(n=999) 
+
+#Count how many translated read V2 codes to expect back
+missing_codes %>%
+  str_starts("X", negate=T) %>%
+  sum()
+

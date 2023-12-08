@@ -54,9 +54,17 @@ trud_opcs4 <-
   )
 
 
-temp <- readr::read_tsv(c(
-  #"NHS TRUD/read to snomed/PBCLReadSNOMEDmap20180401.txt"
-  "NHS TRUD/read to snomed/PBCLExtended20180401.txt")) 
+trud_snomed <- c(
+  "NHS TRUD/read to snomed/PBCLReadSNOMEDmap20180401.txt", 
+  "NHS TRUD/read to snomed/PBCLExtended20180401.txt") %>% 
+  map_df(~readr::read_tsv(.)) %>%
+  transmute(
+    v2_term = V2_TERM,
+    v2_read_code = V2_READ_CODE,
+    snomed = SNOMED_CONCEPT_ID,
+    read_new = str_remove_all(V2_READ_CODE, "\\.")
+  )
+ 
 
 # Import the CPRD gold and aurum conversion tables 
 cprd_gold <- readr::read_tsv("CPRD/medical.txt") 
@@ -67,58 +75,82 @@ cprd_aurum <- readr::read_tsv("CPRD/CPRDAurumMedical.txt")
 # VALIDATION LISTS ------------------------------------------------------------
 
 # Import the RES-1 and RES-30 lists and pull out the code
-# Truncate the codes to 5 length ()
+# Truncate the codes to 5 length (removes bytes 6 and 7)
+# Remove periods from end
 
-  c(
+res_1_30 <- c(
     "HTN/Dx Validation List/RES_1_hypertension.csv",
     "HTN/Dx Validation List/res30-hypertension-read.csv"
     ) %>%
   map_df(~read_csv(.)) %>%
   pull(code) %>%
-  str_trunc(5, side="right") %>%
+  str_trunc(5, side="right", ellipsis="") %>%
   str_remove_all("\\.")
+
+
+res_qof <- read_csv("HTN/Dx Validation List/qof_hypertension.csv") %>%
+  pull(code) %>%
+  str_trunc(5, side="right", ellipsis="") %>%
+  str_remove_all("\\.")
+
+
+res_180 <- read_csv("HTN/Dx Validation List/res180_hypertension.csv") %>%
+  filter(coding_system == "Read") %>%
+  pull(code) %>%
+  str_trunc(5, side="right", ellipsis="") %>%
+  str_remove_all("\\.")
+
+
+lshtm_484 <- read_tsv("HTN/Dx Validation List/LSHTM_484_Clinical_codelist_Read_hypertension.txt") %>%
+  pull(readcode) %>%
+  str_trunc(5, side="right", ellipsis="") %>%
+  str_remove_all("\\.")
+
+
+lshtm_1031 <- read_csv("HTN/Dx Validation List/LSHTM_1031_hypertension_codes.txt") %>%
+  pull(medcode) %>%
+  str_trunc(5, side="right", ellipsis="") %>%
+  str_remove_all("\\.")
+
+
+icd_list_preeclampsia <-  trud_icd10 %>%
+    filter(str_starts(icd10, "O10|O11|O13|O14|O15|O16")) %>%
+    pull(read_new)
   
+
+# CREATE A BNF CODE LIST --------------------------------------------------
+
+# Create a overall read list to check against
+# Keep only distinct read codes
+codelist_validation <- data.frame(
+    read = c(
+      res_1_30,
+      res_qof,
+      res_180,
+      lshtm_484,
+      lshtm_1031,
+      icd_list_preeclampsia
+      )) %>%
+  distinct(read) %>%
+  func_remove_subcodes("read") %>%
+  pull(read)
   
-  str_split(., pattern = "/", simplify = TRUE) %>%
-  .[. != ""]
+# CHECK CODELIST ----------------------------------------------------------
 
+# Cross check the lists imported vs Dx codelist
 
-# Import RES-56 and RES-72 and pull out the product code column
-# Then use the CPRD list to get BNF chapters
-# There are more BNF chapters than product codes as some drugs have >1 BNF chapter
+missing_codes <- codelist_validation %>%
+  .[!(. %in% codelist_checking)]
 
-res_prod_code <-
-  c("HTN/Drug Validation List/res56-antihypertensive-drugs.csv",
-    "HTN/Drug Validation List/res72-antihypertensives.csv") %>% 
-  map_df(~read_csv(.)) %>% 
-  pull(code) 
+missing_codes
 
-res_bnf <- cprd_gold %>%
-  filter(prodcode %in% res_prod_code) %>%
-  pull(bnfchapter) %>%
-  str_split(., pattern = "/", simplify = TRUE) %>%
-  .[. != ""] 
+# Decode missing codes 
+cprd_aurum %>%
+  filter(OriginalReadCode %in% missing_codes) %>%
+  select(OriginalReadCode, Term) %>%
+  print(n=999)
 
-
-# Import LSHTM codelist 874 and 2188
-# Then use the CPRD list to get BNF chapters
-# There are more BNF chapters than product codes as some drugs have >1 BNF chapter
-
-lshtm_prod_code <-
-  c(
-    "HTN/Drug Validation List/LSHTM_874_Therapy_codelist_antihypertensives.txt",
-    "HTN/Drug Validation List/LSTHM_2188_antihypertensives_gold_jul18.txt") %>% 
-  map_df(~read_csv(.)) %>%
-  pull(prodcode)
-
-lshtm_bnf <- cprd_gold %>%
-  filter(prodcode %in% lshtm_prod_code) %>%
-  pull(bnfchapter) %>%
-  str_split(., pattern = "/", simplify = TRUE) %>%
-  .[. != ""] 
-
-
-
-nchar(cprd_gold$readcode) %>%
-  table()
-
+#Count how many translated read V2 codes to expect back
+missing_codes %>%
+str_starts("X", negate=T) %>%
+sum()
