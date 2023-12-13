@@ -34,8 +34,9 @@ func_remove_subcodes <- function(df, code_column) {
 
 # Location of the code list to check
 codelist_checking <- readxl::read_excel("HTN/HTN Rx codes.xlsx") %>%
-  pull(Code) %>%
-  str_remove_all(., "\\.")
+  pull("Stata Code") %>%
+  str_remove_all(., "\\.") %>%
+  .[. != ""]
 
 # Import BioBank read conversion table
 biobank_bnf_read <- 

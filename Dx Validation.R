@@ -32,9 +32,10 @@ func_remove_subcodes <- function(df, code_column) {
 # As importing, create new variables with periods removed (easier to work with)
 
 # Location of the code list to check
-codelist_checking <- readxl::read_excel("HTN/HTN Dx codes.xlsx") %>%
-  pull(Code) %>%
-  str_remove_all(., "\\.")
+codelist_checking  <- readxl::read_excel("HTN/HTN Dx codes.xlsx") %>%
+  pull("Stata Code") %>%
+  str_remove_all(., "\\.") %>%
+  .[. != ""]
 
 # Import NHS TRUD read conversion tables
 trud_icd10 <- 
@@ -159,3 +160,25 @@ cprd_aurum %>%
 missing_codes %>%
 str_starts("X", negate=T) %>%
 sum()
+
+
+
+
+
+
+missing_codes <- codelist_checking %>%
+  .[!(. %in% codelist_validation)]
+
+missing_codes
+
+# Decode missing codes 
+cprd_aurum %>%
+  filter(OriginalReadCode %in% missing_codes) %>%
+  select(OriginalReadCode, Term) %>%
+  print(n=999)
+
+#Count how many translated read V2 codes to expect back
+missing_codes %>%
+  str_starts("X", negate=T) %>%
+  sum()
+
