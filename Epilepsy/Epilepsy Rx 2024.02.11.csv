@@ -1,0 +1,330 @@
+﻿d26..,clobazam,drug
+d261.,*clobazam 10mg capsules,drug
+d262.,*frisium 10mg capsules,drug
+d263.,clobazam 10mg tablets,drug
+d264.,frisium 10mg tablets,drug
+d265.,tapclob 5mg/5ml oral susp,drug
+d266.,clobazam 5mg/5ml oral susp,drug
+d267.,tapclob 10mg/5ml oral susp,drug
+d268.,clobazam 10mg/5ml oral susp,drug
+dn1..,acetazolamide [epilepsy],drug
+dn11.,*diamox [ep] 500mg m/r caps,drug
+dn12.,diamox [ep] 250mg tablets,drug
+dn1x.,*acetazolamide 500mg m/r caps,drug
+dn1y.,acetazolamide [ep] 250mg tabs,drug
+dn3..,carbamazepine,drug
+dn31.,carbamazepine 100mg tablets,drug
+dn32.,carbamazepine 200mg tablets,drug
+dn33.,carbamazepine 400mg tablets,drug
+dn34.,tegretol 100mg tablets,drug
+dn35.,tegretol 200mg tablets,drug
+dn36.,tegretol 400mg tablets,drug
+dn37.,tegretol 100mg/5ml s/f liquid,drug
+dn38.,tegretol retard 200mg m/r tabs,drug
+dn39.,tegretol retard 400mg m/r tabs,drug
+dn3a.,carbamazepine 200mg m/r tabs,drug
+dn3A.,*epimaz 100mg tablets,drug
+dn3b.,carbamazepine 400mg m/r tabs,drug
+dn3B.,*epimaz 200mg tablets,drug
+dn3c.,tegretol 100mg chew tabs,drug
+dn3C.,*epimaz 400mg tablets,drug
+dn3d.,tegretol 200mg chew tabs,drug
+dn3F.,*timonil retard 200mg m/r tabs,drug
+dn3G.,*timonil retard 400mg m/r tabs,drug
+dn3H.,*teril cr 200mg m/r tablets,drug
+dn3I.,*teril cr 400mg m/r tablets,drug
+dn3J.,carbagen sr 200mg m/r tablets,drug
+dn3K.,carbagen sr 400mg m/r tablets,drug
+dn3x.,carbamazepine 200mg chew tabs,drug
+dn3y.,carbamazepine 100mg chew tabs,drug
+dn3z.,carbamazepine 100mg/5ml sf liq,drug
+dn4..,clonazepam [epilepsy control],drug
+dn41.,*rivotril 500mcg tablets,drug
+dn42.,rivotril 2mg tablets,drug
+dn4w.,clonazepam 0.5mg/5ml s/f soln,drug
+dn4x.,clonazepam 2mg/5ml s/f soln,drug
+dn4y.,clonazepam 500mcg tablets,drug
+dn4z.,clonazepam 2mg tablets,drug
+dn5..,ethosuximide                                                ,drug
+dn51.,*ethosuximide 250mg capsules                                ,drug
+dn52.,*ethosuximide 250mg/5ml elixir                              ,drug
+dn53.,*emeside 250mg capsules,drug
+dn54.,emeside 250mg/5ml syrup,drug
+dn55.,*zarontin 250mg capsules,drug
+dn56.,zarontin 250mg/5ml syrup,drug
+dn5x.,ethosuximide 250mg capsules                                 ,drug
+dn5y.,*ethosuximide 250mg/5ml elixir                              ,drug
+dn5z.,ethosuximide 250mg/5ml syrup                                ,drug
+dn6..,methylphenobarbital,drug
+dn61.,*prominal 30mg tablets,drug
+dn62.,*prominal 60mg tablets,drug
+dn63.,*prominal 200mg tablets,drug
+dn6x.,*methylphenobarbitone 30mg tab,drug
+dn6y.,*methylphenobarbitone 60mg tab,drug
+dn6z.,*methylphenobarb 200mg tabs,drug
+dn7..,phenobarbital,drug
+dn71.,phenobarbital 15mg tablets,drug
+dn72.,phenobarbital 30mg tablets,drug
+dn73.,phenobarbital 60mg tablets,drug
+dn74.,phenobarbital 100mg tablets,drug
+dn75.,*phenobarb sodium 30mg tablets,drug
+dn76.,*phenobarb sodium 60mg tablets,drug
+dn77.,*phenobarbitone 15mg/10ml elix,drug
+dn7a.,*luminal 15mg tablets,drug
+dn7b.,*luminal 30mg tablets,drug
+dn7c.,*luminal 60mg tablets,drug
+dn7d.,phenobarbital 15mg/5ml elixir,drug
+dn8..,phenytoin,drug
+dn81.,epanutin 30mg/5ml suspension,drug
+dn82.,epanutin 50mg infatabs,drug
+dn83.,phenytoin 50mg chew tabs,drug
+dn8y.,phenytoin 30mg/5ml suspension,drug
+dn8z.,phenytoin 90mg/5ml s/f susp,drug
+dn9..,phenytoin sodium,drug
+dn91.,phenytoin 50mg tablets,drug
+dn92.,phenytoin 100mg tablets,drug
+dn93.,*epanutin 25mg capsules,drug
+dn94.,epanutin 50mg capsules,drug
+dn95.,*epanutin 100mg capsules,drug
+dn96.,*epanutin 300mg capsules,drug
+dn97.,*pentran 50mg tablets,drug
+dn98.,*pentran 100mg tablets,drug
+dn9w.,phenytoin sodium 300mg caps,drug
+dn9x.,phenytoin sodium 25mg caps,drug
+dn9y.,phenytoin sodium 50mg capsules,drug
+dn9z.,phenytoin sodium 100mg caps,drug
+dna..,primidone,drug
+dna1.,mysoline 250mg tablets,drug
+dna2.,*mysoline 250mg/5ml suspension,drug
+dna3.,*mysoline 50mg tablets,drug
+dnax.,primidone 50mg tablets,drug
+dnay.,primidone 250mg tablets,drug
+dnaz.,*primidone 250mg/5ml susp,drug
+dnb..,sodium valproate,drug
+dnb1.,epilim 100mg crushable tablets,drug
+dnb2.,epilim 200mg e/c tablets,drug
+dnb3.,epilim 500mg e/c tablets,drug
+dnb4.,epilim 200mg/5ml s/f liq,drug
+dnb5.,epilim 200mg/5ml syrup,drug
+dnb7.,sod. valproate 200mg e/c tabs,drug
+dnb8.,sod. valproate 500mg e/c tabs,drug
+dnb9.,*orlept 200mg e/c tabs x10,drug
+dnba.,*orlept 200mg e/c tablets,drug
+dnbA.,*orlept 200mg/5ml s/f liquid,drug
+dnbb.,*orlept 500mg e/c tablets,drug
+dnbB.,epival cr 300mg m/r tablets,drug
+dnbc.,epilim chrono 200 m/r tablets,drug
+dnbC.,epival cr 500mg m/r tablets,drug
+dnbd.,epilim chrono 300 m/r tablets,drug
+dnbe.,epilim chrono 500 m/r tablets,drug
+dnbF.,episenta 150mg m/r capsules,drug
+dnbG.,episenta 300mg m/r capsules,drug
+dnbH.,episenta 500mg/sach m/r grans,drug
+dnbI.,episenta 1g/sachet m/r grans,drug
+dnbJ.,sodum valproate 150mg m/r caps,drug
+dnbK.,sodum valproate 300mg m/r caps,drug
+dnbL.,sod valproate 500mg m/r grans,drug
+dnbM.,sod valprote 1g/sach m/r grans,drug
+dnbn.,sod valproate 50mg m/r grans,drug
+dnbo.,sod valproate 100mg m/r grans,drug
+dnbp.,sod valproate 250mg m/r grans,drug
+dnbP.,epilim chrono 50mg m/r grans,drug
+dnbq.,sod valproate 750mg m/r grans,drug
+dnbQ.,epilim chrono 100mg m/r grans,drug
+dnbr.,sod valproate 200mg m/r tabs,drug
+dnbR.,epilim chrono 250mg m/r grans,drug
+dnbs.,sod valproate 300mg m/r tabs,drug
+dnbS.,epilim chrono 500mg m/r grans,drug
+dnbt.,sod valproate 500mg m/r tabs,drug
+dnbT.,epilim chrono 750mg m/r grans,drug
+dnbU.,epilim chrono 1g m/r granules,drug
+dnbv.,sod valproate 100mg crush tabs,drug
+dnbw.,*sodium valproate 200mg tabs,drug
+dnbx.,*sodium valproate 500mg tabs,drug
+dnby.,sod. valproate 200mg/5ml sfliq,drug
+dnbz.,sodium valproate 200mg/5ml syr,drug
+dnc..,clobazam [epilepsy only],drug
+dnc1.,*clobazam sls 10mg capsules,drug
+dne..,vigabatrin,drug
+dne1.,vigabatrin 500mg tablets,drug
+dne2.,sabril 500mg tablets,drug
+dne3.,vigabatrin 500mg pdr sachets,drug
+dne4.,sabril 500mg powder sachets,drug
+dnf..,lamotrigine,drug
+dnf1.,lamotrigine 50mg tablets,drug
+dnf2.,lamotrigine 100mg tablets,drug
+dnf3.,lamictal 50mg tablets,drug
+dnf4.,lamictal 100mg tablets,drug
+dnf5.,lamotrigine 25mg tablets,drug
+dnf6.,lamictal 25mg tablets,drug
+dnf7.,lamictal 5mg disp tablets,drug
+dnf8.,lamictal 25mg disp tablets,drug
+dnf9.,lamictal 100mg disp tablets,drug
+dnfA.,lamotrigine 5mg disp tablets,drug
+dnfB.,lamotrigine 25mg disp tablets,drug
+dnfC.,lamotrigine 100mg disp tablets,drug
+dnfD.,lamictal 200mg tablets,drug
+dnfE.,lamotrigine 200mg tablets,drug
+dnfF.,*lamictal monotherapy pack,drug
+dnfG.,*lamictal valproate add-on pck,drug
+dnfH.,*lamictal non-valproate pack,drug
+dnfJ.,lamictal 2mg dispersible tabs,drug
+dnfz.,lamotrigine 2mg disp tablets,drug
+dnh..,valproic acid,drug
+dnh1.,convulex 150mg e/c capsules,drug
+dnh2.,convulex 300mg e/c capsules,drug
+dnh3.,convulex 500mg e/c capsules,drug
+dnh4.,valproic acid 150mg e/c caps,drug
+dnh5.,valproic acid 300mg e/c caps,drug
+dnh6.,valproic acid 500mg e/c caps,drug
+dnh7.,depakote 250mg e/c tablets,drug
+dnh8.,depakote 500mg e/c tablets,drug
+dnhy.,valproic acid 500mg e/c tabs,drug
+dnhz.,valproic acid 250mg e/c tabs,drug
+dnj..,gabapentin,drug
+dnj1.,gabapentin 100mg capsules,drug
+dnj2.,gabapentin 300mg capsules,drug
+dnj3.,gabapentin 400mg capsules,drug
+dnj4.,neurontin 100mg capsules,drug
+dnj5.,neurontin 300mg capsules,drug
+dnj6.,neurontin 400mg capsules,drug
+dnj7.,neurontin 600mg tablets,drug
+dnj8.,neurontin 800mg tablets,drug
+dnj9.,*neurontin 300mg/600mg pack,drug
+dnjA.,gabapentin 50mg/ml oral soln,drug
+dnjx.,*gabapentn 300mg cap/600mg tab,drug
+dnjy.,gabapentin 600mg tablets,drug
+dnjz.,gabapentin 800mg tablets,drug
+dnk..,topiramate,drug
+dnk1.,topiramate 50mg tablets,drug
+dnk2.,topiramate 100mg tablets,drug
+dnk3.,topiramate 200mg tablets,drug
+dnk4.,topamax 50mg tablets,drug
+dnk5.,topamax 100mg tablets,drug
+dnk6.,topamax 200mg tablets,drug
+dnk7.,topiramate 25mg tablets,drug
+dnk8.,topamax 25mg tablets,drug
+dnk9.,topiramate 15mg beads in caps,drug
+dnkA.,topiramate 25mg beads in caps,drug
+dnkB.,topamax sprinkle 15mg capsules,drug
+dnkC.,topamax sprinkle 25mg capsules,drug
+dnkD.,topiramate 50mg beads in caps,drug
+dnkE.,topamax sprinkle 50mg capsules,drug
+dnl..,tiagabine,drug
+dnl1.,tiagabine 5mg tablets,drug
+dnl2.,tiagabine 10mg tablets,drug
+dnl3.,tiagabine 15mg tablets,drug
+dnl4.,gabitril 5mg tablets,drug
+dnl5.,gabitril 10mg tablets,drug
+dnl6.,gabitril 15mg tablets,drug
+dnm..,oxcarbazepine,drug
+dnm1.,trileptal 150 tablets,drug
+dnm2.,trileptal 300 tablets,drug
+dnm3.,trileptal 600 tablets,drug
+dnm4.,trileptal 60mg/ml s/f susp,drug
+dnmw.,oxcarbazepine 60mg/ml s/f susp,drug
+dnmx.,oxcarbazepine 150mg tablets,drug
+dnmy.,oxcarbazepine 300mg tablets,drug
+dnmz.,oxcarbazepine 600mg tablets,drug
+dno..,levetiracetam,drug
+dno1.,keppra 250mg tablets,drug
+dno2.,keppra 500mg tablets,drug
+dno3.,keppra 1g tablets,drug
+dno4.,keppra 750mg tablets,drug
+dno5.,keppra 100mg/ml s/f oral soln,drug
+dno7.,desitrend 250mg/sach granules,drug
+dno8.,desitrend 500mg/sach granules,drug
+dno9.,desitrend 1g/sachet granules,drug
+dnoA.,desitrend 100mg/ml oral soln,drug
+dnor.,levetiracetam 1g/sach granules,drug
+dnos.,levetiracetam 500mg/sach grans,drug
+dnot.,levetiracetam 250mg/sach grans,drug
+dnov.,levetiractam 100mg/ml s/f soln,drug
+dnow.,levetiracetam 750mg tablets,drug
+dnox.,levetiracetam 1g tablets,drug
+dnoy.,levetiracetam 500mg tablets,drug
+dnoz.,levetiracetam 250mg tablets,drug
+dnp..,pregabalin,drug
+dnp1.,lyrica 25mg capsules,drug
+dnp2.,lyrica 50mg capsules,drug
+dnp3.,lyrica 75mg capsules,drug
+dnp4.,lyrica 100mg capsules,drug
+dnp5.,lyrica 150mg capsules,drug
+dnp6.,lyrica 200mg capsules,drug
+dnp7.,lyrica 300mg capsules,drug
+dnp8.,lyrica 225mg capsules,drug
+dnp9.,lyrica 20mg/1ml oral solution,drug
+dnpr.,pregabalin 20mg/1ml solution,drug
+dnps.,pregabalin 225mg capsules,drug
+dnpt.,pregabalin 300mg capsules,drug
+dnpu.,pregabalin 200mg capsules,drug
+dnpv.,pregabalin 100mg capsules,drug
+dnpw.,pregabalin 150mg capsules,drug
+dnpx.,pregabalin 75mg capsules,drug
+dnpy.,pregabalin 50mg capsules,drug
+dnpz.,pregabalin 25mg capsules,drug
+dnq..,zonisamide,drug
+dnq1.,zonisamide 25mg capsules,drug
+dnq2.,zonisamide 50mg capsules,drug
+dnq3.,zonisamide 100mg capsules,drug
+dnq4.,zonegran 25mg capsules,drug
+dnq5.,zonegran 50mg capsules,drug
+dnq6.,zonegran 100mg capsules,drug
+dnr..,rufinamide,drug
+dnr1.,inovelon 100mg tablets,drug
+dnr2.,inovelon 200mg tablets,drug
+dnr3.,inovelon 400mg tablets,drug
+dnr4.,inovelon 40mg/ml oral susp,drug
+dnrw.,rufinamide 40mg/ml oral susp,drug
+dnrx.,rufinamide 400mg tablets,drug
+dnry.,rufinamide 200mg tablets,drug
+dnrz.,rufinamide 100mg tablets,drug
+dnt..,lacosamide,drug
+dnt2.,*vimpat 15mg/1ml s/f liquid,drug
+dnt3.,vimpat 50mg tablets,drug
+dnt4.,vimpat 100mg tablets,drug
+dnt5.,vimpat 150mg tablets,drug
+dnt6.,vimpat 200mg tablets,drug
+dnt8.,*lacosamide 15mg/1ml s/f liq,drug
+dnt9.,lacosamide 50mg tablets,drug
+dntA.,lacosamide 100mg tablets,drug
+dntB.,lacosamide 150mg tablets,drug
+dntC.,lacosamide 200mg tablets,drug
+dntD.,vimpat 10mg/1ml syrup,drug
+dntE.,lacosamide 10mg/1ml s/f liquid,drug
+dnu..,eslicarbazepine,drug
+dnu1.,zebinix 800mg tablets,drug
+dnu2.,eslicarbazpn acetat 800mg tabs,drug
+dnv..,retigabine,drug
+dnv1.,trobalt 50mg tablets,drug
+dnv2.,trobalt 100mg tablets,drug
+dnv3.,trobalt 200mg tablets,drug
+dnv4.,trobalt 300mg tablets,drug
+dnv5.,trobalt 400mg tablets,drug
+dnv6.,trobalt tabs initiation pack,drug
+dnv7.,retigabine 50mg tablets,drug
+dnv8.,retigabine 100mg tablets,drug
+dnv9.,retigabine 200mg tablets,drug
+dnvA.,retigabine 300mg tablets,drug
+dnvB.,retigabine 400mg tablets,drug
+dnvC.,retigabin 50mg+100mg tabs pack,drug
+dnw..,perampanel,drug
+dnw1.,fycompa 2mg tablets,drug
+dnw2.,fycompa 4mg tablets,drug
+dnw3.,fycompa 6mg tablets,drug
+dnw4.,fycompa 8mg tablets,drug
+dnw5.,fycompa 10mg tablets,drug
+dnw6.,fycompa 12mg tablets,drug
+dnwu.,perampanel 12mg tablets,drug
+dnwv.,perampanel 10mg tablets,drug
+dnww.,perampanel 8mg tablets,drug
+dnwx.,perampanel 6mg tablets,drug
+dnwy.,perampanel 4mg tablets,drug
+dnwz.,perampanel 2mg tablets,drug
+k81..,acetazolamide [glaucoma],drug
+k811.,*diamox sustets 500mg m/r caps,drug
+k812.,diamox 250mg tablets,drug
+k815.,diamox sr 250mg m/r capsules,drug
+k81w.,acetazolamide 250mg m/r caps,drug
+k81x.,*acetazolamide 500mg m/r caps,drug
+k81y.,acetazolamide 250mg tablets,drug

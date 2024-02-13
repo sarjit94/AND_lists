@@ -1,0 +1,43 @@
+code,coding_system,description,entity,list_name,upload_date,resolve_code
+173A.00,Read,Exercise induced asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+173c.00,Read,Occupational asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+173d.00,Read,Work aggravated asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+1780.00,Read,Aspirin induced asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+1O2..00,Read,Asthma confirmed,diagnostic,35 - asthma_clinicals,2014-01-27,0
+2126200,Read,Asthma resolved,diagnostic,35 - asthma_clinicals,2014-01-27,1
+212G.00,Read,Asthma resolved,diagnostic,35 - asthma_clinicals,2014-01-27,1
+663j.00,Read,Asthma - currently active,diagnostic,35 - asthma_clinicals,2014-01-27,0
+663V000,Read,Occasional asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+663V100,Read,Mild asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+663V200,Read,Moderate asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+663V300,Read,Severe asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H312000,Read,Chronic asthmatic bronchitis,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H33..00,Read,Asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330.00,Read,Extrinsic (atopic) asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330000,Read,Extrinsic asthma without status asthmaticus,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330011,Read,Hay fever with asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330100,Read,Extrinsic asthma with status asthmaticus,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330.11,Read,Allergic asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330111,Read,Extrinsic asthma with asthma attack,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330.12,Read,Childhood asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330.13,Read,Hay fever with asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330.14,Read,Pollen asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H330z00,Read,Extrinsic asthma NOS,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H331.00,Read,Intrinsic asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H331000,Read,Intrinsic asthma without status asthmaticus,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H33..11,Read,Bronchial asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H331100,Read,Intrinsic asthma with status asthmaticus,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H331.11,Read,Late onset asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H331111,Read,Intrinsic asthma with asthma attack,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H331z00,Read,Intrinsic asthma NOS,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H332.00,Read,Mixed asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H334.00,Read,Brittle asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H33z.00,Read,Asthma unspecified,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H33z.11,Read,Hyperreactive airways disease,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H33z200,Read,Late-onset asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H33zz00,Read,Asthma NOS,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H33zz11,Read,Exercise induced asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H33zz12,Read,Allergic asthma NEC,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H35y600,Read,Sequoiosis (red-cedar asthma),diagnostic,35 - asthma_clinicals,2014-01-27,0
+H35y700,Read,Wood asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0
+H47y000,Read,Detergent asthma,diagnostic,35 - asthma_clinicals,2014-01-27,0

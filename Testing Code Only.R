@@ -101,3 +101,49 @@ temp <- biobank_bnf_read %>%
 list(temp)
 
 
+
+
+
+
+
+find_subcodes <- function(higher_level_codes, all_codes) {
+  subcodes <- character(0)  # Initialize an empty character vector to store subcodes
+  
+  # Loop through each higher level code
+  for (code in higher_level_codes) {
+    # Find subcodes that start with the current higher level code
+    matching_subcodes <- grep(paste0("^", code), all_codes, value = TRUE)
+    subcodes <- c(subcodes, matching_subcodes)
+  }
+  
+  # Return unique subcodes
+  unique(subcodes)
+}
+
+
+
+
+ 
+  biobank_read_lookup %>%
+  filter(read_new %in% func_remove_subcodes2(codelist_checking) ) %>%
+  select(read_new, term_description) %>%
+    write.csv("file.csv")
+
+
+
+temp  <- readxl::read_xlsx("Epilepsy drugs high level codes.xlsx") %>%
+  pull(read_new)
+
+
+# EXPANSION CODE 
+biobank_read_lookup %>%
+  filter(read_new %in% find_subcodes(temp, biobank_read_lookup$read_new) ) %>%
+  select(read_new, term_description) %>%
+  print(n=999) 
+
+            
+
+cprd_aurum %>%
+  filter(read_new %in% find_subcodes(temp, cprd_aurum$read_new)) %>%
+  select(read_new, Term) %>%
+  print(n=999)

@@ -1,0 +1,40 @@
+code,coding_system,description,entity,list_name,upload_date
+14B4.00,Read,H/O: asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+173d.00,Read,Work aggravated asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+1O2..00,Read,Asthma confirmed,diagnostic,194 - res25: P1asthma,2015-04-14
+2126200,Read,Asthma resolved,diagnostic,194 - res25: P1asthma,2015-04-14
+212G.00,Read,Asthma resolved,diagnostic,194 - res25: P1asthma,2015-04-14
+8H2P.00,Read,Emergency admission; asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H312000,Read,Chronic asthmatic bronchitis,diagnostic,194 - res25: P1asthma,2015-04-14
+H312011,Read,Chronic wheezy bronchitis,diagnostic,194 - res25: P1asthma,2015-04-14
+H33..00,Read,Asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H330.00,Read,Extrinsic (atopic) asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H330000,Read,Extrinsic asthma without status asthmaticus,diagnostic,194 - res25: P1asthma,2015-04-14
+H330011,Read,Hay fever with asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H330100,Read,Extrinsic asthma with status asthmaticus,diagnostic,194 - res25: P1asthma,2015-04-14
+H330.11,Read,Allergic asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H330111,Read,Extrinsic asthma with asthma attack,diagnostic,194 - res25: P1asthma,2015-04-14
+H330.12,Read,Childhood asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H330.13,Read,Hay fever with asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H330.14,Read,Pollen asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H330z00,Read,Extrinsic asthma NOS,diagnostic,194 - res25: P1asthma,2015-04-14
+H331.00,Read,Intrinsic asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H331000,Read,Intrinsic asthma without status asthmaticus,diagnostic,194 - res25: P1asthma,2015-04-14
+H33..11,Read,Bronchial asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H331100,Read,Intrinsic asthma with status asthmaticus,diagnostic,194 - res25: P1asthma,2015-04-14
+H331.11,Read,Late onset asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H331111,Read,Intrinsic asthma with asthma attack,diagnostic,194 - res25: P1asthma,2015-04-14
+H331z00,Read,Intrinsic asthma NOS,diagnostic,194 - res25: P1asthma,2015-04-14
+H332.00,Read,Mixed asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H333.00,Read,Acute exacerbation of asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H334.00,Read,Brittle asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H33z.00,Read,Asthma unspecified,diagnostic,194 - res25: P1asthma,2015-04-14
+H33z000,Read,Status asthmaticus NOS,diagnostic,194 - res25: P1asthma,2015-04-14
+H33z011,Read,Severe asthma attack,diagnostic,194 - res25: P1asthma,2015-04-14
+H33z100,Read,Asthma attack,diagnostic,194 - res25: P1asthma,2015-04-14
+H33z111,Read,Asthma attack NOS,diagnostic,194 - res25: P1asthma,2015-04-14
+H33z200,Read,Late-onset asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H33zz00,Read,Asthma NOS,diagnostic,194 - res25: P1asthma,2015-04-14
+H33zz11,Read,Exercise induced asthma,diagnostic,194 - res25: P1asthma,2015-04-14
+H33zz12,Read,Allergic asthma NEC,diagnostic,194 - res25: P1asthma,2015-04-14
+H47y000,Read,Detergent asthma,diagnostic,194 - res25: P1asthma,2015-04-14

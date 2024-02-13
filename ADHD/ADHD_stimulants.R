@@ -51,7 +51,7 @@ biobank_read_lookup <-
 # Remove subcodes
 # Pull out the read codes
 adhd_0404 <- biobank_bnf_read %>%
-  filter(str_starts(bnfcode_new, "0404")) %>%
+  filter(str_starts(bnfcode_new, "0403")) %>%
   func_remove_subcodes("readcode_new") %>%
   pull(readcode_new)
 
