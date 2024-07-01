@@ -20,7 +20,7 @@ func_diag_tally <- function(code, byte) {
 
 # Function to search for codes based on length
 func_diag_search(
-  code = "Eu80",
+  code = "B",
   byte = 5
 )
 
@@ -30,15 +30,41 @@ func_diag_tally(
   byte = 3L
 )
 
+## SECTION TO DEAL WITH TERM CODES
+# # Find terms from codes - END
+# cprd_aurum %>%
+#   filter(str_length(CleansedReadCode)>5) %>%
+#   filter(str_ends(CleansedReadCode, "15")) %>%
+#   select(CleansedReadCode, Term) %>%
+#   filter(str_length(CleansedReadCode)<=8) %>%
+#   arrange(CleansedReadCode) %>%
+#   print(n=999)
+# 
+# # Find terms from codes - START
+# cprd_aurum %>%
+#   filter(str_length(CleansedReadCode)>5) %>%
+#   filter(str_starts(CleansedReadCode, "TK\\.\\.\\.")) %>%
+#   select(CleansedReadCode, Term) %>%
+#   filter(str_length(CleansedReadCode)<=8) %>%
+#   arrange(CleansedReadCode) %>%
+#   print(n=999)
+
+
 # Find terms from codes
 cprd_aurum %>%
-  filter(str_starts(OriginalReadCode, "E2")) %>%
-  select(OriginalReadCode, Term)
+  filter(str_starts(OriginalReadCode, "E2E|ZS9|9Ng|901|Eu90|8BPT|1P00.00|Eu9y700|6A61.")) %>%
+  select(OriginalReadCode, Term) %>%
+  filter(str_length(OriginalReadCode)<=8) %>%
+  arrange(OriginalReadCode) %>%
+  print(n=999)
 
 # Find codes from terms
 cprd_aurum %>%
-  filter(str_detect(Term, "lepsy")) %>%
-  select(OriginalReadCode, Term)
+  filter(str_detect(Term, "piat|endence|ddicti")) %>%
+  select(OriginalReadCode, Term) %>%
+  filter(str_length(OriginalReadCode)<5) %>%
+  arrange(OriginalReadCode) %>%
+  write.csv("dx.csv")
 
 # Decode the codelist for checking
 cprd_aurum %>%

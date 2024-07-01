@@ -1,6 +1,6 @@
 # IMPORT CHECKING LIST  ------------------------------------------------
 # As importing, create new variables with periods removed (easier to work with)
-codelist_checking <- read_csv("Epilepsy/Epilepsy Rx 2024.02.11.csv", col_names = FALSE) %>%
+codelist_checking <- read_csv("Epilepsy/Epilepsy Rx 2024.04.08.csv", col_names = FALSE) %>%
   pull(X1) %>%
   str_remove_all(., "\\.")
 

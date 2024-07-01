@@ -21,8 +21,8 @@ func_drug_tally <- function(code, byte) {
 
 # Function to search for codes based on length
 func_drug_search(
-  code = "dn", 
-  byte = 3
+  code = "djc", 
+  byte = 5
 )
 
 # Tally number of subcodes 
@@ -33,11 +33,17 @@ func_drug_tally(
 
 # Find terms from codes
 biobank_read_lookup %>%
-  filter(str_starts(read_new, "9h3"))
+  filter(str_starts(read_new, "dw|db|dz|dc1")) %>%
+  filter(str_length(read_new) <= 5) %>%
+  arrange(read_new) %>%
+  select(read_code, term_description) %>% 
+  print(n=999) 
 
 # Find codes from terms
 biobank_read_lookup %>%
-  filter(str_detect(term_description, "CLOBAZAM"))
+  filter(str_detect(term_description, "METHAD")) %>%
+  print(n=999)
+
 
 # Decode the codelist for checking
 biobank_read_lookup %>%

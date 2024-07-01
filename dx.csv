@@ -1,0 +1,29 @@
+OriginalReadCode,Term,
+1TD,H/O opiate misuse,N
+1TD0,H/O daily opiate misuse,N
+1TD1,H/O weekly opiate misuse,N
+1TD2,H/O infrequent opiate misuse,N
+8B23,Drug addiction therapy,B
+8B2N,Drug addiction detoxification therapy - methadone,N
+8B2P,Drug addiction maintenance therapy - methadone,N
+8B2Q,Drug addiction maintenance therapy - buprenorphine,N
+8B2R,Drug addiction detoxification therapy - buprenorphine,N
+8BAW,Drug dependence self detoxification,B
+8BAX,Drug dependence home detoxification,B
+8BAd,Opiate dependence detoxification,N
+8BAo,Benzodiazepine dependence detoxification,B
+E24,Drug dependence,B
+E240,Opioid dependence,N
+E241,Hypnotic or anxiolytic dependence,B
+E242,Cocaine type drug dependence,B
+E243,Cannabis type drug dependence,B
+E244,Stimulant dependence,B
+E245,Hallucinogen dependence,B
+E246,Glue sniffing dependence,B
+E247,Other specified drug dependence,B
+E248,Combined opioid with other drug dependence,N
+E249,"Combined drug dependence, excluding opioids",B
+E24A,Ecstasy type drug dependence,B
+E24z,Drug dependence NOS,B
+Eu55,Abuse of non-dependence-producing substances,B
+L183,"Drug dependence during pregnancy, childbirth and the puerperium",B

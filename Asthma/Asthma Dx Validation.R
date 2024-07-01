@@ -121,10 +121,22 @@ cprd_aurum %>%
   filter(OriginalReadCode %in% missing_codes) %>%
   select(OriginalReadCode, Term) %>%
   arrange(OriginalReadCode) %>%
-  print(n=999)
+  print(n=999) 
 
 
 #Count how many translated read V2 codes to expect back
 missing_codes %>%
 str_starts("X", negate=T) %>%
 sum()
+
+# Decode the codelist for checking
+cprd_aurum %>%
+  filter(read_new %in% func_remove_subcodes2(codelist_checking)) %>%
+  select(read_new, Term) 
+
+
+codelist_checking <- read_csv("import.csv") %>%
+pull("read_new") %>%
+  str_remove_all(., "\\.")
+
+

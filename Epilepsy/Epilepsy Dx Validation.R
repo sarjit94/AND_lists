@@ -2,7 +2,7 @@
 
 # As importing, create new variables with periods removed (easier to work with)
 codelist_checking <-
-  read_csv("Epilepsy/Epilepsy Dx 2024.02.11.csv") %>%
+  read_csv("Epilepsy/Epilepsy Dx 2024.04.08.csv") %>%
   pull('Code') %>%
   str_trunc(5, side = "right", ellipsis = "") %>%
   str_remove_all(., "\\.")
@@ -91,7 +91,8 @@ cprd_aurum %>%
   filter(OriginalReadCode %in% missing_codes) %>%
   select(OriginalReadCode, Term) %>%
   arrange(OriginalReadCode) %>%
-  print(n = 999)
+  print(n = 999) %>%
+  print(n=999)
 
 
 #Count how many translated read V2 codes to expect back
@@ -102,6 +103,4 @@ missing_codes %>%
 # Decode the codelist for checking
 cprd_aurum %>%
   filter(read_new %in% func_remove_subcodes2(codelist_checking)) %>%
-  select(read_new, Term) %>%
-  print(n=999)
-
+  select(read_new, Term) 

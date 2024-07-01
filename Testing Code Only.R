@@ -121,29 +121,16 @@ find_subcodes <- function(higher_level_codes, all_codes) {
 }
 
 
+# EXPANSION CODE (DIAG)
+cprd_aurum %>%
+  filter(read_new %in% find_subcodes(codelist_checking, cprd_aurum$read_new) ) %>%
+  select(read_new, Term) %>%
+  print(n=999) %>%
+  write.csv("file2.csv")
 
 
- 
-  biobank_read_lookup %>%
-  filter(read_new %in% func_remove_subcodes2(codelist_checking) ) %>%
-  select(read_new, term_description) %>%
-    write.csv("file.csv")
-
-
-
-temp  <- readxl::read_xlsx("Epilepsy drugs high level codes.xlsx") %>%
-  pull(read_new)
-
-
-# EXPANSION CODE 
+# EPANSION CODE (DRUG)
 biobank_read_lookup %>%
   filter(read_new %in% find_subcodes(temp, biobank_read_lookup$read_new) ) %>%
   select(read_new, term_description) %>%
   print(n=999) 
-
-            
-
-cprd_aurum %>%
-  filter(read_new %in% find_subcodes(temp, cprd_aurum$read_new)) %>%
-  select(read_new, Term) %>%
-  print(n=999)
