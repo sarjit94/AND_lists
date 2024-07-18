@@ -1,9 +1,11 @@
 ,OriginalReadCode,Term
-1,8BPT,Drug therapy for ADHD (attention deficit hyperactivity disorder)
-2,E2E,Childhood hyperkinetic syndrome
-3,Eu90,[X]Hyperkinetic disorders
-4,ZS9,ERROR
-5,901,ERROR
-6,1P00,Hyperactive behaviour
-7,Eu9y7,Attention deficit disorder
-8,6A61,Attention deficit hyperactivity disorder annual review
+2,6A61,Attention deficit hyperactivity disorder annual review
+4,8BPT,Drug therapy for ADHD (attention deficit hyperactivity disorder)
+5,9Ngp,On drug therapy for ADHD (attention deficit hyperactivity disorder)
+6,9Ol8,Attention deficit hyperactivity disorder monitoring invitation first letter
+7,9Ol9,Attention deficit hyperactivity disorder monitoring invitation second letter
+8,9OlA,Attention deficit hyperactivity disorder monitoring invitation third letter
+9,E2E,Childhood hyperkinetic syndrome
+10,E2E0,Child attention deficit disorder
+11,E2Ey,Other hyperkinetic manifestation
+12,T164,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway"

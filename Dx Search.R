@@ -59,11 +59,12 @@ cprd_aurum %>%
 
 # Find codes from terms
 cprd_aurum %>%
-  filter(str_detect(Term, "adhd|hyperact|attent")) %>%
+  filter(str_detect(Term, "adhd|hyperact|attent|hyperkinet")) %>%
   select(OriginalReadCode, Term) %>%
   filter(str_length(OriginalReadCode)<5) %>%
   arrange(OriginalReadCode) %>%
-  print(n=999)
+  # write.csv("dx.csv")
+  print(n=999) 
 
 # Decode the codelist for checking
 cprd_aurum %>%
