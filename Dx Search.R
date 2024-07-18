@@ -49,10 +49,9 @@ func_diag_tally(
 #   arrange(CleansedReadCode) %>%
 #   print(n=999)
 
-
 # Find terms from codes
 cprd_aurum %>%
-  filter(str_starts(OriginalReadCode, "E2E|ZS9|9Ng|901|Eu90|8BPT|1P00.00|Eu9y700|6A61.")) %>%
+  filter(str_starts(OriginalReadCode, "E")) %>%
   select(OriginalReadCode, Term) %>%
   filter(str_length(OriginalReadCode)<=8) %>%
   arrange(OriginalReadCode) %>%
@@ -60,11 +59,11 @@ cprd_aurum %>%
 
 # Find codes from terms
 cprd_aurum %>%
-  filter(str_detect(Term, "piat|endence|ddicti")) %>%
+  filter(str_detect(Term, "adhd|hyperact|attent")) %>%
   select(OriginalReadCode, Term) %>%
   filter(str_length(OriginalReadCode)<5) %>%
   arrange(OriginalReadCode) %>%
-  write.csv("dx.csv")
+  print(n=999)
 
 # Decode the codelist for checking
 cprd_aurum %>%
