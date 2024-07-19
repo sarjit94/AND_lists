@@ -1,8 +1,0 @@
-icd10code	description
-I10	essential (primary) hypertension
-I11	hypertensive heart disease
-I11.0	hypertensive heart disease with (congestive) heart failure
-I11.9	hypertensive heart disease without (congestive) heart failure
-I12	hypertensive renal disease
-I12.0	hypertensive renal disease with renal failure
-I12.9	hypertensive renal disease without renal failure
