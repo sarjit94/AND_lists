@@ -84,17 +84,17 @@ cprd_aurum %>%
 
 cprd_aurum %>%
   filter(str_starts(read_new, "6A61|8BPT|9Ngp|9Ol8|9Ol9|9OlA|E2E|Eu90|Eu9y7")) %>%
-  select(CleansedReadCode, read_new, Term) %>%
   # filter(str_length(OriginalReadCode)<=4) %>%
   filter(str_ends(CleansedReadCode, "00")) %>%
-  select(read_new, Term) %>%
-  arrange(read_new) %>%
+  mutate(read_code = str_sub(CleansedReadCode,1,5)) %>% 
+  select(read_code, Term) %>%
+  arrange(read_code) %>%
   print(n=999) 
 
 
 
 
-  write.csv("dx.csv")
+  write.csv("export.csv")
   
   
   

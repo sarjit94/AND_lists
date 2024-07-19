@@ -45,8 +45,26 @@ biobank_read_lookup %>%
   print(n=999)
 
 
+codelist_checking <- biobank_read_lookup %>%
+  filter(str_starts(read_new, "dw|db|dz|dc1")) %>%
+  # filter(str_length(read_new) <= 5) %>%
+  arrange(read_new) %>%
+  select(read_new, term_description) %>% 
+  pull(read_new)
+
 # Decode the codelist for checking
 biobank_read_lookup %>%
   filter(read_new %in% func_remove_subcodes2(codelist_checking)) %>%
   select(read_new, term_description) %>%
-  print(n=999)
+  print(n=999) 
+  
+  
+  
+biobank_read_lookup %>%
+  filter(str_starts(read_new, "dw|db|dz|dc1")) %>%
+  # filter(str_length(read_new) <= 5) %>%
+  select(read_code, term_description) %>%
+  arrange(read_code) %>%
+
+  write_csv("export.csv")
+

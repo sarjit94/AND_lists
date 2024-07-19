@@ -1,0 +1,111 @@
+read_code,term_description
+db...,WEAK CENTRAL NERVOUS SYSTEM STIMULANTS
+db1..,*PEMOLINE
+db11.,*VOLITAL 20mg tablets
+db1z.,*PEMOLINE 20mg tablets
+db2..,WEAK CENTRAL NERVOUS SYSTEM STIMULANT + VITAMINS
+db21.,*VILLESCON tablets
+db22.,*VILLESCON liquid 150mL
+dc1..,DEXAMFETAMINE SULFATE
+dc11.,*DEXEDRINE 5mg tablets
+dc12.,*DUROPHET 7.5mg m/r capsules
+dc13.,*DUROPHET 12.5mg m/r capsules
+dc14.,*DUROPHET 20mg m/r capsules
+dc1v.,DEXAMFETAMINE SULFATE 1mg/mL oral solution
+dc1w.,DEXAMFETAMINE SULFATE 5mg tablets
+dc1x.,DEXAMPHETAMINE SULPHATE 7.5mg m/r capsules
+dc1y.,DEXAMPHETAMINE SULPHATE 12.5mg m/r capsules
+dc1z.,DEXAMPHETAMINE SULPHATE 20mg m/r capsules
+dw...,DRUGS USED TO TREAT HYPERACTIVITY DISORDERS
+dw1..,METHYLPHENIDATE
+dw11.,METHYLPHENIDATE HYDROCHLORIDE 10mg tablets
+dw12.,RITALIN 10mg tablets
+dw13.,*EQUASYM 5mg tablets
+dw14.,*EQUASYM 20mg tablets
+dw15.,*EQUASYM 10mg tablets
+dw16.,EQUASYM XL 20mg m/r capsules
+dw17.,CONCERTA XL 18mg m/r tablets
+dw18.,CONCERTA XL 36mg m/r tablets
+dw19.,*TRANQUILYN 5mg tablets
+dw1A.,*TRANQUILYN 10mg tablets
+dw1B.,*TRANQUILYN 20mg tablets
+dw1C.,EQUASYM XL 10mg m/r capsules
+dw1D.,EQUASYM XL 30mg m/r capsules
+dw1E.,MEDIKINET XL 10mg m/r capsules
+dw1F.,MEDIKINET XL 20mg m/r capsules
+dw1G.,MEDIKINET XL 30mg m/r capsules
+dw1H.,MEDIKINET XL 40mg m/r capsules
+dw1I.,CONCERTA XL 27mg m/r tablets
+dw1J.,MEDIKINET 5mg tablets
+dw1K.,MEDIKINET 10mg tablets
+dw1L.,MEDIKINET 20mg tablets
+dw1M.,MEDIKINET XL 5mg m/r capsules
+dw1N.,MEDIKINET XL 50mg m/r capsules
+dw1O.,MEDIKINET XL 60mg m/r capsules
+dw1P.,MATORIDE XL 18mg m/r tablets
+dw1Q.,MATORIDE XL 36mg m/r tablets
+dw1R.,MATORIDE XL 54mg m/r tablets
+dw1S.,XENIDATE XL 18mg m/r tablets
+dw1T.,XENIDATE XL 36mg m/r tablets
+dw1U.,CONCERTA XL 54mg m/r tablets
+dw1n.,METHYLPHENIDATE HYDROCHLORIDE 54mg m/r tablets
+dw1o.,METHYLPHENIDATE HYDROCHLORIDE 50mg m/r capsules
+dw1p.,METHYLPHENIDATE HYDROCHLORIDE 60mg m/r capsules
+dw1q.,METHYLPHENIDATE HYDROCHLORIDE 5mg m/r capsules
+dw1r.,METHYLPHENIDATE HYDROCHLORIDE 27mg m/r tablets
+dw1s.,METHYLPHENIDATE HYDROCHLORIDE 40mg m/r capsules
+dw1t.,METHYLPHENIDATE HYDROCHLORIDE 10mg m/r capsules
+dw1u.,METHYLPHENIDATE HYDROCHLORIDE 30mg m/r capsules
+dw1v.,METHYLPHENIDATE HYDROCHLORIDE 36mg m/r tablets
+dw1w.,METHYLPHENIDATE HYDROCHLORIDE 18mg m/r tablets
+dw1x.,METHYLPHENIDATE HYDROCHLORIDE 20mg m/r capsules
+dw1y.,METHYLPHENIDATE HYDROCHLORIDE 5mg tablets
+dw1z.,METHYLPHENIDATE HYDROCHLORIDE 20mg tablets
+dw2..,ATOMOXETINE
+dw21.,STRATTERA 10mg capsules
+dw22.,STRATTERA 18mg capsules
+dw23.,STRATTERA 25mg capsules
+dw24.,STRATTERA 40mg capsules
+dw25.,STRATTERA 60mg capsules
+dw26.,STRATTERA 80mg capsules
+dw27.,STRATTERA 100mg capsules
+dw28.,STRATTERA 4mg/mL oral solution
+dw2s.,ATOMOXETINE 4mg/mL oral solution
+dw2t.,ATOMOXETINE 100mg capsules
+dw2u.,ATOMOXETINE 80mg capsules
+dw2v.,ATOMOXETINE 60mg capsules
+dw2w.,ATOMOXETINE 40mg capsules
+dw2x.,ATOMOXETINE 25mg capsules
+dw2y.,ATOMOXETINE 18mg capsules
+dw2z.,ATOMOXETINE 10mg capsules
+dw3..,LISDEXAMFETAMINE
+dw31.,ELVANSE 30mg capsules
+dw32.,ELVANSE 50mg capsules
+dw33.,ELVANSE 70mg capsules
+dw34.,ELVANSE ADULT 30mg capsules
+dw35.,ELVANSE ADULT 50mg capsules
+dw36.,ELVANSE ADULT 70mg capsules
+dw37.,ELVANSE 20mg capsules
+dw38.,ELVANSE 40mg capsules
+dw39.,ELVANSE 60mg capsules
+dw3u.,LISDEXAMFETAMINE DIMESYLATE 60mg capsules
+dw3v.,LISDEXAMFETAMINE DIMESYLATE 40mg capsules
+dw3w.,LISDEXAMFETAMINE DIMESYLATE 20mg capsules
+dw3x.,LISDEXAMFETAMINE DIMESYLATE 70mg capsules
+dw3y.,LISDEXAMFETAMINE DIMESYLATE 50mg capsules
+dw3z.,LISDEXAMFETAMINE DIMESYLATE 30mg capsules
+dw4..,GUANFACINE
+dw41.,INTUNIV 1mg m/r tablets
+dw42.,GUANFACINE 1mg m/r tablets
+dw43.,INTUNIV 2mg m/r tablets
+dw44.,GUANFACINE 2mg m/r tablets
+dw45.,INTUNIV 3mg m/r tablets
+dw46.,GUANFACINE 3mg m/r tablets
+dw47.,INTUNIV 4mg m/r tablets
+dw48.,GUANFACINE 4mg m/r tablets
+dz...,OTHER CENTRAL NERVOUS SYSTEM STIMULANTS
+dz1..,MODAFINIL
+dz11.,MODAFINIL 100mg tablets
+dz12.,PROVIGIL 100mg tablets
+dz13.,MODAFINIL 200mg tablets
+dz14.,PROVIGIL 200mg tablets
