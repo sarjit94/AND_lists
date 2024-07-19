@@ -51,23 +51,33 @@ func_diag_tally(
 
 # Find terms from codes
 cprd_aurum %>%
-  filter(str_starts(OriginalReadCode, "E")) %>%
+  filter(str_starts(OriginalReadCode, "E2E")) %>%
   select(OriginalReadCode, Term) %>%
-  filter(str_length(OriginalReadCode)<=8) %>%
+  filter(str_length(OriginalReadCode)<=4) %>%
   arrange(OriginalReadCode) %>%
   print(n=999)
 
 # Find codes from terms
 cprd_aurum %>%
-  filter(str_detect(Term, "adhd|hyperact|attent|hyperkinet")) %>%
+  filter(str_detect(Term, regex("adhd|hyperact|attent|hyperkinet", ignore_case = TRUE))) %>%
   select(OriginalReadCode, Term) %>%
   filter(str_length(OriginalReadCode)<5) %>%
   arrange(OriginalReadCode) %>%
-  # write.csv("dx.csv")
   print(n=999) 
+
+# Find codes from terms
+codelist_checking <- cprd_aurum %>%
+  filter(str_detect(Term, regex("adhd|add|hyperact|Attent|hyperkinet", ignore_case = TRUE))) %>%
+  select(OriginalReadCode, Term) %>%
+  # filter(str_length(OriginalReadCode)<9) %>%
+  arrange(OriginalReadCode) %>%
+  pull(OriginalReadCode)
 
 # Decode the codelist for checking
 cprd_aurum %>%
   filter(read_new %in% func_remove_subcodes2(codelist_checking)) %>%
   select(read_new, Term) %>%
-  print(n=999)
+  arrange(read_new) %>%
+  print(n=999) 
+
+  write.csv("dx.csv")
