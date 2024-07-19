@@ -51,9 +51,9 @@ func_diag_tally(
 
 # Find terms from codes
 cprd_aurum %>%
-  filter(str_starts(OriginalReadCode, "E2E")) %>%
+  filter(str_starts(OriginalReadCode, "6A61|8BPT|9Ngp|9Ol8|9Ol9|9OlA|E2E|Eu90|Eu9y7")) %>%
   select(OriginalReadCode, Term) %>%
-  filter(str_length(OriginalReadCode)<=4) %>%
+  # filter(str_length(OriginalReadCode)<=4) %>%
   arrange(OriginalReadCode) %>%
   print(n=999)
 
@@ -80,4 +80,22 @@ cprd_aurum %>%
   arrange(read_new) %>%
   print(n=999) 
 
+
+
+cprd_aurum %>%
+  filter(str_starts(read_new, "6A61|8BPT|9Ngp|9Ol8|9Ol9|9OlA|E2E|Eu90|Eu9y7")) %>%
+  select(CleansedReadCode, read_new, Term) %>%
+  # filter(str_length(OriginalReadCode)<=4) %>%
+  filter(str_ends(CleansedReadCode, "00")) %>%
+  select(read_new, Term) %>%
+  arrange(read_new) %>%
+  print(n=999) 
+
+
+
+
   write.csv("dx.csv")
+  
+  
+  
+  
